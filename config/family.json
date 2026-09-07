@@ -1,0 +1,8 @@
+{
+  "side": "backend",
+  "packageName": "create-yss-harness-backend",
+  "profileId": "harness.backend-delivery",
+  "metadataFile": ".yss-harness-backend.json",
+  "templateName": "yss-harness-backend-agent",
+  "templateSource": "github:iloveZzz/yss-harness-backend-agent"
+}
