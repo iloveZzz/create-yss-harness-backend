@@ -2,7 +2,7 @@
 
 创建、接入和同步 `harness.backend-delivery` 的治理资产。CLI 包内包含固定模板与公共核心，init / attach / sync 离线运行。不会生成业务运行时代码。
 
-`0.2.0` 支持通用技术设计及 DDD/MVC 分支，保留后端专职边界；npm 发布状态以 registry 为准。本地验收可用 `npm pack` 后的 tgz 安装。
+源码候选版本：`0.2.2`。本版同步 Handoff v4、消费者反馈闭环与 committed-source 身份，保留后端专职边界；npm 发布状态以 registry 为准。本地验收可用 `npm pack` 后的 tgz 安装。
 
 ```sh
 npx create-yss-harness-backend@latest init --target-dir ./my-project --project-name 我的项目
@@ -25,4 +25,4 @@ JSON 协议版本 1：成功返回 `preview`、`applied`、`recovered`；错误�
 
 维护：先固定综合模板 core 与专职模板提交，运行 `pnpm sync-core <source-repo> <commit>` 和 `pnpm sync-template <source-repo> <commit>`，加 `--check` 只核验。`pnpm test` 完成后依次 `pnpm verify-bundle`、`npm pack` 和干净目录安装验收。来源锁和 blob 编码随包携带；不要手改生成文件。
 
-公共核心 `0.1.1` 在 sync / attach 中保留已有 `CONTEXT.md`，包括 `--force`；缺失时才初始化。业务词汇的更新由项目自己的对账流程处理。
+公共核心 `0.1.2` 在 sync / attach 中保留已有 `CONTEXT.md`，包括 `--force`；缺失时才初始化，并记录 core/template 来源状态。业务词汇的更新由项目自己的对账流程处理。
