@@ -1,6 +1,6 @@
 {
   "name": "create-yss-harness-backend",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "创建和同步 YSS backend 专职 Harness 治理项目",
   "type": "module",
   "license": "UNLICENSED",
@@ -29,6 +29,7 @@
     "sync-template": "node scripts/sync-template.mjs",
     "verify-bundle": "node scripts/verify-bundle.mjs",
     "test": "node --test tests/*.test.mjs",
+    "test:prepared": "node --test tests/*.test.mjs",
     "prepack": "node scripts/verify-bundle.mjs"
   }
 }
