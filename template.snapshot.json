@@ -6,7 +6,7 @@
   "metadataFile": ".yss-harness-backend.json",
   "templateName": "yss-harness-backend-agent",
   "templateSource": "github:iloveZzz/yss-harness-backend-agent",
-  "templateCommit": "a61b6e3769fcb3559a6a6645a80f049822be83d4",
+  "templateCommit": "05e8a351e0039d381895df2e76afd9ca81fdf4ee",
   "sourceState": "committed",
   "manifestHash": "85d99d140544d30a016cca23ebb166bd57e26debbc76cf403447d0d880d89f26",
   "files": {
@@ -1398,9 +1398,9 @@
     },
     ".agents/skills/harness-orchestrator/SKILL.md": {
       "type": "file",
-      "digest": "b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492",
+      "digest": "34a5f52f40294f27b592d67fe82d21bc7563c35934df290df02b79747043d534",
       "mode": 420,
-      "blob": "blobs/b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492"
+      "blob": "blobs/34a5f52f40294f27b592d67fe82d21bc7563c35934df290df02b79747043d534"
     },
     ".agents/skills/harness-orchestrator/agents/openai.yaml": {
       "type": "file",
@@ -1410,9 +1410,9 @@
     },
     ".agents/skills/harness-orchestrator/references/orchestration-contract.yaml": {
       "type": "file",
-      "digest": "9142a300326e0eabf5e16a7e336a1a657255c39e0fa08199229d5696cc5d4572",
+      "digest": "2036d8e108af41fcdb8a8ab311171a7c9d7056b9649274d04c52b9d49a880008",
       "mode": 420,
-      "blob": "blobs/9142a300326e0eabf5e16a7e336a1a657255c39e0fa08199229d5696cc5d4572"
+      "blob": "blobs/2036d8e108af41fcdb8a8ab311171a7c9d7056b9649274d04c52b9d49a880008"
     },
     ".agents/skills/i-have-adhd/LICENSE": {
       "type": "file",
@@ -2148,9 +2148,9 @@
     },
     ".agents/skills/yss-ddd-scaffold-generator/SKILL.md": {
       "type": "file",
-      "digest": "7c93828f9cc8e13912be5a5563303e5a8e6baba70e5d925742dcec09b41a1a3a",
+      "digest": "84bb091db9a537e90d8ab8afd1f0cf8e41e4b966903403af5ce80489641576f1",
       "mode": 420,
-      "blob": "blobs/7c93828f9cc8e13912be5a5563303e5a8e6baba70e5d925742dcec09b41a1a3a"
+      "blob": "blobs/84bb091db9a537e90d8ab8afd1f0cf8e41e4b966903403af5ce80489641576f1"
     },
     ".agents/skills/yss-ddd-scaffold-generator/agents/openai.yaml": {
       "type": "file",
@@ -2286,63 +2286,21 @@
     },
     ".agents/skills/yss-ddd-scaffold-generator/references/USAGE_EXAMPLES.md": {
       "type": "file",
-      "digest": "cfdc158a715bc9be2c77c6fbfdf30179ee8f20a581c1b54bdf95faae7cdf855d",
+      "digest": "7c9a6d9e0ce40d609a45d3fe019a5a549d3626fd5069a2a6f6bb23809294f431",
       "mode": 420,
-      "blob": "blobs/cfdc158a715bc9be2c77c6fbfdf30179ee8f20a581c1b54bdf95faae7cdf855d"
+      "blob": "blobs/7c9a6d9e0ce40d609a45d3fe019a5a549d3626fd5069a2a6f6bb23809294f431"
     },
-    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/SKILL.md": {
+    ".agents/skills/yss-ddd-scaffold-generator/references/layer-skill-routing.md": {
       "type": "file",
-      "digest": "515297998ff0086028bf34c5ee09308fea6c59e292bac5aad81ad83e80202a1e",
+      "digest": "3fd69baff3c046d02af5aabffc83e40eb1100845337c0eb79f1b29c291e316ba",
       "mode": 420,
-      "blob": "blobs/515297998ff0086028bf34c5ee09308fea6c59e292bac5aad81ad83e80202a1e"
-    },
-    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/agents/openai.yaml": {
-      "type": "file",
-      "digest": "ef33ca2d81cb826d7b772c967ae9669b1a7e7ab95ecc9340939779a619a16d5f",
-      "mode": 420,
-      "blob": "blobs/ef33ca2d81cb826d7b772c967ae9669b1a7e7ab95ecc9340939779a619a16d5f"
-    },
-    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/SKILL.md": {
-      "type": "file",
-      "digest": "d6d7c8d091a81f8e34ec9f1d8ae6db4cf76007b6e9ba9e798fbe793216c7368f",
-      "mode": 420,
-      "blob": "blobs/d6d7c8d091a81f8e34ec9f1d8ae6db4cf76007b6e9ba9e798fbe793216c7368f"
-    },
-    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/agents/openai.yaml": {
-      "type": "file",
-      "digest": "76396e3684a88a9c4c9cab7f605df45f1b6c2213a2c9cb0d46f77776840c10dc",
-      "mode": 420,
-      "blob": "blobs/76396e3684a88a9c4c9cab7f605df45f1b6c2213a2c9cb0d46f77776840c10dc"
-    },
-    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/SKILL.md": {
-      "type": "file",
-      "digest": "5f15a5c5ece078f4edb56b6518374d71d0e23870ee37232fd518cebe9afdfd98",
-      "mode": 420,
-      "blob": "blobs/5f15a5c5ece078f4edb56b6518374d71d0e23870ee37232fd518cebe9afdfd98"
-    },
-    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/agents/openai.yaml": {
-      "type": "file",
-      "digest": "efa65c101909951b400a439348d569fb4731e58b5c6d9fc27aa3b896732a948c",
-      "mode": 420,
-      "blob": "blobs/efa65c101909951b400a439348d569fb4731e58b5c6d9fc27aa3b896732a948c"
-    },
-    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/SKILL.md": {
-      "type": "file",
-      "digest": "ef626c97b446b116948c73154c3f63742e4f51eb21c786d58f255906d7793ecc",
-      "mode": 420,
-      "blob": "blobs/ef626c97b446b116948c73154c3f63742e4f51eb21c786d58f255906d7793ecc"
-    },
-    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/agents/openai.yaml": {
-      "type": "file",
-      "digest": "59535593b57b6bffaea9c66afb89a9166d02175f9f23bfd3b0d0995569a05afb",
-      "mode": 420,
-      "blob": "blobs/59535593b57b6bffaea9c66afb89a9166d02175f9f23bfd3b0d0995569a05afb"
+      "blob": "blobs/3fd69baff3c046d02af5aabffc83e40eb1100845337c0eb79f1b29c291e316ba"
     },
     ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-parent/SKILL.md": {
       "type": "file",
-      "digest": "10cca120a2181f3dd304b848518f6466e0df2631c4872cd112988afc45389117",
+      "digest": "899d495874ef8b38cb2966c7e8ff6328702c523937f90d036b38d8d383f914c6",
       "mode": 420,
-      "blob": "blobs/10cca120a2181f3dd304b848518f6466e0df2631c4872cd112988afc45389117"
+      "blob": "blobs/899d495874ef8b38cb2966c7e8ff6328702c523937f90d036b38d8d383f914c6"
     },
     ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-parent/agents/openai.yaml": {
       "type": "file",
@@ -2350,23 +2308,11 @@
       "mode": 420,
       "blob": "blobs/bc6fe0282bdb37374825e8e336549268452d4764254cfbc37fa263b7e2ef1533"
     },
-    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/SKILL.md": {
-      "type": "file",
-      "digest": "7a7b982ebc95142d2ee9293175a9829d9b8e21a9bef36308f418df248c630e6f",
-      "mode": 420,
-      "blob": "blobs/7a7b982ebc95142d2ee9293175a9829d9b8e21a9bef36308f418df248c630e6f"
-    },
-    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/agents/openai.yaml": {
-      "type": "file",
-      "digest": "6705f6ec55318546ede350d247ec2fe1cee1b00ae58b93cd40e45dd7146e263f",
-      "mode": 420,
-      "blob": "blobs/6705f6ec55318546ede350d247ec2fe1cee1b00ae58b93cd40e45dd7146e263f"
-    },
     ".agents/skills/yss-ddd-scaffold-generator/scripts/first-slice-compatibility.test.mjs": {
       "type": "file",
-      "digest": "a374cf0222c59bceb31cea0150ad390dbf64c81150007505de6f59362ee96681",
+      "digest": "47f2641ee5ac6afa1782955e6988d411ccf9746dc8a6e8ba0dd11497305d9fc5",
       "mode": 420,
-      "blob": "blobs/a374cf0222c59bceb31cea0150ad390dbf64c81150007505de6f59362ee96681"
+      "blob": "blobs/47f2641ee5ac6afa1782955e6988d411ccf9746dc8a6e8ba0dd11497305d9fc5"
     },
     ".agents/skills/yss-ddd-scaffold-generator/scripts/first-slice-verification.test.mjs": {
       "type": "file",
@@ -2382,27 +2328,27 @@
     },
     ".agents/skills/yss-ddd-scaffold-generator/scripts/generate_scaffold.mjs": {
       "type": "file",
-      "digest": "afcf6e12f7615fbb5204ff3c9ac907a963b24af484b73ed3dbbcf18715cac164",
-      "mode": 420,
-      "blob": "blobs/afcf6e12f7615fbb5204ff3c9ac907a963b24af484b73ed3dbbcf18715cac164"
+      "digest": "1e655e4bdeab14c1f406fd2a5ce8782f4eb418838f03fcb0946a9e3e159e45bc",
+      "mode": 493,
+      "blob": "blobs/1e655e4bdeab14c1f406fd2a5ce8782f4eb418838f03fcb0946a9e3e159e45bc"
     },
     ".agents/skills/yss-ddd-scaffold-generator/scripts/run_first_slice_verification.mjs": {
       "type": "file",
-      "digest": "a92466818515979ae0ff82b5c2a6a89e2197a113f5307b80bc2e352bf112ad75",
+      "digest": "e2861e973f9d3c237a16fe91cd33693a4699e0c01c723723c360c578170cc7db",
       "mode": 420,
-      "blob": "blobs/a92466818515979ae0ff82b5c2a6a89e2197a113f5307b80bc2e352bf112ad75"
+      "blob": "blobs/e2861e973f9d3c237a16fe91cd33693a4699e0c01c723723c360c578170cc7db"
     },
     ".agents/skills/yss-ddd-scaffold-generator/scripts/run_scaffold_verification.mjs": {
       "type": "file",
-      "digest": "c4efaaf5b6a9af829c4f8638e62821e93084947ebc674e8c762d148594385f13",
+      "digest": "2290922a7cd439a0794ea3c2da92e47eaebc6035b92ebda514bf72e9ea48abc1",
       "mode": 420,
-      "blob": "blobs/c4efaaf5b6a9af829c4f8638e62821e93084947ebc674e8c762d148594385f13"
+      "blob": "blobs/2290922a7cd439a0794ea3c2da92e47eaebc6035b92ebda514bf72e9ea48abc1"
     },
     ".agents/skills/yss-ddd-scaffold-generator/scripts/scaffold-generator.test.mjs": {
       "type": "file",
-      "digest": "5b53339d10acc2ee2e39bb3cc26fd8ed24ed9aa9532e3d779b64b58f347a918e",
+      "digest": "9a125ddc86bbccc3a0d14d6f0467aae87e13a1a456deecb64e1367ff91590170",
       "mode": 420,
-      "blob": "blobs/5b53339d10acc2ee2e39bb3cc26fd8ed24ed9aa9532e3d779b64b58f347a918e"
+      "blob": "blobs/9a125ddc86bbccc3a0d14d6f0467aae87e13a1a456deecb64e1367ff91590170"
     },
     ".agents/skills/yss-distributed-id/SKILL.md": {
       "type": "file",
@@ -2592,9 +2538,9 @@
     },
     ".agents/skills/yss-implementation-contract-compiler/SKILL.md": {
       "type": "file",
-      "digest": "907cf2ecc07c716b4e448d9f3380906bf153cb7c561fc0c42589eac46a0c7367",
+      "digest": "4cff1bc44c2e564bbaa85637cdaf39f9030d88da4341f1ee771fde89a42e97d3",
       "mode": 420,
-      "blob": "blobs/907cf2ecc07c716b4e448d9f3380906bf153cb7c561fc0c42589eac46a0c7367"
+      "blob": "blobs/4cff1bc44c2e564bbaa85637cdaf39f9030d88da4341f1ee771fde89a42e97d3"
     },
     ".agents/skills/yss-implementation-contract-compiler/agents/openai.yaml": {
       "type": "file",
@@ -2610,9 +2556,9 @@
     },
     ".agents/skills/yss-implementation-contract-compiler/references/compiler-contract.yaml": {
       "type": "file",
-      "digest": "3d670fcbce6baf0999652939f1f8823e64cb557df0d7dd9db348cca6764cd370",
+      "digest": "3b49e9c74a63077f53d6cfcb6bd1a312b5fa014aaa62f40ddccc898972d33993",
       "mode": 420,
-      "blob": "blobs/3d670fcbce6baf0999652939f1f8823e64cb557df0d7dd9db348cca6764cd370"
+      "blob": "blobs/3b49e9c74a63077f53d6cfcb6bd1a312b5fa014aaa62f40ddccc898972d33993"
     },
     ".agents/skills/yss-implementation-contract-compiler/references/slice-implementation-contract.md": {
       "type": "file",
@@ -2640,15 +2586,15 @@
     },
     ".agents/skills/yss-layered-mvc-scaffold-generator/SKILL.md": {
       "type": "file",
-      "digest": "faadece53343727d6b5f669f960b2bb0cda57d2d67ffb17d2cc0f67fb5c2261d",
+      "digest": "c9901a96e7e0d9f8f83dda569b7c30d809eab6a9892ead951a58acebcd8302cd",
       "mode": 420,
-      "blob": "blobs/faadece53343727d6b5f669f960b2bb0cda57d2d67ffb17d2cc0f67fb5c2261d"
+      "blob": "blobs/c9901a96e7e0d9f8f83dda569b7c30d809eab6a9892ead951a58acebcd8302cd"
     },
     ".agents/skills/yss-layered-mvc-scaffold-generator/agents/openai.yaml": {
       "type": "file",
-      "digest": "b15324c5835884b6d476da6a9c890b8777d8da7270be113a890600a65fea6ea9",
+      "digest": "874d683b7a6231300eeb4306eb529e82b92dc25563d4d62bc18a7b1f8070b2da",
       "mode": 420,
-      "blob": "blobs/b15324c5835884b6d476da6a9c890b8777d8da7270be113a890600a65fea6ea9"
+      "blob": "blobs/874d683b7a6231300eeb4306eb529e82b92dc25563d4d62bc18a7b1f8070b2da"
     },
     ".agents/skills/yss-layered-mvc-scaffold-generator/references/architecture.md": {
       "type": "file",
@@ -2664,33 +2610,33 @@
     },
     ".agents/skills/yss-layered-mvc-scaffold-generator/scripts/generate_scaffold.mjs": {
       "type": "file",
-      "digest": "be52ecb41ea601e8150359e8d7e7701f9f39157ab70ba0279d6fdd9e7f991d31",
+      "digest": "eb4f76da5dc029031f0954cfe353a224d17d1c128bb55fc87662e3cc696fd374",
       "mode": 493,
-      "blob": "blobs/be52ecb41ea601e8150359e8d7e7701f9f39157ab70ba0279d6fdd9e7f991d31"
+      "blob": "blobs/eb4f76da5dc029031f0954cfe353a224d17d1c128bb55fc87662e3cc696fd374"
     },
     ".agents/skills/yss-layered-mvc-scaffold-generator/scripts/run_scaffold_verification.mjs": {
       "type": "file",
-      "digest": "9fcf1de96936c47c693bdd9da2b181504358cfb604a0646475779fec5eb584a3",
+      "digest": "548d8b5c9bfa0b7e09420ba23d6a3025b98c5fac334006bbbed4385bb930675e",
       "mode": 493,
-      "blob": "blobs/9fcf1de96936c47c693bdd9da2b181504358cfb604a0646475779fec5eb584a3"
+      "blob": "blobs/548d8b5c9bfa0b7e09420ba23d6a3025b98c5fac334006bbbed4385bb930675e"
     },
     ".agents/skills/yss-layered-mvc-scaffold-generator/scripts/scaffold-generator.test.mjs": {
       "type": "file",
-      "digest": "039affa62d7d07d7381135408ee81570396061d53908a8d57869f4177295cb89",
-      "mode": 493,
-      "blob": "blobs/039affa62d7d07d7381135408ee81570396061d53908a8d57869f4177295cb89"
+      "digest": "f5f1866ec4b3e1b6472a035578874d56124013cea04c03d28a65d17c539e2fc0",
+      "mode": 420,
+      "blob": "blobs/f5f1866ec4b3e1b6472a035578874d56124013cea04c03d28a65d17c539e2fc0"
     },
     ".agents/skills/yss-mvc-data-analysis-project-initializer/SKILL.md": {
       "type": "file",
-      "digest": "b0ee0b87a975e1d560b3d539ffa59a1fd1c06cfde8b7fe02149667c46814ecf9",
+      "digest": "90dc6a2ffec4112a5bbff822b9e319485e8269f4460a7734691c23aabcbad067",
       "mode": 420,
-      "blob": "blobs/b0ee0b87a975e1d560b3d539ffa59a1fd1c06cfde8b7fe02149667c46814ecf9"
+      "blob": "blobs/90dc6a2ffec4112a5bbff822b9e319485e8269f4460a7734691c23aabcbad067"
     },
     ".agents/skills/yss-mvc-data-analysis-project-initializer/scripts/generate_project.mjs": {
       "type": "file",
-      "digest": "08532f0b81d7e4f3530690504aaf56dc907aee270f9058353cc8b14634dbaedb",
-      "mode": 420,
-      "blob": "blobs/08532f0b81d7e4f3530690504aaf56dc907aee270f9058353cc8b14634dbaedb"
+      "digest": "88cbccc115487acc7c9854c57c9c558e6533f5c72dfad5113eb8698cc8dd0cb9",
+      "mode": 493,
+      "blob": "blobs/88cbccc115487acc7c9854c57c9c558e6533f5c72dfad5113eb8698cc8dd0cb9"
     },
     ".agents/skills/yss-mvc-data-analysis-project-initializer/scripts/run_scaffold_verification.mjs": {
       "type": "file",
@@ -2772,9 +2718,9 @@
     },
     ".agents/skills/yss-openapi-governance/SKILL.md": {
       "type": "file",
-      "digest": "dfce104838750a0afda9348e9c1d550c5ad4415fb9ff73dffcec5479be15882c",
+      "digest": "dea229e60364b2dfc4dab3dddcdc64d5d0d331a53268146a1839542cdc828345",
       "mode": 420,
-      "blob": "blobs/dfce104838750a0afda9348e9c1d550c5ad4415fb9ff73dffcec5479be15882c"
+      "blob": "blobs/dea229e60364b2dfc4dab3dddcdc64d5d0d331a53268146a1839542cdc828345"
     },
     ".agents/skills/yss-openapi-governance/agents/openai.yaml": {
       "type": "file",
@@ -3228,15 +3174,15 @@
     },
     ".agents/skills/yss-web-controller/scripts/generate_controller.mjs": {
       "type": "file",
-      "digest": "fc2af1b08b947c0d383a424e13fba455280dc746a97a61837890f485a14e4034",
+      "digest": "2a6e42ff70088b67af597a3c0fce6a4d77706388c4eeff075efa141b49cdc782",
       "mode": 420,
-      "blob": "blobs/fc2af1b08b947c0d383a424e13fba455280dc746a97a61837890f485a14e4034"
+      "blob": "blobs/2a6e42ff70088b67af597a3c0fce6a4d77706388c4eeff075efa141b49cdc782"
     },
     ".agents/skills/yss-web-controller/scripts/generate_controller.test.mjs": {
       "type": "file",
-      "digest": "3e63fdb95276a81916110766aca34945b7ff75d63d78b0350c2b9bb25aa5a0b1",
+      "digest": "f7ddeeb135a37d74d072badbb933df1e10593c73baf072113cfa2725bea8f07c",
       "mode": 420,
-      "blob": "blobs/3e63fdb95276a81916110766aca34945b7ff75d63d78b0350c2b9bb25aa5a0b1"
+      "blob": "blobs/f7ddeeb135a37d74d072badbb933df1e10593c73baf072113cfa2725bea8f07c"
     },
     ".codex/config.toml": {
       "type": "file",
@@ -4620,9 +4566,9 @@
     },
     ".codex/skills/harness-orchestrator/SKILL.md": {
       "type": "file",
-      "digest": "b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492",
+      "digest": "34a5f52f40294f27b592d67fe82d21bc7563c35934df290df02b79747043d534",
       "mode": 420,
-      "blob": "blobs/b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492"
+      "blob": "blobs/34a5f52f40294f27b592d67fe82d21bc7563c35934df290df02b79747043d534"
     },
     ".codex/skills/harness-orchestrator/agents/openai.yaml": {
       "type": "file",
@@ -4632,9 +4578,9 @@
     },
     ".codex/skills/harness-orchestrator/references/orchestration-contract.yaml": {
       "type": "file",
-      "digest": "9142a300326e0eabf5e16a7e336a1a657255c39e0fa08199229d5696cc5d4572",
+      "digest": "2036d8e108af41fcdb8a8ab311171a7c9d7056b9649274d04c52b9d49a880008",
       "mode": 420,
-      "blob": "blobs/9142a300326e0eabf5e16a7e336a1a657255c39e0fa08199229d5696cc5d4572"
+      "blob": "blobs/2036d8e108af41fcdb8a8ab311171a7c9d7056b9649274d04c52b9d49a880008"
     },
     ".codex/skills/i-have-adhd/LICENSE": {
       "type": "file",
@@ -5370,9 +5316,9 @@
     },
     ".codex/skills/yss-ddd-scaffold-generator/SKILL.md": {
       "type": "file",
-      "digest": "7c93828f9cc8e13912be5a5563303e5a8e6baba70e5d925742dcec09b41a1a3a",
+      "digest": "84bb091db9a537e90d8ab8afd1f0cf8e41e4b966903403af5ce80489641576f1",
       "mode": 420,
-      "blob": "blobs/7c93828f9cc8e13912be5a5563303e5a8e6baba70e5d925742dcec09b41a1a3a"
+      "blob": "blobs/84bb091db9a537e90d8ab8afd1f0cf8e41e4b966903403af5ce80489641576f1"
     },
     ".codex/skills/yss-ddd-scaffold-generator/agents/openai.yaml": {
       "type": "file",
@@ -5508,63 +5454,21 @@
     },
     ".codex/skills/yss-ddd-scaffold-generator/references/USAGE_EXAMPLES.md": {
       "type": "file",
-      "digest": "cfdc158a715bc9be2c77c6fbfdf30179ee8f20a581c1b54bdf95faae7cdf855d",
+      "digest": "7c9a6d9e0ce40d609a45d3fe019a5a549d3626fd5069a2a6f6bb23809294f431",
       "mode": 420,
-      "blob": "blobs/cfdc158a715bc9be2c77c6fbfdf30179ee8f20a581c1b54bdf95faae7cdf855d"
+      "blob": "blobs/7c9a6d9e0ce40d609a45d3fe019a5a549d3626fd5069a2a6f6bb23809294f431"
     },
-    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/SKILL.md": {
+    ".codex/skills/yss-ddd-scaffold-generator/references/layer-skill-routing.md": {
       "type": "file",
-      "digest": "515297998ff0086028bf34c5ee09308fea6c59e292bac5aad81ad83e80202a1e",
+      "digest": "3fd69baff3c046d02af5aabffc83e40eb1100845337c0eb79f1b29c291e316ba",
       "mode": 420,
-      "blob": "blobs/515297998ff0086028bf34c5ee09308fea6c59e292bac5aad81ad83e80202a1e"
-    },
-    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/agents/openai.yaml": {
-      "type": "file",
-      "digest": "ef33ca2d81cb826d7b772c967ae9669b1a7e7ab95ecc9340939779a619a16d5f",
-      "mode": 420,
-      "blob": "blobs/ef33ca2d81cb826d7b772c967ae9669b1a7e7ab95ecc9340939779a619a16d5f"
-    },
-    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/SKILL.md": {
-      "type": "file",
-      "digest": "d6d7c8d091a81f8e34ec9f1d8ae6db4cf76007b6e9ba9e798fbe793216c7368f",
-      "mode": 420,
-      "blob": "blobs/d6d7c8d091a81f8e34ec9f1d8ae6db4cf76007b6e9ba9e798fbe793216c7368f"
-    },
-    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/agents/openai.yaml": {
-      "type": "file",
-      "digest": "76396e3684a88a9c4c9cab7f605df45f1b6c2213a2c9cb0d46f77776840c10dc",
-      "mode": 420,
-      "blob": "blobs/76396e3684a88a9c4c9cab7f605df45f1b6c2213a2c9cb0d46f77776840c10dc"
-    },
-    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/SKILL.md": {
-      "type": "file",
-      "digest": "5f15a5c5ece078f4edb56b6518374d71d0e23870ee37232fd518cebe9afdfd98",
-      "mode": 420,
-      "blob": "blobs/5f15a5c5ece078f4edb56b6518374d71d0e23870ee37232fd518cebe9afdfd98"
-    },
-    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/agents/openai.yaml": {
-      "type": "file",
-      "digest": "efa65c101909951b400a439348d569fb4731e58b5c6d9fc27aa3b896732a948c",
-      "mode": 420,
-      "blob": "blobs/efa65c101909951b400a439348d569fb4731e58b5c6d9fc27aa3b896732a948c"
-    },
-    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/SKILL.md": {
-      "type": "file",
-      "digest": "ef626c97b446b116948c73154c3f63742e4f51eb21c786d58f255906d7793ecc",
-      "mode": 420,
-      "blob": "blobs/ef626c97b446b116948c73154c3f63742e4f51eb21c786d58f255906d7793ecc"
-    },
-    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/agents/openai.yaml": {
-      "type": "file",
-      "digest": "59535593b57b6bffaea9c66afb89a9166d02175f9f23bfd3b0d0995569a05afb",
-      "mode": 420,
-      "blob": "blobs/59535593b57b6bffaea9c66afb89a9166d02175f9f23bfd3b0d0995569a05afb"
+      "blob": "blobs/3fd69baff3c046d02af5aabffc83e40eb1100845337c0eb79f1b29c291e316ba"
     },
     ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-parent/SKILL.md": {
       "type": "file",
-      "digest": "10cca120a2181f3dd304b848518f6466e0df2631c4872cd112988afc45389117",
+      "digest": "899d495874ef8b38cb2966c7e8ff6328702c523937f90d036b38d8d383f914c6",
       "mode": 420,
-      "blob": "blobs/10cca120a2181f3dd304b848518f6466e0df2631c4872cd112988afc45389117"
+      "blob": "blobs/899d495874ef8b38cb2966c7e8ff6328702c523937f90d036b38d8d383f914c6"
     },
     ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-parent/agents/openai.yaml": {
       "type": "file",
@@ -5572,23 +5476,11 @@
       "mode": 420,
       "blob": "blobs/bc6fe0282bdb37374825e8e336549268452d4764254cfbc37fa263b7e2ef1533"
     },
-    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/SKILL.md": {
-      "type": "file",
-      "digest": "7a7b982ebc95142d2ee9293175a9829d9b8e21a9bef36308f418df248c630e6f",
-      "mode": 420,
-      "blob": "blobs/7a7b982ebc95142d2ee9293175a9829d9b8e21a9bef36308f418df248c630e6f"
-    },
-    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/agents/openai.yaml": {
-      "type": "file",
-      "digest": "6705f6ec55318546ede350d247ec2fe1cee1b00ae58b93cd40e45dd7146e263f",
-      "mode": 420,
-      "blob": "blobs/6705f6ec55318546ede350d247ec2fe1cee1b00ae58b93cd40e45dd7146e263f"
-    },
     ".codex/skills/yss-ddd-scaffold-generator/scripts/first-slice-compatibility.test.mjs": {
       "type": "file",
-      "digest": "a374cf0222c59bceb31cea0150ad390dbf64c81150007505de6f59362ee96681",
+      "digest": "47f2641ee5ac6afa1782955e6988d411ccf9746dc8a6e8ba0dd11497305d9fc5",
       "mode": 420,
-      "blob": "blobs/a374cf0222c59bceb31cea0150ad390dbf64c81150007505de6f59362ee96681"
+      "blob": "blobs/47f2641ee5ac6afa1782955e6988d411ccf9746dc8a6e8ba0dd11497305d9fc5"
     },
     ".codex/skills/yss-ddd-scaffold-generator/scripts/first-slice-verification.test.mjs": {
       "type": "file",
@@ -5604,27 +5496,27 @@
     },
     ".codex/skills/yss-ddd-scaffold-generator/scripts/generate_scaffold.mjs": {
       "type": "file",
-      "digest": "afcf6e12f7615fbb5204ff3c9ac907a963b24af484b73ed3dbbcf18715cac164",
-      "mode": 420,
-      "blob": "blobs/afcf6e12f7615fbb5204ff3c9ac907a963b24af484b73ed3dbbcf18715cac164"
+      "digest": "1e655e4bdeab14c1f406fd2a5ce8782f4eb418838f03fcb0946a9e3e159e45bc",
+      "mode": 493,
+      "blob": "blobs/1e655e4bdeab14c1f406fd2a5ce8782f4eb418838f03fcb0946a9e3e159e45bc"
     },
     ".codex/skills/yss-ddd-scaffold-generator/scripts/run_first_slice_verification.mjs": {
       "type": "file",
-      "digest": "a92466818515979ae0ff82b5c2a6a89e2197a113f5307b80bc2e352bf112ad75",
+      "digest": "e2861e973f9d3c237a16fe91cd33693a4699e0c01c723723c360c578170cc7db",
       "mode": 420,
-      "blob": "blobs/a92466818515979ae0ff82b5c2a6a89e2197a113f5307b80bc2e352bf112ad75"
+      "blob": "blobs/e2861e973f9d3c237a16fe91cd33693a4699e0c01c723723c360c578170cc7db"
     },
     ".codex/skills/yss-ddd-scaffold-generator/scripts/run_scaffold_verification.mjs": {
       "type": "file",
-      "digest": "c4efaaf5b6a9af829c4f8638e62821e93084947ebc674e8c762d148594385f13",
+      "digest": "2290922a7cd439a0794ea3c2da92e47eaebc6035b92ebda514bf72e9ea48abc1",
       "mode": 420,
-      "blob": "blobs/c4efaaf5b6a9af829c4f8638e62821e93084947ebc674e8c762d148594385f13"
+      "blob": "blobs/2290922a7cd439a0794ea3c2da92e47eaebc6035b92ebda514bf72e9ea48abc1"
     },
     ".codex/skills/yss-ddd-scaffold-generator/scripts/scaffold-generator.test.mjs": {
       "type": "file",
-      "digest": "5b53339d10acc2ee2e39bb3cc26fd8ed24ed9aa9532e3d779b64b58f347a918e",
+      "digest": "9a125ddc86bbccc3a0d14d6f0467aae87e13a1a456deecb64e1367ff91590170",
       "mode": 420,
-      "blob": "blobs/5b53339d10acc2ee2e39bb3cc26fd8ed24ed9aa9532e3d779b64b58f347a918e"
+      "blob": "blobs/9a125ddc86bbccc3a0d14d6f0467aae87e13a1a456deecb64e1367ff91590170"
     },
     ".codex/skills/yss-distributed-id/SKILL.md": {
       "type": "file",
@@ -5814,9 +5706,9 @@
     },
     ".codex/skills/yss-implementation-contract-compiler/SKILL.md": {
       "type": "file",
-      "digest": "907cf2ecc07c716b4e448d9f3380906bf153cb7c561fc0c42589eac46a0c7367",
+      "digest": "4cff1bc44c2e564bbaa85637cdaf39f9030d88da4341f1ee771fde89a42e97d3",
       "mode": 420,
-      "blob": "blobs/907cf2ecc07c716b4e448d9f3380906bf153cb7c561fc0c42589eac46a0c7367"
+      "blob": "blobs/4cff1bc44c2e564bbaa85637cdaf39f9030d88da4341f1ee771fde89a42e97d3"
     },
     ".codex/skills/yss-implementation-contract-compiler/agents/openai.yaml": {
       "type": "file",
@@ -5832,9 +5724,9 @@
     },
     ".codex/skills/yss-implementation-contract-compiler/references/compiler-contract.yaml": {
       "type": "file",
-      "digest": "3d670fcbce6baf0999652939f1f8823e64cb557df0d7dd9db348cca6764cd370",
+      "digest": "3b49e9c74a63077f53d6cfcb6bd1a312b5fa014aaa62f40ddccc898972d33993",
       "mode": 420,
-      "blob": "blobs/3d670fcbce6baf0999652939f1f8823e64cb557df0d7dd9db348cca6764cd370"
+      "blob": "blobs/3b49e9c74a63077f53d6cfcb6bd1a312b5fa014aaa62f40ddccc898972d33993"
     },
     ".codex/skills/yss-implementation-contract-compiler/references/slice-implementation-contract.md": {
       "type": "file",
@@ -5862,15 +5754,15 @@
     },
     ".codex/skills/yss-layered-mvc-scaffold-generator/SKILL.md": {
       "type": "file",
-      "digest": "faadece53343727d6b5f669f960b2bb0cda57d2d67ffb17d2cc0f67fb5c2261d",
+      "digest": "c9901a96e7e0d9f8f83dda569b7c30d809eab6a9892ead951a58acebcd8302cd",
       "mode": 420,
-      "blob": "blobs/faadece53343727d6b5f669f960b2bb0cda57d2d67ffb17d2cc0f67fb5c2261d"
+      "blob": "blobs/c9901a96e7e0d9f8f83dda569b7c30d809eab6a9892ead951a58acebcd8302cd"
     },
     ".codex/skills/yss-layered-mvc-scaffold-generator/agents/openai.yaml": {
       "type": "file",
-      "digest": "b15324c5835884b6d476da6a9c890b8777d8da7270be113a890600a65fea6ea9",
+      "digest": "874d683b7a6231300eeb4306eb529e82b92dc25563d4d62bc18a7b1f8070b2da",
       "mode": 420,
-      "blob": "blobs/b15324c5835884b6d476da6a9c890b8777d8da7270be113a890600a65fea6ea9"
+      "blob": "blobs/874d683b7a6231300eeb4306eb529e82b92dc25563d4d62bc18a7b1f8070b2da"
     },
     ".codex/skills/yss-layered-mvc-scaffold-generator/references/architecture.md": {
       "type": "file",
@@ -5886,33 +5778,33 @@
     },
     ".codex/skills/yss-layered-mvc-scaffold-generator/scripts/generate_scaffold.mjs": {
       "type": "file",
-      "digest": "be52ecb41ea601e8150359e8d7e7701f9f39157ab70ba0279d6fdd9e7f991d31",
+      "digest": "eb4f76da5dc029031f0954cfe353a224d17d1c128bb55fc87662e3cc696fd374",
       "mode": 493,
-      "blob": "blobs/be52ecb41ea601e8150359e8d7e7701f9f39157ab70ba0279d6fdd9e7f991d31"
+      "blob": "blobs/eb4f76da5dc029031f0954cfe353a224d17d1c128bb55fc87662e3cc696fd374"
     },
     ".codex/skills/yss-layered-mvc-scaffold-generator/scripts/run_scaffold_verification.mjs": {
       "type": "file",
-      "digest": "9fcf1de96936c47c693bdd9da2b181504358cfb604a0646475779fec5eb584a3",
+      "digest": "548d8b5c9bfa0b7e09420ba23d6a3025b98c5fac334006bbbed4385bb930675e",
       "mode": 493,
-      "blob": "blobs/9fcf1de96936c47c693bdd9da2b181504358cfb604a0646475779fec5eb584a3"
+      "blob": "blobs/548d8b5c9bfa0b7e09420ba23d6a3025b98c5fac334006bbbed4385bb930675e"
     },
     ".codex/skills/yss-layered-mvc-scaffold-generator/scripts/scaffold-generator.test.mjs": {
       "type": "file",
-      "digest": "039affa62d7d07d7381135408ee81570396061d53908a8d57869f4177295cb89",
-      "mode": 493,
-      "blob": "blobs/039affa62d7d07d7381135408ee81570396061d53908a8d57869f4177295cb89"
+      "digest": "f5f1866ec4b3e1b6472a035578874d56124013cea04c03d28a65d17c539e2fc0",
+      "mode": 420,
+      "blob": "blobs/f5f1866ec4b3e1b6472a035578874d56124013cea04c03d28a65d17c539e2fc0"
     },
     ".codex/skills/yss-mvc-data-analysis-project-initializer/SKILL.md": {
       "type": "file",
-      "digest": "b0ee0b87a975e1d560b3d539ffa59a1fd1c06cfde8b7fe02149667c46814ecf9",
+      "digest": "90dc6a2ffec4112a5bbff822b9e319485e8269f4460a7734691c23aabcbad067",
       "mode": 420,
-      "blob": "blobs/b0ee0b87a975e1d560b3d539ffa59a1fd1c06cfde8b7fe02149667c46814ecf9"
+      "blob": "blobs/90dc6a2ffec4112a5bbff822b9e319485e8269f4460a7734691c23aabcbad067"
     },
     ".codex/skills/yss-mvc-data-analysis-project-initializer/scripts/generate_project.mjs": {
       "type": "file",
-      "digest": "08532f0b81d7e4f3530690504aaf56dc907aee270f9058353cc8b14634dbaedb",
-      "mode": 420,
-      "blob": "blobs/08532f0b81d7e4f3530690504aaf56dc907aee270f9058353cc8b14634dbaedb"
+      "digest": "88cbccc115487acc7c9854c57c9c558e6533f5c72dfad5113eb8698cc8dd0cb9",
+      "mode": 493,
+      "blob": "blobs/88cbccc115487acc7c9854c57c9c558e6533f5c72dfad5113eb8698cc8dd0cb9"
     },
     ".codex/skills/yss-mvc-data-analysis-project-initializer/scripts/run_scaffold_verification.mjs": {
       "type": "file",
@@ -5994,9 +5886,9 @@
     },
     ".codex/skills/yss-openapi-governance/SKILL.md": {
       "type": "file",
-      "digest": "dfce104838750a0afda9348e9c1d550c5ad4415fb9ff73dffcec5479be15882c",
+      "digest": "dea229e60364b2dfc4dab3dddcdc64d5d0d331a53268146a1839542cdc828345",
       "mode": 420,
-      "blob": "blobs/dfce104838750a0afda9348e9c1d550c5ad4415fb9ff73dffcec5479be15882c"
+      "blob": "blobs/dea229e60364b2dfc4dab3dddcdc64d5d0d331a53268146a1839542cdc828345"
     },
     ".codex/skills/yss-openapi-governance/agents/openai.yaml": {
       "type": "file",
@@ -6450,15 +6342,15 @@
     },
     ".codex/skills/yss-web-controller/scripts/generate_controller.mjs": {
       "type": "file",
-      "digest": "fc2af1b08b947c0d383a424e13fba455280dc746a97a61837890f485a14e4034",
+      "digest": "2a6e42ff70088b67af597a3c0fce6a4d77706388c4eeff075efa141b49cdc782",
       "mode": 420,
-      "blob": "blobs/fc2af1b08b947c0d383a424e13fba455280dc746a97a61837890f485a14e4034"
+      "blob": "blobs/2a6e42ff70088b67af597a3c0fce6a4d77706388c4eeff075efa141b49cdc782"
     },
     ".codex/skills/yss-web-controller/scripts/generate_controller.test.mjs": {
       "type": "file",
-      "digest": "3e63fdb95276a81916110766aca34945b7ff75d63d78b0350c2b9bb25aa5a0b1",
+      "digest": "f7ddeeb135a37d74d072badbb933df1e10593c73baf072113cfa2725bea8f07c",
       "mode": 420,
-      "blob": "blobs/3e63fdb95276a81916110766aca34945b7ff75d63d78b0350c2b9bb25aa5a0b1"
+      "blob": "blobs/f7ddeeb135a37d74d072badbb933df1e10593c73baf072113cfa2725bea8f07c"
     },
     ".cursor/skills/.yss-skills-manifest.json": {
       "type": "file",
@@ -7842,9 +7734,9 @@
     },
     ".cursor/skills/harness-orchestrator/SKILL.md": {
       "type": "file",
-      "digest": "b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492",
+      "digest": "34a5f52f40294f27b592d67fe82d21bc7563c35934df290df02b79747043d534",
       "mode": 420,
-      "blob": "blobs/b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492"
+      "blob": "blobs/34a5f52f40294f27b592d67fe82d21bc7563c35934df290df02b79747043d534"
     },
     ".cursor/skills/harness-orchestrator/agents/openai.yaml": {
       "type": "file",
@@ -7854,9 +7746,9 @@
     },
     ".cursor/skills/harness-orchestrator/references/orchestration-contract.yaml": {
       "type": "file",
-      "digest": "9142a300326e0eabf5e16a7e336a1a657255c39e0fa08199229d5696cc5d4572",
+      "digest": "2036d8e108af41fcdb8a8ab311171a7c9d7056b9649274d04c52b9d49a880008",
       "mode": 420,
-      "blob": "blobs/9142a300326e0eabf5e16a7e336a1a657255c39e0fa08199229d5696cc5d4572"
+      "blob": "blobs/2036d8e108af41fcdb8a8ab311171a7c9d7056b9649274d04c52b9d49a880008"
     },
     ".cursor/skills/i-have-adhd/LICENSE": {
       "type": "file",
@@ -8592,9 +8484,9 @@
     },
     ".cursor/skills/yss-ddd-scaffold-generator/SKILL.md": {
       "type": "file",
-      "digest": "7c93828f9cc8e13912be5a5563303e5a8e6baba70e5d925742dcec09b41a1a3a",
+      "digest": "84bb091db9a537e90d8ab8afd1f0cf8e41e4b966903403af5ce80489641576f1",
       "mode": 420,
-      "blob": "blobs/7c93828f9cc8e13912be5a5563303e5a8e6baba70e5d925742dcec09b41a1a3a"
+      "blob": "blobs/84bb091db9a537e90d8ab8afd1f0cf8e41e4b966903403af5ce80489641576f1"
     },
     ".cursor/skills/yss-ddd-scaffold-generator/agents/openai.yaml": {
       "type": "file",
@@ -8730,63 +8622,21 @@
     },
     ".cursor/skills/yss-ddd-scaffold-generator/references/USAGE_EXAMPLES.md": {
       "type": "file",
-      "digest": "cfdc158a715bc9be2c77c6fbfdf30179ee8f20a581c1b54bdf95faae7cdf855d",
+      "digest": "7c9a6d9e0ce40d609a45d3fe019a5a549d3626fd5069a2a6f6bb23809294f431",
       "mode": 420,
-      "blob": "blobs/cfdc158a715bc9be2c77c6fbfdf30179ee8f20a581c1b54bdf95faae7cdf855d"
+      "blob": "blobs/7c9a6d9e0ce40d609a45d3fe019a5a549d3626fd5069a2a6f6bb23809294f431"
     },
-    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/SKILL.md": {
+    ".cursor/skills/yss-ddd-scaffold-generator/references/layer-skill-routing.md": {
       "type": "file",
-      "digest": "515297998ff0086028bf34c5ee09308fea6c59e292bac5aad81ad83e80202a1e",
+      "digest": "3fd69baff3c046d02af5aabffc83e40eb1100845337c0eb79f1b29c291e316ba",
       "mode": 420,
-      "blob": "blobs/515297998ff0086028bf34c5ee09308fea6c59e292bac5aad81ad83e80202a1e"
-    },
-    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/agents/openai.yaml": {
-      "type": "file",
-      "digest": "ef33ca2d81cb826d7b772c967ae9669b1a7e7ab95ecc9340939779a619a16d5f",
-      "mode": 420,
-      "blob": "blobs/ef33ca2d81cb826d7b772c967ae9669b1a7e7ab95ecc9340939779a619a16d5f"
-    },
-    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/SKILL.md": {
-      "type": "file",
-      "digest": "d6d7c8d091a81f8e34ec9f1d8ae6db4cf76007b6e9ba9e798fbe793216c7368f",
-      "mode": 420,
-      "blob": "blobs/d6d7c8d091a81f8e34ec9f1d8ae6db4cf76007b6e9ba9e798fbe793216c7368f"
-    },
-    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/agents/openai.yaml": {
-      "type": "file",
-      "digest": "76396e3684a88a9c4c9cab7f605df45f1b6c2213a2c9cb0d46f77776840c10dc",
-      "mode": 420,
-      "blob": "blobs/76396e3684a88a9c4c9cab7f605df45f1b6c2213a2c9cb0d46f77776840c10dc"
-    },
-    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/SKILL.md": {
-      "type": "file",
-      "digest": "5f15a5c5ece078f4edb56b6518374d71d0e23870ee37232fd518cebe9afdfd98",
-      "mode": 420,
-      "blob": "blobs/5f15a5c5ece078f4edb56b6518374d71d0e23870ee37232fd518cebe9afdfd98"
-    },
-    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/agents/openai.yaml": {
-      "type": "file",
-      "digest": "efa65c101909951b400a439348d569fb4731e58b5c6d9fc27aa3b896732a948c",
-      "mode": 420,
-      "blob": "blobs/efa65c101909951b400a439348d569fb4731e58b5c6d9fc27aa3b896732a948c"
-    },
-    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/SKILL.md": {
-      "type": "file",
-      "digest": "ef626c97b446b116948c73154c3f63742e4f51eb21c786d58f255906d7793ecc",
-      "mode": 420,
-      "blob": "blobs/ef626c97b446b116948c73154c3f63742e4f51eb21c786d58f255906d7793ecc"
-    },
-    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/agents/openai.yaml": {
-      "type": "file",
-      "digest": "59535593b57b6bffaea9c66afb89a9166d02175f9f23bfd3b0d0995569a05afb",
-      "mode": 420,
-      "blob": "blobs/59535593b57b6bffaea9c66afb89a9166d02175f9f23bfd3b0d0995569a05afb"
+      "blob": "blobs/3fd69baff3c046d02af5aabffc83e40eb1100845337c0eb79f1b29c291e316ba"
     },
     ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-parent/SKILL.md": {
       "type": "file",
-      "digest": "10cca120a2181f3dd304b848518f6466e0df2631c4872cd112988afc45389117",
+      "digest": "899d495874ef8b38cb2966c7e8ff6328702c523937f90d036b38d8d383f914c6",
       "mode": 420,
-      "blob": "blobs/10cca120a2181f3dd304b848518f6466e0df2631c4872cd112988afc45389117"
+      "blob": "blobs/899d495874ef8b38cb2966c7e8ff6328702c523937f90d036b38d8d383f914c6"
     },
     ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-parent/agents/openai.yaml": {
       "type": "file",
@@ -8794,23 +8644,11 @@
       "mode": 420,
       "blob": "blobs/bc6fe0282bdb37374825e8e336549268452d4764254cfbc37fa263b7e2ef1533"
     },
-    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/SKILL.md": {
-      "type": "file",
-      "digest": "7a7b982ebc95142d2ee9293175a9829d9b8e21a9bef36308f418df248c630e6f",
-      "mode": 420,
-      "blob": "blobs/7a7b982ebc95142d2ee9293175a9829d9b8e21a9bef36308f418df248c630e6f"
-    },
-    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/agents/openai.yaml": {
-      "type": "file",
-      "digest": "6705f6ec55318546ede350d247ec2fe1cee1b00ae58b93cd40e45dd7146e263f",
-      "mode": 420,
-      "blob": "blobs/6705f6ec55318546ede350d247ec2fe1cee1b00ae58b93cd40e45dd7146e263f"
-    },
     ".cursor/skills/yss-ddd-scaffold-generator/scripts/first-slice-compatibility.test.mjs": {
       "type": "file",
-      "digest": "a374cf0222c59bceb31cea0150ad390dbf64c81150007505de6f59362ee96681",
+      "digest": "47f2641ee5ac6afa1782955e6988d411ccf9746dc8a6e8ba0dd11497305d9fc5",
       "mode": 420,
-      "blob": "blobs/a374cf0222c59bceb31cea0150ad390dbf64c81150007505de6f59362ee96681"
+      "blob": "blobs/47f2641ee5ac6afa1782955e6988d411ccf9746dc8a6e8ba0dd11497305d9fc5"
     },
     ".cursor/skills/yss-ddd-scaffold-generator/scripts/first-slice-verification.test.mjs": {
       "type": "file",
@@ -8826,27 +8664,27 @@
     },
     ".cursor/skills/yss-ddd-scaffold-generator/scripts/generate_scaffold.mjs": {
       "type": "file",
-      "digest": "afcf6e12f7615fbb5204ff3c9ac907a963b24af484b73ed3dbbcf18715cac164",
-      "mode": 420,
-      "blob": "blobs/afcf6e12f7615fbb5204ff3c9ac907a963b24af484b73ed3dbbcf18715cac164"
+      "digest": "1e655e4bdeab14c1f406fd2a5ce8782f4eb418838f03fcb0946a9e3e159e45bc",
+      "mode": 493,
+      "blob": "blobs/1e655e4bdeab14c1f406fd2a5ce8782f4eb418838f03fcb0946a9e3e159e45bc"
     },
     ".cursor/skills/yss-ddd-scaffold-generator/scripts/run_first_slice_verification.mjs": {
       "type": "file",
-      "digest": "a92466818515979ae0ff82b5c2a6a89e2197a113f5307b80bc2e352bf112ad75",
+      "digest": "e2861e973f9d3c237a16fe91cd33693a4699e0c01c723723c360c578170cc7db",
       "mode": 420,
-      "blob": "blobs/a92466818515979ae0ff82b5c2a6a89e2197a113f5307b80bc2e352bf112ad75"
+      "blob": "blobs/e2861e973f9d3c237a16fe91cd33693a4699e0c01c723723c360c578170cc7db"
     },
     ".cursor/skills/yss-ddd-scaffold-generator/scripts/run_scaffold_verification.mjs": {
       "type": "file",
-      "digest": "c4efaaf5b6a9af829c4f8638e62821e93084947ebc674e8c762d148594385f13",
+      "digest": "2290922a7cd439a0794ea3c2da92e47eaebc6035b92ebda514bf72e9ea48abc1",
       "mode": 420,
-      "blob": "blobs/c4efaaf5b6a9af829c4f8638e62821e93084947ebc674e8c762d148594385f13"
+      "blob": "blobs/2290922a7cd439a0794ea3c2da92e47eaebc6035b92ebda514bf72e9ea48abc1"
     },
     ".cursor/skills/yss-ddd-scaffold-generator/scripts/scaffold-generator.test.mjs": {
       "type": "file",
-      "digest": "5b53339d10acc2ee2e39bb3cc26fd8ed24ed9aa9532e3d779b64b58f347a918e",
+      "digest": "9a125ddc86bbccc3a0d14d6f0467aae87e13a1a456deecb64e1367ff91590170",
       "mode": 420,
-      "blob": "blobs/5b53339d10acc2ee2e39bb3cc26fd8ed24ed9aa9532e3d779b64b58f347a918e"
+      "blob": "blobs/9a125ddc86bbccc3a0d14d6f0467aae87e13a1a456deecb64e1367ff91590170"
     },
     ".cursor/skills/yss-distributed-id/SKILL.md": {
       "type": "file",
@@ -9036,9 +8874,9 @@
     },
     ".cursor/skills/yss-implementation-contract-compiler/SKILL.md": {
       "type": "file",
-      "digest": "907cf2ecc07c716b4e448d9f3380906bf153cb7c561fc0c42589eac46a0c7367",
+      "digest": "4cff1bc44c2e564bbaa85637cdaf39f9030d88da4341f1ee771fde89a42e97d3",
       "mode": 420,
-      "blob": "blobs/907cf2ecc07c716b4e448d9f3380906bf153cb7c561fc0c42589eac46a0c7367"
+      "blob": "blobs/4cff1bc44c2e564bbaa85637cdaf39f9030d88da4341f1ee771fde89a42e97d3"
     },
     ".cursor/skills/yss-implementation-contract-compiler/agents/openai.yaml": {
       "type": "file",
@@ -9054,9 +8892,9 @@
     },
     ".cursor/skills/yss-implementation-contract-compiler/references/compiler-contract.yaml": {
       "type": "file",
-      "digest": "3d670fcbce6baf0999652939f1f8823e64cb557df0d7dd9db348cca6764cd370",
+      "digest": "3b49e9c74a63077f53d6cfcb6bd1a312b5fa014aaa62f40ddccc898972d33993",
       "mode": 420,
-      "blob": "blobs/3d670fcbce6baf0999652939f1f8823e64cb557df0d7dd9db348cca6764cd370"
+      "blob": "blobs/3b49e9c74a63077f53d6cfcb6bd1a312b5fa014aaa62f40ddccc898972d33993"
     },
     ".cursor/skills/yss-implementation-contract-compiler/references/slice-implementation-contract.md": {
       "type": "file",
@@ -9084,15 +8922,15 @@
     },
     ".cursor/skills/yss-layered-mvc-scaffold-generator/SKILL.md": {
       "type": "file",
-      "digest": "faadece53343727d6b5f669f960b2bb0cda57d2d67ffb17d2cc0f67fb5c2261d",
+      "digest": "c9901a96e7e0d9f8f83dda569b7c30d809eab6a9892ead951a58acebcd8302cd",
       "mode": 420,
-      "blob": "blobs/faadece53343727d6b5f669f960b2bb0cda57d2d67ffb17d2cc0f67fb5c2261d"
+      "blob": "blobs/c9901a96e7e0d9f8f83dda569b7c30d809eab6a9892ead951a58acebcd8302cd"
     },
     ".cursor/skills/yss-layered-mvc-scaffold-generator/agents/openai.yaml": {
       "type": "file",
-      "digest": "b15324c5835884b6d476da6a9c890b8777d8da7270be113a890600a65fea6ea9",
+      "digest": "874d683b7a6231300eeb4306eb529e82b92dc25563d4d62bc18a7b1f8070b2da",
       "mode": 420,
-      "blob": "blobs/b15324c5835884b6d476da6a9c890b8777d8da7270be113a890600a65fea6ea9"
+      "blob": "blobs/874d683b7a6231300eeb4306eb529e82b92dc25563d4d62bc18a7b1f8070b2da"
     },
     ".cursor/skills/yss-layered-mvc-scaffold-generator/references/architecture.md": {
       "type": "file",
@@ -9108,33 +8946,33 @@
     },
     ".cursor/skills/yss-layered-mvc-scaffold-generator/scripts/generate_scaffold.mjs": {
       "type": "file",
-      "digest": "be52ecb41ea601e8150359e8d7e7701f9f39157ab70ba0279d6fdd9e7f991d31",
+      "digest": "eb4f76da5dc029031f0954cfe353a224d17d1c128bb55fc87662e3cc696fd374",
       "mode": 493,
-      "blob": "blobs/be52ecb41ea601e8150359e8d7e7701f9f39157ab70ba0279d6fdd9e7f991d31"
+      "blob": "blobs/eb4f76da5dc029031f0954cfe353a224d17d1c128bb55fc87662e3cc696fd374"
     },
     ".cursor/skills/yss-layered-mvc-scaffold-generator/scripts/run_scaffold_verification.mjs": {
       "type": "file",
-      "digest": "9fcf1de96936c47c693bdd9da2b181504358cfb604a0646475779fec5eb584a3",
+      "digest": "548d8b5c9bfa0b7e09420ba23d6a3025b98c5fac334006bbbed4385bb930675e",
       "mode": 493,
-      "blob": "blobs/9fcf1de96936c47c693bdd9da2b181504358cfb604a0646475779fec5eb584a3"
+      "blob": "blobs/548d8b5c9bfa0b7e09420ba23d6a3025b98c5fac334006bbbed4385bb930675e"
     },
     ".cursor/skills/yss-layered-mvc-scaffold-generator/scripts/scaffold-generator.test.mjs": {
       "type": "file",
-      "digest": "039affa62d7d07d7381135408ee81570396061d53908a8d57869f4177295cb89",
-      "mode": 493,
-      "blob": "blobs/039affa62d7d07d7381135408ee81570396061d53908a8d57869f4177295cb89"
+      "digest": "f5f1866ec4b3e1b6472a035578874d56124013cea04c03d28a65d17c539e2fc0",
+      "mode": 420,
+      "blob": "blobs/f5f1866ec4b3e1b6472a035578874d56124013cea04c03d28a65d17c539e2fc0"
     },
     ".cursor/skills/yss-mvc-data-analysis-project-initializer/SKILL.md": {
       "type": "file",
-      "digest": "b0ee0b87a975e1d560b3d539ffa59a1fd1c06cfde8b7fe02149667c46814ecf9",
+      "digest": "90dc6a2ffec4112a5bbff822b9e319485e8269f4460a7734691c23aabcbad067",
       "mode": 420,
-      "blob": "blobs/b0ee0b87a975e1d560b3d539ffa59a1fd1c06cfde8b7fe02149667c46814ecf9"
+      "blob": "blobs/90dc6a2ffec4112a5bbff822b9e319485e8269f4460a7734691c23aabcbad067"
     },
     ".cursor/skills/yss-mvc-data-analysis-project-initializer/scripts/generate_project.mjs": {
       "type": "file",
-      "digest": "08532f0b81d7e4f3530690504aaf56dc907aee270f9058353cc8b14634dbaedb",
-      "mode": 420,
-      "blob": "blobs/08532f0b81d7e4f3530690504aaf56dc907aee270f9058353cc8b14634dbaedb"
+      "digest": "88cbccc115487acc7c9854c57c9c558e6533f5c72dfad5113eb8698cc8dd0cb9",
+      "mode": 493,
+      "blob": "blobs/88cbccc115487acc7c9854c57c9c558e6533f5c72dfad5113eb8698cc8dd0cb9"
     },
     ".cursor/skills/yss-mvc-data-analysis-project-initializer/scripts/run_scaffold_verification.mjs": {
       "type": "file",
@@ -9216,9 +9054,9 @@
     },
     ".cursor/skills/yss-openapi-governance/SKILL.md": {
       "type": "file",
-      "digest": "dfce104838750a0afda9348e9c1d550c5ad4415fb9ff73dffcec5479be15882c",
+      "digest": "dea229e60364b2dfc4dab3dddcdc64d5d0d331a53268146a1839542cdc828345",
       "mode": 420,
-      "blob": "blobs/dfce104838750a0afda9348e9c1d550c5ad4415fb9ff73dffcec5479be15882c"
+      "blob": "blobs/dea229e60364b2dfc4dab3dddcdc64d5d0d331a53268146a1839542cdc828345"
     },
     ".cursor/skills/yss-openapi-governance/agents/openai.yaml": {
       "type": "file",
@@ -9672,15 +9510,15 @@
     },
     ".cursor/skills/yss-web-controller/scripts/generate_controller.mjs": {
       "type": "file",
-      "digest": "fc2af1b08b947c0d383a424e13fba455280dc746a97a61837890f485a14e4034",
+      "digest": "2a6e42ff70088b67af597a3c0fce6a4d77706388c4eeff075efa141b49cdc782",
       "mode": 420,
-      "blob": "blobs/fc2af1b08b947c0d383a424e13fba455280dc746a97a61837890f485a14e4034"
+      "blob": "blobs/2a6e42ff70088b67af597a3c0fce6a4d77706388c4eeff075efa141b49cdc782"
     },
     ".cursor/skills/yss-web-controller/scripts/generate_controller.test.mjs": {
       "type": "file",
-      "digest": "3e63fdb95276a81916110766aca34945b7ff75d63d78b0350c2b9bb25aa5a0b1",
+      "digest": "f7ddeeb135a37d74d072badbb933df1e10593c73baf072113cfa2725bea8f07c",
       "mode": 420,
-      "blob": "blobs/3e63fdb95276a81916110766aca34945b7ff75d63d78b0350c2b9bb25aa5a0b1"
+      "blob": "blobs/f7ddeeb135a37d74d072badbb933df1e10593c73baf072113cfa2725bea8f07c"
     },
     ".cursorrules": {
       "type": "file",
@@ -11076,9 +10914,9 @@
     },
     ".pi/skills/harness-orchestrator/SKILL.md": {
       "type": "file",
-      "digest": "b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492",
+      "digest": "34a5f52f40294f27b592d67fe82d21bc7563c35934df290df02b79747043d534",
       "mode": 420,
-      "blob": "blobs/b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492"
+      "blob": "blobs/34a5f52f40294f27b592d67fe82d21bc7563c35934df290df02b79747043d534"
     },
     ".pi/skills/harness-orchestrator/agents/openai.yaml": {
       "type": "file",
@@ -11088,9 +10926,9 @@
     },
     ".pi/skills/harness-orchestrator/references/orchestration-contract.yaml": {
       "type": "file",
-      "digest": "9142a300326e0eabf5e16a7e336a1a657255c39e0fa08199229d5696cc5d4572",
+      "digest": "2036d8e108af41fcdb8a8ab311171a7c9d7056b9649274d04c52b9d49a880008",
       "mode": 420,
-      "blob": "blobs/9142a300326e0eabf5e16a7e336a1a657255c39e0fa08199229d5696cc5d4572"
+      "blob": "blobs/2036d8e108af41fcdb8a8ab311171a7c9d7056b9649274d04c52b9d49a880008"
     },
     ".pi/skills/i-have-adhd/LICENSE": {
       "type": "file",
@@ -11826,9 +11664,9 @@
     },
     ".pi/skills/yss-ddd-scaffold-generator/SKILL.md": {
       "type": "file",
-      "digest": "7c93828f9cc8e13912be5a5563303e5a8e6baba70e5d925742dcec09b41a1a3a",
+      "digest": "84bb091db9a537e90d8ab8afd1f0cf8e41e4b966903403af5ce80489641576f1",
       "mode": 420,
-      "blob": "blobs/7c93828f9cc8e13912be5a5563303e5a8e6baba70e5d925742dcec09b41a1a3a"
+      "blob": "blobs/84bb091db9a537e90d8ab8afd1f0cf8e41e4b966903403af5ce80489641576f1"
     },
     ".pi/skills/yss-ddd-scaffold-generator/agents/openai.yaml": {
       "type": "file",
@@ -11964,63 +11802,21 @@
     },
     ".pi/skills/yss-ddd-scaffold-generator/references/USAGE_EXAMPLES.md": {
       "type": "file",
-      "digest": "cfdc158a715bc9be2c77c6fbfdf30179ee8f20a581c1b54bdf95faae7cdf855d",
+      "digest": "7c9a6d9e0ce40d609a45d3fe019a5a549d3626fd5069a2a6f6bb23809294f431",
       "mode": 420,
-      "blob": "blobs/cfdc158a715bc9be2c77c6fbfdf30179ee8f20a581c1b54bdf95faae7cdf855d"
+      "blob": "blobs/7c9a6d9e0ce40d609a45d3fe019a5a549d3626fd5069a2a6f6bb23809294f431"
     },
-    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/SKILL.md": {
+    ".pi/skills/yss-ddd-scaffold-generator/references/layer-skill-routing.md": {
       "type": "file",
-      "digest": "515297998ff0086028bf34c5ee09308fea6c59e292bac5aad81ad83e80202a1e",
+      "digest": "3fd69baff3c046d02af5aabffc83e40eb1100845337c0eb79f1b29c291e316ba",
       "mode": 420,
-      "blob": "blobs/515297998ff0086028bf34c5ee09308fea6c59e292bac5aad81ad83e80202a1e"
-    },
-    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/agents/openai.yaml": {
-      "type": "file",
-      "digest": "ef33ca2d81cb826d7b772c967ae9669b1a7e7ab95ecc9340939779a619a16d5f",
-      "mode": 420,
-      "blob": "blobs/ef33ca2d81cb826d7b772c967ae9669b1a7e7ab95ecc9340939779a619a16d5f"
-    },
-    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/SKILL.md": {
-      "type": "file",
-      "digest": "d6d7c8d091a81f8e34ec9f1d8ae6db4cf76007b6e9ba9e798fbe793216c7368f",
-      "mode": 420,
-      "blob": "blobs/d6d7c8d091a81f8e34ec9f1d8ae6db4cf76007b6e9ba9e798fbe793216c7368f"
-    },
-    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/agents/openai.yaml": {
-      "type": "file",
-      "digest": "76396e3684a88a9c4c9cab7f605df45f1b6c2213a2c9cb0d46f77776840c10dc",
-      "mode": 420,
-      "blob": "blobs/76396e3684a88a9c4c9cab7f605df45f1b6c2213a2c9cb0d46f77776840c10dc"
-    },
-    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/SKILL.md": {
-      "type": "file",
-      "digest": "5f15a5c5ece078f4edb56b6518374d71d0e23870ee37232fd518cebe9afdfd98",
-      "mode": 420,
-      "blob": "blobs/5f15a5c5ece078f4edb56b6518374d71d0e23870ee37232fd518cebe9afdfd98"
-    },
-    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/agents/openai.yaml": {
-      "type": "file",
-      "digest": "efa65c101909951b400a439348d569fb4731e58b5c6d9fc27aa3b896732a948c",
-      "mode": 420,
-      "blob": "blobs/efa65c101909951b400a439348d569fb4731e58b5c6d9fc27aa3b896732a948c"
-    },
-    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/SKILL.md": {
-      "type": "file",
-      "digest": "ef626c97b446b116948c73154c3f63742e4f51eb21c786d58f255906d7793ecc",
-      "mode": 420,
-      "blob": "blobs/ef626c97b446b116948c73154c3f63742e4f51eb21c786d58f255906d7793ecc"
-    },
-    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/agents/openai.yaml": {
-      "type": "file",
-      "digest": "59535593b57b6bffaea9c66afb89a9166d02175f9f23bfd3b0d0995569a05afb",
-      "mode": 420,
-      "blob": "blobs/59535593b57b6bffaea9c66afb89a9166d02175f9f23bfd3b0d0995569a05afb"
+      "blob": "blobs/3fd69baff3c046d02af5aabffc83e40eb1100845337c0eb79f1b29c291e316ba"
     },
     ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-parent/SKILL.md": {
       "type": "file",
-      "digest": "10cca120a2181f3dd304b848518f6466e0df2631c4872cd112988afc45389117",
+      "digest": "899d495874ef8b38cb2966c7e8ff6328702c523937f90d036b38d8d383f914c6",
       "mode": 420,
-      "blob": "blobs/10cca120a2181f3dd304b848518f6466e0df2631c4872cd112988afc45389117"
+      "blob": "blobs/899d495874ef8b38cb2966c7e8ff6328702c523937f90d036b38d8d383f914c6"
     },
     ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-parent/agents/openai.yaml": {
       "type": "file",
@@ -12028,23 +11824,11 @@
       "mode": 420,
       "blob": "blobs/bc6fe0282bdb37374825e8e336549268452d4764254cfbc37fa263b7e2ef1533"
     },
-    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/SKILL.md": {
-      "type": "file",
-      "digest": "7a7b982ebc95142d2ee9293175a9829d9b8e21a9bef36308f418df248c630e6f",
-      "mode": 420,
-      "blob": "blobs/7a7b982ebc95142d2ee9293175a9829d9b8e21a9bef36308f418df248c630e6f"
-    },
-    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/agents/openai.yaml": {
-      "type": "file",
-      "digest": "6705f6ec55318546ede350d247ec2fe1cee1b00ae58b93cd40e45dd7146e263f",
-      "mode": 420,
-      "blob": "blobs/6705f6ec55318546ede350d247ec2fe1cee1b00ae58b93cd40e45dd7146e263f"
-    },
     ".pi/skills/yss-ddd-scaffold-generator/scripts/first-slice-compatibility.test.mjs": {
       "type": "file",
-      "digest": "a374cf0222c59bceb31cea0150ad390dbf64c81150007505de6f59362ee96681",
+      "digest": "47f2641ee5ac6afa1782955e6988d411ccf9746dc8a6e8ba0dd11497305d9fc5",
       "mode": 420,
-      "blob": "blobs/a374cf0222c59bceb31cea0150ad390dbf64c81150007505de6f59362ee96681"
+      "blob": "blobs/47f2641ee5ac6afa1782955e6988d411ccf9746dc8a6e8ba0dd11497305d9fc5"
     },
     ".pi/skills/yss-ddd-scaffold-generator/scripts/first-slice-verification.test.mjs": {
       "type": "file",
@@ -12060,27 +11844,27 @@
     },
     ".pi/skills/yss-ddd-scaffold-generator/scripts/generate_scaffold.mjs": {
       "type": "file",
-      "digest": "afcf6e12f7615fbb5204ff3c9ac907a963b24af484b73ed3dbbcf18715cac164",
-      "mode": 420,
-      "blob": "blobs/afcf6e12f7615fbb5204ff3c9ac907a963b24af484b73ed3dbbcf18715cac164"
+      "digest": "1e655e4bdeab14c1f406fd2a5ce8782f4eb418838f03fcb0946a9e3e159e45bc",
+      "mode": 493,
+      "blob": "blobs/1e655e4bdeab14c1f406fd2a5ce8782f4eb418838f03fcb0946a9e3e159e45bc"
     },
     ".pi/skills/yss-ddd-scaffold-generator/scripts/run_first_slice_verification.mjs": {
       "type": "file",
-      "digest": "a92466818515979ae0ff82b5c2a6a89e2197a113f5307b80bc2e352bf112ad75",
+      "digest": "e2861e973f9d3c237a16fe91cd33693a4699e0c01c723723c360c578170cc7db",
       "mode": 420,
-      "blob": "blobs/a92466818515979ae0ff82b5c2a6a89e2197a113f5307b80bc2e352bf112ad75"
+      "blob": "blobs/e2861e973f9d3c237a16fe91cd33693a4699e0c01c723723c360c578170cc7db"
     },
     ".pi/skills/yss-ddd-scaffold-generator/scripts/run_scaffold_verification.mjs": {
       "type": "file",
-      "digest": "c4efaaf5b6a9af829c4f8638e62821e93084947ebc674e8c762d148594385f13",
+      "digest": "2290922a7cd439a0794ea3c2da92e47eaebc6035b92ebda514bf72e9ea48abc1",
       "mode": 420,
-      "blob": "blobs/c4efaaf5b6a9af829c4f8638e62821e93084947ebc674e8c762d148594385f13"
+      "blob": "blobs/2290922a7cd439a0794ea3c2da92e47eaebc6035b92ebda514bf72e9ea48abc1"
     },
     ".pi/skills/yss-ddd-scaffold-generator/scripts/scaffold-generator.test.mjs": {
       "type": "file",
-      "digest": "5b53339d10acc2ee2e39bb3cc26fd8ed24ed9aa9532e3d779b64b58f347a918e",
+      "digest": "9a125ddc86bbccc3a0d14d6f0467aae87e13a1a456deecb64e1367ff91590170",
       "mode": 420,
-      "blob": "blobs/5b53339d10acc2ee2e39bb3cc26fd8ed24ed9aa9532e3d779b64b58f347a918e"
+      "blob": "blobs/9a125ddc86bbccc3a0d14d6f0467aae87e13a1a456deecb64e1367ff91590170"
     },
     ".pi/skills/yss-distributed-id/SKILL.md": {
       "type": "file",
@@ -12270,9 +12054,9 @@
     },
     ".pi/skills/yss-implementation-contract-compiler/SKILL.md": {
       "type": "file",
-      "digest": "907cf2ecc07c716b4e448d9f3380906bf153cb7c561fc0c42589eac46a0c7367",
+      "digest": "4cff1bc44c2e564bbaa85637cdaf39f9030d88da4341f1ee771fde89a42e97d3",
       "mode": 420,
-      "blob": "blobs/907cf2ecc07c716b4e448d9f3380906bf153cb7c561fc0c42589eac46a0c7367"
+      "blob": "blobs/4cff1bc44c2e564bbaa85637cdaf39f9030d88da4341f1ee771fde89a42e97d3"
     },
     ".pi/skills/yss-implementation-contract-compiler/agents/openai.yaml": {
       "type": "file",
@@ -12288,9 +12072,9 @@
     },
     ".pi/skills/yss-implementation-contract-compiler/references/compiler-contract.yaml": {
       "type": "file",
-      "digest": "3d670fcbce6baf0999652939f1f8823e64cb557df0d7dd9db348cca6764cd370",
+      "digest": "3b49e9c74a63077f53d6cfcb6bd1a312b5fa014aaa62f40ddccc898972d33993",
       "mode": 420,
-      "blob": "blobs/3d670fcbce6baf0999652939f1f8823e64cb557df0d7dd9db348cca6764cd370"
+      "blob": "blobs/3b49e9c74a63077f53d6cfcb6bd1a312b5fa014aaa62f40ddccc898972d33993"
     },
     ".pi/skills/yss-implementation-contract-compiler/references/slice-implementation-contract.md": {
       "type": "file",
@@ -12318,15 +12102,15 @@
     },
     ".pi/skills/yss-layered-mvc-scaffold-generator/SKILL.md": {
       "type": "file",
-      "digest": "faadece53343727d6b5f669f960b2bb0cda57d2d67ffb17d2cc0f67fb5c2261d",
+      "digest": "c9901a96e7e0d9f8f83dda569b7c30d809eab6a9892ead951a58acebcd8302cd",
       "mode": 420,
-      "blob": "blobs/faadece53343727d6b5f669f960b2bb0cda57d2d67ffb17d2cc0f67fb5c2261d"
+      "blob": "blobs/c9901a96e7e0d9f8f83dda569b7c30d809eab6a9892ead951a58acebcd8302cd"
     },
     ".pi/skills/yss-layered-mvc-scaffold-generator/agents/openai.yaml": {
       "type": "file",
-      "digest": "b15324c5835884b6d476da6a9c890b8777d8da7270be113a890600a65fea6ea9",
+      "digest": "874d683b7a6231300eeb4306eb529e82b92dc25563d4d62bc18a7b1f8070b2da",
       "mode": 420,
-      "blob": "blobs/b15324c5835884b6d476da6a9c890b8777d8da7270be113a890600a65fea6ea9"
+      "blob": "blobs/874d683b7a6231300eeb4306eb529e82b92dc25563d4d62bc18a7b1f8070b2da"
     },
     ".pi/skills/yss-layered-mvc-scaffold-generator/references/architecture.md": {
       "type": "file",
@@ -12342,33 +12126,33 @@
     },
     ".pi/skills/yss-layered-mvc-scaffold-generator/scripts/generate_scaffold.mjs": {
       "type": "file",
-      "digest": "be52ecb41ea601e8150359e8d7e7701f9f39157ab70ba0279d6fdd9e7f991d31",
+      "digest": "eb4f76da5dc029031f0954cfe353a224d17d1c128bb55fc87662e3cc696fd374",
       "mode": 493,
-      "blob": "blobs/be52ecb41ea601e8150359e8d7e7701f9f39157ab70ba0279d6fdd9e7f991d31"
+      "blob": "blobs/eb4f76da5dc029031f0954cfe353a224d17d1c128bb55fc87662e3cc696fd374"
     },
     ".pi/skills/yss-layered-mvc-scaffold-generator/scripts/run_scaffold_verification.mjs": {
       "type": "file",
-      "digest": "9fcf1de96936c47c693bdd9da2b181504358cfb604a0646475779fec5eb584a3",
+      "digest": "548d8b5c9bfa0b7e09420ba23d6a3025b98c5fac334006bbbed4385bb930675e",
       "mode": 493,
-      "blob": "blobs/9fcf1de96936c47c693bdd9da2b181504358cfb604a0646475779fec5eb584a3"
+      "blob": "blobs/548d8b5c9bfa0b7e09420ba23d6a3025b98c5fac334006bbbed4385bb930675e"
     },
     ".pi/skills/yss-layered-mvc-scaffold-generator/scripts/scaffold-generator.test.mjs": {
       "type": "file",
-      "digest": "039affa62d7d07d7381135408ee81570396061d53908a8d57869f4177295cb89",
-      "mode": 493,
-      "blob": "blobs/039affa62d7d07d7381135408ee81570396061d53908a8d57869f4177295cb89"
+      "digest": "f5f1866ec4b3e1b6472a035578874d56124013cea04c03d28a65d17c539e2fc0",
+      "mode": 420,
+      "blob": "blobs/f5f1866ec4b3e1b6472a035578874d56124013cea04c03d28a65d17c539e2fc0"
     },
     ".pi/skills/yss-mvc-data-analysis-project-initializer/SKILL.md": {
       "type": "file",
-      "digest": "b0ee0b87a975e1d560b3d539ffa59a1fd1c06cfde8b7fe02149667c46814ecf9",
+      "digest": "90dc6a2ffec4112a5bbff822b9e319485e8269f4460a7734691c23aabcbad067",
       "mode": 420,
-      "blob": "blobs/b0ee0b87a975e1d560b3d539ffa59a1fd1c06cfde8b7fe02149667c46814ecf9"
+      "blob": "blobs/90dc6a2ffec4112a5bbff822b9e319485e8269f4460a7734691c23aabcbad067"
     },
     ".pi/skills/yss-mvc-data-analysis-project-initializer/scripts/generate_project.mjs": {
       "type": "file",
-      "digest": "08532f0b81d7e4f3530690504aaf56dc907aee270f9058353cc8b14634dbaedb",
-      "mode": 420,
-      "blob": "blobs/08532f0b81d7e4f3530690504aaf56dc907aee270f9058353cc8b14634dbaedb"
+      "digest": "88cbccc115487acc7c9854c57c9c558e6533f5c72dfad5113eb8698cc8dd0cb9",
+      "mode": 493,
+      "blob": "blobs/88cbccc115487acc7c9854c57c9c558e6533f5c72dfad5113eb8698cc8dd0cb9"
     },
     ".pi/skills/yss-mvc-data-analysis-project-initializer/scripts/run_scaffold_verification.mjs": {
       "type": "file",
@@ -12450,9 +12234,9 @@
     },
     ".pi/skills/yss-openapi-governance/SKILL.md": {
       "type": "file",
-      "digest": "dfce104838750a0afda9348e9c1d550c5ad4415fb9ff73dffcec5479be15882c",
+      "digest": "dea229e60364b2dfc4dab3dddcdc64d5d0d331a53268146a1839542cdc828345",
       "mode": 420,
-      "blob": "blobs/dfce104838750a0afda9348e9c1d550c5ad4415fb9ff73dffcec5479be15882c"
+      "blob": "blobs/dea229e60364b2dfc4dab3dddcdc64d5d0d331a53268146a1839542cdc828345"
     },
     ".pi/skills/yss-openapi-governance/agents/openai.yaml": {
       "type": "file",
@@ -12906,21 +12690,21 @@
     },
     ".pi/skills/yss-web-controller/scripts/generate_controller.mjs": {
       "type": "file",
-      "digest": "fc2af1b08b947c0d383a424e13fba455280dc746a97a61837890f485a14e4034",
+      "digest": "2a6e42ff70088b67af597a3c0fce6a4d77706388c4eeff075efa141b49cdc782",
       "mode": 420,
-      "blob": "blobs/fc2af1b08b947c0d383a424e13fba455280dc746a97a61837890f485a14e4034"
+      "blob": "blobs/2a6e42ff70088b67af597a3c0fce6a4d77706388c4eeff075efa141b49cdc782"
     },
     ".pi/skills/yss-web-controller/scripts/generate_controller.test.mjs": {
       "type": "file",
-      "digest": "3e63fdb95276a81916110766aca34945b7ff75d63d78b0350c2b9bb25aa5a0b1",
+      "digest": "f7ddeeb135a37d74d072badbb933df1e10593c73baf072113cfa2725bea8f07c",
       "mode": 420,
-      "blob": "blobs/3e63fdb95276a81916110766aca34945b7ff75d63d78b0350c2b9bb25aa5a0b1"
+      "blob": "blobs/f7ddeeb135a37d74d072badbb933df1e10593c73baf072113cfa2725bea8f07c"
     },
     "AGENTS.md": {
       "type": "file",
-      "digest": "8eeb6cd76823a2eb122ce58b5747e2572a3832b61b3053103621cc4b3f2afbaf",
+      "digest": "a6a2800a34568455e97e7bc9faf98ddb268cfa4129dc050317be8b1108193fdf",
       "mode": 420,
-      "blob": "blobs/8eeb6cd76823a2eb122ce58b5747e2572a3832b61b3053103621cc4b3f2afbaf"
+      "blob": "blobs/a6a2800a34568455e97e7bc9faf98ddb268cfa4129dc050317be8b1108193fdf"
     },
     "CLAUDE.md": {
       "type": "file",
@@ -12966,9 +12750,9 @@
     },
     "docs/agents/digital-human-roles.yaml": {
       "type": "file",
-      "digest": "f190b7f00fd512c5068cd1d1700143243166493d22a8277c6932eb27512554e8",
+      "digest": "f19a1c0af0a634c4ca967813ce131594297cbcd99f5d5a58502b09535d39667c",
       "mode": 420,
-      "blob": "blobs/f190b7f00fd512c5068cd1d1700143243166493d22a8277c6932eb27512554e8"
+      "blob": "blobs/f19a1c0af0a634c4ca967813ce131594297cbcd99f5d5a58502b09535d39667c"
     },
     "docs/agents/domain.md": {
       "type": "file",
@@ -12990,9 +12774,9 @@
     },
     "docs/agents/skill-migrations.md": {
       "type": "file",
-      "digest": "12008752c3a122a56d1b15648e4cf6286b7014dacd083f4588c81d538c368738",
+      "digest": "51ce0e481b25d36dda4bd7455d95e52a468966f8561bbbbbdb5a2f3256ec06ad",
       "mode": 420,
-      "blob": "blobs/12008752c3a122a56d1b15648e4cf6286b7014dacd083f4588c81d538c368738"
+      "blob": "blobs/51ce0e481b25d36dda4bd7455d95e52a468966f8561bbbbbdb5a2f3256ec06ad"
     },
     "docs/agents/skills-maintenance.md": {
       "type": "file",
@@ -13029,6 +12813,12 @@
       "digest": "227c498336b464ea8687b8ab36cefeecaf5a1f90cd6d3a74b656d35058ed512a",
       "mode": 420,
       "blob": "blobs/227c498336b464ea8687b8ab36cefeecaf5a1f90cd6d3a74b656d35058ed512a"
+    },
+    "docs/api/templates/openapi-draft-validation-record-template.yaml": {
+      "type": "file",
+      "digest": "f7c927af6c3085c9d2b2fb7e7273211d1245be140f07dfa678934d48ddde642e",
+      "mode": 420,
+      "blob": "blobs/f7c927af6c3085c9d2b2fb7e7273211d1245be140f07dfa678934d48ddde642e"
     },
     "docs/api/templates/openapi-freeze-record-template.md": {
       "type": "file",
@@ -13080,9 +12870,9 @@
     },
     "docs/architecture/templates/engineering-baseline-review-template.md": {
       "type": "file",
-      "digest": "1625d1f09b55a590475e585561b0a1e02ba853b77992fac8c1d252de1bb61608",
+      "digest": "582d6d69d118d2e7286c180a63c63e8f6ffe34b85a42a989d09b82aeb4942e6f",
       "mode": 420,
-      "blob": "blobs/1625d1f09b55a590475e585561b0a1e02ba853b77992fac8c1d252de1bb61608"
+      "blob": "blobs/582d6d69d118d2e7286c180a63c63e8f6ffe34b85a42a989d09b82aeb4942e6f"
     },
     "docs/architecture/templates/functional-architecture-template.md": {
       "type": "file",
@@ -13104,9 +12894,9 @@
     },
     "docs/design/README.md": {
       "type": "file",
-      "digest": "2be4ca57f077d4f80c90362852f4d8bb0c866e78f2ad8825b68a71512684da09",
+      "digest": "270ab8f6b5d3655ada7aff266b8e8485cbac4ddb4c006297e6622bc76211e222",
       "mode": 420,
-      "blob": "blobs/2be4ca57f077d4f80c90362852f4d8bb0c866e78f2ad8825b68a71512684da09"
+      "blob": "blobs/270ab8f6b5d3655ada7aff266b8e8485cbac4ddb4c006297e6622bc76211e222"
     },
     "docs/design/design.md": {
       "type": "file",
@@ -13332,9 +13122,9 @@
     },
     "docs/process/harness-profile.yaml": {
       "type": "file",
-      "digest": "fe462950d451da7d6edf113ca662ffc23005715653a03e9cb9d5af029c1a8646",
+      "digest": "1b146a0ebcd539539422b0c4e4eec95d8d67ec5f74d5f9141f0e044a4f572869",
       "mode": 420,
-      "blob": "blobs/fe462950d451da7d6edf113ca662ffc23005715653a03e9cb9d5af029c1a8646"
+      "blob": "blobs/1b146a0ebcd539539422b0c4e4eec95d8d67ec5f74d5f9141f0e044a4f572869"
     },
     "docs/process/implementation-repo-integration.md": {
       "type": "file",
@@ -13344,27 +13134,33 @@
     },
     "docs/process/lifecycle-artifact-map.md": {
       "type": "file",
-      "digest": "27018032620dee31763cd4f200938fcb592bffecb8ec8f392c02b5f317152fee",
+      "digest": "9284f1bdbee4d1be25b8685a9384584fe78f153f19ef422dfb5ea39beee0fc70",
       "mode": 420,
-      "blob": "blobs/27018032620dee31763cd4f200938fcb592bffecb8ec8f392c02b5f317152fee"
+      "blob": "blobs/9284f1bdbee4d1be25b8685a9384584fe78f153f19ef422dfb5ea39beee0fc70"
     },
     "docs/process/lifecycle-registry-baseline.json": {
       "type": "file",
-      "digest": "5d6496c88e70dd5ebdcd315623673d9c335f77b2435b5f7a41e6018eb2d060c2",
+      "digest": "88f97311117dcefdbcf2009ec9a9e34dde20ee53fddaf34b9e324e849337f273",
       "mode": 420,
-      "blob": "blobs/5d6496c88e70dd5ebdcd315623673d9c335f77b2435b5f7a41e6018eb2d060c2"
+      "blob": "blobs/88f97311117dcefdbcf2009ec9a9e34dde20ee53fddaf34b9e324e849337f273"
     },
     "docs/process/lifecycle-registry.yaml": {
       "type": "file",
-      "digest": "2d808de69af3dbba627cf4e3a1398279e61120172bfd4ff4ee95a3b29659cf6d",
+      "digest": "348c9e86d6c24f1e77737eb37c4b3229786d8003e50abc8fe94fec59243c5f4f",
       "mode": 420,
-      "blob": "blobs/2d808de69af3dbba627cf4e3a1398279e61120172bfd4ff4ee95a3b29659cf6d"
+      "blob": "blobs/348c9e86d6c24f1e77737eb37c4b3229786d8003e50abc8fe94fec59243c5f4f"
     },
     "docs/process/maintenance-intensity.yaml": {
       "type": "file",
       "digest": "6338e218860416a2a2ca9c187b5589bc1140b967dbac5f3ecea906adfb588a0f",
       "mode": 420,
       "blob": "blobs/6338e218860416a2a2ca9c187b5589bc1140b967dbac5f3ecea906adfb588a0f"
+    },
+    "docs/process/schemas/api-contract-decision.schema.json": {
+      "type": "file",
+      "digest": "5310e84d0d11a16266ae5e6d2f1500023b0787e476811270713831aa4cec2f69",
+      "mode": 420,
+      "blob": "blobs/5310e84d0d11a16266ae5e6d2f1500023b0787e476811270713831aa4cec2f69"
     },
     "docs/process/schemas/backend-architecture-identity.schema.json": {
       "type": "file",
@@ -13390,6 +13186,12 @@
       "mode": 420,
       "blob": "blobs/a9629e5ddce08ece4cfdb391820bed7ea93e84824519d40eae3fda9d62e97016"
     },
+    "docs/process/schemas/data-architecture-decision.schema.json": {
+      "type": "file",
+      "digest": "a6f9b69917cab66a1dc8b93ac02ff4e06a6804567001a2cb5163d9c2789adf43",
+      "mode": 420,
+      "blob": "blobs/a6f9b69917cab66a1dc8b93ac02ff4e06a6804567001a2cb5163d9c2789adf43"
+    },
     "docs/process/schemas/delivery-preflight-input.schema.json": {
       "type": "file",
       "digest": "3b9d38d917d92f305cfacf4e949672b4f4539d50194583027f39fd2fb31ce93c",
@@ -13404,9 +13206,9 @@
     },
     "docs/process/schemas/digital-human-task-package.schema.json": {
       "type": "file",
-      "digest": "9660f8ed6fc25de4a28c5aae621b3a5b01fd094c7283e7ae83d4702df87746bd",
+      "digest": "107b5b0e521b8ea1b5c73652ec78e5d00a048af7ffadfe7ae47896bd5b9dce48",
       "mode": 420,
-      "blob": "blobs/9660f8ed6fc25de4a28c5aae621b3a5b01fd094c7283e7ae83d4702df87746bd"
+      "blob": "blobs/107b5b0e521b8ea1b5c73652ec78e5d00a048af7ffadfe7ae47896bd5b9dce48"
     },
     "docs/process/schemas/existing-ui-baseline.schema.json": {
       "type": "file",
@@ -13450,6 +13252,12 @@
       "mode": 420,
       "blob": "blobs/890cfa882c5638d73544805ee87a396719716a7a0f0afb0268819c8b457533e5"
     },
+    "docs/process/schemas/implementation-repository-preparation-result.schema.json": {
+      "type": "file",
+      "digest": "989253e0f4ed46fe2d6ccd34a324ba8acc26bad29ead07a09e185014db64be89",
+      "mode": 420,
+      "blob": "blobs/989253e0f4ed46fe2d6ccd34a324ba8acc26bad29ead07a09e185014db64be89"
+    },
     "docs/process/schemas/lifecycle-checkpoint.schema.json": {
       "type": "file",
       "digest": "f5df1728017fec2353f1547b07f536a746144b7fe07a0df1f7c03644efba008b",
@@ -13467,6 +13275,18 @@
       "digest": "0ec1c909983fee6d91a5bb40b7eaa465183816acca431951fe1c94cffede5804",
       "mode": 420,
       "blob": "blobs/0ec1c909983fee6d91a5bb40b7eaa465183816acca431951fe1c94cffede5804"
+    },
+    "docs/process/schemas/openapi-draft-validation-record.schema.json": {
+      "type": "file",
+      "digest": "63fccc988e92d2ef55b44b63c8995fbfc5a3ca5a7a0709afb8d4497f9fcacd45",
+      "mode": 420,
+      "blob": "blobs/63fccc988e92d2ef55b44b63c8995fbfc5a3ca5a7a0709afb8d4497f9fcacd45"
+    },
+    "docs/process/schemas/project-scaffold-contract.schema.json": {
+      "type": "file",
+      "digest": "0d10d5cecf86cde07c9abddd0ad29477a5b158052c3238a45613a67695e424b8",
+      "mode": 420,
+      "blob": "blobs/0d10d5cecf86cde07c9abddd0ad29477a5b158052c3238a45613a67695e424b8"
     },
     "docs/process/schemas/scaffold-architecture-decisions.schema.json": {
       "type": "file",
@@ -13602,9 +13422,9 @@
     },
     "docs/process/template-verification-profiles.yaml": {
       "type": "file",
-      "digest": "18dec5e7aaa0bcf90d3c8069133c83cf64401e62e8320d208aac6c42494139d6",
+      "digest": "8104deab9438d4cda679592e40b5fe3047788fb095ce6e193cba53f9ebdb739f",
       "mode": 420,
-      "blob": "blobs/18dec5e7aaa0bcf90d3c8069133c83cf64401e62e8320d208aac6c42494139d6"
+      "blob": "blobs/8104deab9438d4cda679592e40b5fe3047788fb095ce6e193cba53f9ebdb739f"
     },
     "docs/process/templates/frontend-implementation-plan-template.yaml": {
       "type": "file",
@@ -13644,9 +13464,9 @@
     },
     "docs/requirements/README.md": {
       "type": "file",
-      "digest": "4d35c71dec05c6089cf32a317b730c2a8a2964777d493eaa6a9d432626ba016e",
+      "digest": "a6dcb45c878f39e2f4aa1fdc4edd1ab24b8cebd20e145a44380e90dd392460d5",
       "mode": 420,
-      "blob": "blobs/4d35c71dec05c6089cf32a317b730c2a8a2964777d493eaa6a9d432626ba016e"
+      "blob": "blobs/a6dcb45c878f39e2f4aa1fdc4edd1ab24b8cebd20e145a44380e90dd392460d5"
     },
     "docs/requirements/tickets/.gitkeep": {
       "type": "file",
@@ -13680,9 +13500,9 @@
     },
     "docs/templates/build-architecture-checklist-template.md": {
       "type": "file",
-      "digest": "3d4378e9f6cf68e861697db67af126896a2059d3044252b17c5fd4ce16834cc7",
+      "digest": "f731ce69a77e77c0e95f1d16ae21fa1b0b9563f3d3cebcb9509b1336908cb8a8",
       "mode": 420,
-      "blob": "blobs/3d4378e9f6cf68e861697db67af126896a2059d3044252b17c5fd4ce16834cc7"
+      "blob": "blobs/f731ce69a77e77c0e95f1d16ae21fa1b0b9563f3d3cebcb9509b1336908cb8a8"
     },
     "docs/templates/cross-repo-slice-template.md": {
       "type": "file",
@@ -13722,9 +13542,9 @@
     },
     "docs/templates/implementation-routing-template.md": {
       "type": "file",
-      "digest": "8df33508fd72617e532947d543a1ab55ade61b5367b4c43935ea293662202833",
+      "digest": "14f3607131280084ee49ade7db0760330871ce69a95cfea7be026663f04b0ccd",
       "mode": 420,
-      "blob": "blobs/8df33508fd72617e532947d543a1ab55ade61b5367b4c43935ea293662202833"
+      "blob": "blobs/14f3607131280084ee49ade7db0760330871ce69a95cfea7be026663f04b0ccd"
     },
     "docs/templates/local-parent-ticket-template.md": {
       "type": "file",
@@ -13840,6 +13660,12 @@
       "mode": 420,
       "blob": "blobs/d588d728228f6d559c36991ac91979313d535ab555bd29691de2db16627f0f21"
     },
+    "scripts/audit-legacy-backend-scaffold": {
+      "type": "file",
+      "digest": "1b315575c006eaf0cc403c806e534510d1b79985ee13835f8124efb000900894",
+      "mode": 493,
+      "blob": "blobs/1b315575c006eaf0cc403c806e534510d1b79985ee13835f8124efb000900894"
+    },
     "scripts/audit-yss-backend-skills": {
       "type": "file",
       "digest": "9c07cd5ccd9db11e71999710193fdd8c284b57cabf076e85a5b7d466bdc24d51",
@@ -13869,6 +13695,18 @@
       "digest": "fa2d49c47b833e824ab9e015ec51f41276efa768b5f8149597c7b6b57c77f022",
       "mode": 420,
       "blob": "blobs/fa2d49c47b833e824ab9e015ec51f41276efa768b5f8149597c7b6b57c77f022"
+    },
+    "scripts/fixtures/backend-scaffold/attach-design-prerequisites.mjs": {
+      "type": "file",
+      "digest": "04293ced84d45b4440d1bee0580ceef820927d69bde3d0e55df26816a86ef871",
+      "mode": 420,
+      "blob": "blobs/04293ced84d45b4440d1bee0580ceef820927d69bde3d0e55df26816a86ef871"
+    },
+    "scripts/fixtures/backend-scaffold/design-prerequisites.mjs": {
+      "type": "file",
+      "digest": "afb68692a250e87d2178469421e98c41fd7252d13b7f0842ad3e82e936921966",
+      "mode": 420,
+      "blob": "blobs/afb68692a250e87d2178469421e98c41fd7252d13b7f0842ad3e82e936921966"
     },
     "scripts/fixtures/delivery-preflight/approved-execution-fixture.mjs": {
       "type": "file",
@@ -14034,9 +13872,9 @@
     },
     "scripts/fixtures/strategic-handoff/source-roles.json": {
       "type": "file",
-      "digest": "9fa3119c0299087675107fde5a54ea0ed5523448bb0601bef51eebad3569b243",
+      "digest": "3f53ac405ebc45bef6dee1e283f62c5f2a4a5ad7ae3c7d3790897b48e74cea7a",
       "mode": 420,
-      "blob": "blobs/9fa3119c0299087675107fde5a54ea0ed5523448bb0601bef51eebad3569b243"
+      "blob": "blobs/3f53ac405ebc45bef6dee1e283f62c5f2a4a5ad7ae3c7d3790897b48e74cea7a"
     },
     "scripts/fixtures/user-decision/build-fixture.mjs": {
       "type": "file",
@@ -14068,6 +13906,18 @@
       "mode": 493,
       "blob": "blobs/96cab2a3f06122d0847b3c57a997e793ccc54cc8b547db9b747a519b647e6a18"
     },
+    "scripts/lib/api-contract-decision.mjs": {
+      "type": "file",
+      "digest": "e4aa9342a21cbd027f75cfb3b81415e62d76094d6aaded1ef179cfee8d43c63c",
+      "mode": 420,
+      "blob": "blobs/e4aa9342a21cbd027f75cfb3b81415e62d76094d6aaded1ef179cfee8d43c63c"
+    },
+    "scripts/lib/api-contract-decision.test.mjs": {
+      "type": "file",
+      "digest": "0ff8557fa89ad45666b7f9cb95bc0086682a21d72bd001dde1803130030a5fb7",
+      "mode": 420,
+      "blob": "blobs/0ff8557fa89ad45666b7f9cb95bc0086682a21d72bd001dde1803130030a5fb7"
+    },
     "scripts/lib/approval-record.mjs": {
       "type": "file",
       "digest": "cd5e3a3e8409340f78e68b2f1eabf4e1a80c026ffc2923e828ee5e2f3c4d014a",
@@ -14091,6 +13941,12 @@
       "digest": "aa19ae7200a44adb2f7ff8aab33cc6de721a4cd5f3e4f4440a63f9caa2f78c8f",
       "mode": 420,
       "blob": "blobs/aa19ae7200a44adb2f7ff8aab33cc6de721a4cd5f3e4f4440a63f9caa2f78c8f"
+    },
+    "scripts/lib/backend-scaffold-prerequisites.mjs": {
+      "type": "file",
+      "digest": "7738d2a69f37b5ce3019067e2f9bc2b8ff4b401a0e9dc510c4458233ba38d54d",
+      "mode": 420,
+      "blob": "blobs/7738d2a69f37b5ce3019067e2f9bc2b8ff4b401a0e9dc510c4458233ba38d54d"
     },
     "scripts/lib/command-runner.mjs": {
       "type": "file",
@@ -14178,9 +14034,9 @@
     },
     "scripts/lib/harness-profile.mjs": {
       "type": "file",
-      "digest": "1f67583245554d93d162de2e5470eb5b2f903c3f2ef36bf7387867ddd500880f",
+      "digest": "71a5a3e838fbaf0c6495fa75d9ef67b37a968ce35419e7aa692a2b82bdf4dee1",
       "mode": 420,
-      "blob": "blobs/1f67583245554d93d162de2e5470eb5b2f903c3f2ef36bf7387867ddd500880f"
+      "blob": "blobs/71a5a3e838fbaf0c6495fa75d9ef67b37a968ce35419e7aa692a2b82bdf4dee1"
     },
     "scripts/lib/harness-skill-scope.mjs": {
       "type": "file",
@@ -14212,6 +14068,18 @@
       "mode": 420,
       "blob": "blobs/007e39300478da6f0e359d822642f7a6aaf2466ee5781bd81924cf5897eebc72"
     },
+    "scripts/lib/legacy-backend-scaffold-audit.mjs": {
+      "type": "file",
+      "digest": "7545d84b8a5bfa122d22de6a12d1c392abb311b90a909945d13112880104a10b",
+      "mode": 420,
+      "blob": "blobs/7545d84b8a5bfa122d22de6a12d1c392abb311b90a909945d13112880104a10b"
+    },
+    "scripts/lib/legacy-backend-scaffold-audit.test.mjs": {
+      "type": "file",
+      "digest": "516db803694836e549543cb9982b7f1a3d07b9676e3a8a0a0e84221081891546",
+      "mode": 420,
+      "blob": "blobs/516db803694836e549543cb9982b7f1a3d07b9676e3a8a0a0e84221081891546"
+    },
     "scripts/lib/lifecycle-registry.mjs": {
       "type": "file",
       "digest": "47dfb4a60fe354c3f51aeecdaffc392668c9559f035771eff21e4261b6ef1a6e",
@@ -14220,9 +14088,9 @@
     },
     "scripts/lib/lifecycle-transition.mjs": {
       "type": "file",
-      "digest": "42a609c34038bf4f7ff4a305a16ffb82be5f7c475dcafd42eac06afd97f51bc7",
+      "digest": "6f0d59502b2a9fe793d75c8e5349b6012629cdfcd08799dc1f673393f5b5e725",
       "mode": 420,
-      "blob": "blobs/42a609c34038bf4f7ff4a305a16ffb82be5f7c475dcafd42eac06afd97f51bc7"
+      "blob": "blobs/6f0d59502b2a9fe793d75c8e5349b6012629cdfcd08799dc1f673393f5b5e725"
     },
     "scripts/lib/maintenance-intensity.mjs": {
       "type": "file",
@@ -14235,6 +14103,12 @@
       "digest": "7baec65eff92b9daf7d76e09bda59e63f598cff34e25ea39148348df3976dada",
       "mode": 420,
       "blob": "blobs/7baec65eff92b9daf7d76e09bda59e63f598cff34e25ea39148348df3976dada"
+    },
+    "scripts/lib/openapi-draft-validation.mjs": {
+      "type": "file",
+      "digest": "b1a703701035f70399e1186227bc4a3c528c89c89f45057775cf635fd623a03a",
+      "mode": 420,
+      "blob": "blobs/b1a703701035f70399e1186227bc4a3c528c89c89f45057775cf635fd623a03a"
     },
     "scripts/lib/repository-mode.mjs": {
       "type": "file",
@@ -14256,9 +14130,9 @@
     },
     "scripts/lib/scenario-checks.mjs": {
       "type": "file",
-      "digest": "18ee3835ff72e177ccd564a0478240d55a7b55ed23f04427bc1c3fc1361dc770",
+      "digest": "49301bee9eb3fd25458a3c223d1f72665ef03f0cfa7c50875f2a2bd80646c906",
       "mode": 420,
-      "blob": "blobs/18ee3835ff72e177ccd564a0478240d55a7b55ed23f04427bc1c3fc1361dc770"
+      "blob": "blobs/49301bee9eb3fd25458a3c223d1f72665ef03f0cfa7c50875f2a2bd80646c906"
     },
     "scripts/lib/skill-governance.mjs": {
       "type": "file",
@@ -14268,15 +14142,15 @@
     },
     "scripts/lib/skill-registry.mjs": {
       "type": "file",
-      "digest": "a22a32fd77b983c054756d6754b4ca90834f7a8d0a675822db573f42f7a19522",
+      "digest": "a820f1705bb98f6cbc3b8c6dea6c635dba8f43975f601019cd0caa7c06fc384d",
       "mode": 420,
-      "blob": "blobs/a22a32fd77b983c054756d6754b4ca90834f7a8d0a675822db573f42f7a19522"
+      "blob": "blobs/a820f1705bb98f6cbc3b8c6dea6c635dba8f43975f601019cd0caa7c06fc384d"
     },
     "scripts/lib/skill-supply-chain.mjs": {
       "type": "file",
-      "digest": "90a2e4c38a55ea54958de020aa91662bda6c33caf6f4fb810c8f49e948409535",
+      "digest": "a0de45fa88c537d613fdaa23193f54d9788640c05d794dcb49a0c08dc292706b",
       "mode": 420,
-      "blob": "blobs/90a2e4c38a55ea54958de020aa91662bda6c33caf6f4fb810c8f49e948409535"
+      "blob": "blobs/a0de45fa88c537d613fdaa23193f54d9788640c05d794dcb49a0c08dc292706b"
     },
     "scripts/lib/strategic-feedback.mjs": {
       "type": "file",
@@ -14328,9 +14202,9 @@
     },
     "scripts/lib/task-package.mjs": {
       "type": "file",
-      "digest": "f801e4ff301786a60448953eba2f13b36558e7f8db07c1dc5f1acd2b067eb3df",
+      "digest": "99d8c0ad30fc225597400abbbb26a108fd016aef65d6b940019ac3b13042fc5e",
       "mode": 420,
-      "blob": "blobs/f801e4ff301786a60448953eba2f13b36558e7f8db07c1dc5f1acd2b067eb3df"
+      "blob": "blobs/99d8c0ad30fc225597400abbbb26a108fd016aef65d6b940019ac3b13042fc5e"
     },
     "scripts/lib/technical-design-boundary.mjs": {
       "type": "file",
@@ -14562,9 +14436,9 @@
     },
     "scripts/verify-harness-profile-scenarios": {
       "type": "file",
-      "digest": "8654c00b240475e9b78d41f3d85cd559d3a306f48364190700b8251491018304",
+      "digest": "452758c9820a939f6758f5697e88bdf4a3174aef0917761a81d17433ce1d7ced",
       "mode": 493,
-      "blob": "blobs/8654c00b240475e9b78d41f3d85cd559d3a306f48364190700b8251491018304"
+      "blob": "blobs/452758c9820a939f6758f5697e88bdf4a3174aef0917761a81d17433ce1d7ced"
     },
     "scripts/verify-implementation-path-scenarios": {
       "type": "file",
@@ -14604,9 +14478,9 @@
     },
     "scripts/verify-lifecycle-transition-scenarios": {
       "type": "file",
-      "digest": "eab284837108e38405a449f6ee5029cc418506ca111a04fa80db28eefe136aab",
+      "digest": "e192590599a44430d5f9817dfc1d5d9788a3da3838931cd4f6c5edac9497c903",
       "mode": 493,
-      "blob": "blobs/eab284837108e38405a449f6ee5029cc418506ca111a04fa80db28eefe136aab"
+      "blob": "blobs/e192590599a44430d5f9817dfc1d5d9788a3da3838931cd4f6c5edac9497c903"
     },
     "scripts/verify-maintenance-checkpoint": {
       "type": "file",
@@ -14631,6 +14505,12 @@
       "digest": "93fe098f6157d20d57aa921b9496a93538dc3b5297a1447ddb6b3c360deab6dc",
       "mode": 493,
       "blob": "blobs/93fe098f6157d20d57aa921b9496a93538dc3b5297a1447ddb6b3c360deab6dc"
+    },
+    "scripts/verify-openapi-draft-validation-record": {
+      "type": "file",
+      "digest": "fcb7382aabeb778074317d81f53d41690b3e12b21e8abccb54c43ef0048c5261",
+      "mode": 493,
+      "blob": "blobs/fcb7382aabeb778074317d81f53d41690b3e12b21e8abccb54c43ef0048c5261"
     },
     "scripts/verify-openapi-json-handoff-scenarios": {
       "type": "file",
@@ -14658,9 +14538,9 @@
     },
     "scripts/verify-retired-skill-ids": {
       "type": "file",
-      "digest": "ee9612c2081ae9dcb145c76f113b528112ce4af34e2f5737b9e35df308427cd9",
+      "digest": "b957cf6567f9fb2a11a370987897acbaf545c6b7fdc87dc73a2e6b5cfad85532",
       "mode": 493,
-      "blob": "blobs/ee9612c2081ae9dcb145c76f113b528112ce4af34e2f5737b9e35df308427cd9"
+      "blob": "blobs/b957cf6567f9fb2a11a370987897acbaf545c6b7fdc87dc73a2e6b5cfad85532"
     },
     "scripts/verify-scaffold-architecture-decision-scenarios": {
       "type": "file",
@@ -14676,9 +14556,9 @@
     },
     "scripts/verify-scaffold-generator-scenarios": {
       "type": "file",
-      "digest": "bfc30b277fe0998e836fe0d1c263d7cf535455b5699341cdefd3cd7092d4a14f",
+      "digest": "7533132f601a9060ae156f61830a4db9a25d8e663e6d006b187c8540bef94cf4",
       "mode": 493,
-      "blob": "blobs/bfc30b277fe0998e836fe0d1c263d7cf535455b5699341cdefd3cd7092d4a14f"
+      "blob": "blobs/7533132f601a9060ae156f61830a4db9a25d8e663e6d006b187c8540bef94cf4"
     },
     "scripts/verify-skill-governance": {
       "type": "file",
@@ -14724,9 +14604,9 @@
     },
     "scripts/verify-subagent-task-package-scenarios": {
       "type": "file",
-      "digest": "c000e721b007d20968a77e3792ecf81af4517530fb8ad03b7dee47cc71b95fd4",
+      "digest": "52edb07cb897c5770da52804016852dffa9e9764dd7a0020bd66171f688f1f29",
       "mode": 493,
-      "blob": "blobs/c000e721b007d20968a77e3792ecf81af4517530fb8ad03b7dee47cc71b95fd4"
+      "blob": "blobs/52edb07cb897c5770da52804016852dffa9e9764dd7a0020bd66171f688f1f29"
     },
     "scripts/verify-template": {
       "type": "file",
@@ -14790,9 +14670,9 @@
     },
     "skills-lock.json": {
       "type": "file",
-      "digest": "57851459b53b1fb5f02b6bdd770bab73bf2f102bf536412cb7072277600e5345",
+      "digest": "aede97f91c9c69b90231895ce17430831281d2b557aa75a8f333819679585f09",
       "mode": 420,
-      "blob": "blobs/57851459b53b1fb5f02b6bdd770bab73bf2f102bf536412cb7072277600e5345"
+      "blob": "blobs/aede97f91c9c69b90231895ce17430831281d2b557aa75a8f333819679585f09"
     },
     "yss-project.yaml": {
       "type": "file",
@@ -14802,6 +14682,56 @@
     }
   },
   "retiredFiles": {
+    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/SKILL.md": {
+      "type": "file",
+      "digest": "515297998ff0086028bf34c5ee09308fea6c59e292bac5aad81ad83e80202a1e",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/agents/openai.yaml": {
+      "type": "file",
+      "digest": "ef33ca2d81cb826d7b772c967ae9669b1a7e7ab95ecc9340939779a619a16d5f",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/SKILL.md": {
+      "type": "file",
+      "digest": "d6d7c8d091a81f8e34ec9f1d8ae6db4cf76007b6e9ba9e798fbe793216c7368f",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/agents/openai.yaml": {
+      "type": "file",
+      "digest": "76396e3684a88a9c4c9cab7f605df45f1b6c2213a2c9cb0d46f77776840c10dc",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/SKILL.md": {
+      "type": "file",
+      "digest": "5f15a5c5ece078f4edb56b6518374d71d0e23870ee37232fd518cebe9afdfd98",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/agents/openai.yaml": {
+      "type": "file",
+      "digest": "efa65c101909951b400a439348d569fb4731e58b5c6d9fc27aa3b896732a948c",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/SKILL.md": {
+      "type": "file",
+      "digest": "ef626c97b446b116948c73154c3f63742e4f51eb21c786d58f255906d7793ecc",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/agents/openai.yaml": {
+      "type": "file",
+      "digest": "59535593b57b6bffaea9c66afb89a9166d02175f9f23bfd3b0d0995569a05afb",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/SKILL.md": {
+      "type": "file",
+      "digest": "7a7b982ebc95142d2ee9293175a9829d9b8e21a9bef36308f418df248c630e6f",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/agents/openai.yaml": {
+      "type": "file",
+      "digest": "6705f6ec55318546ede350d247ec2fe1cee1b00ae58b93cd40e45dd7146e263f",
+      "mode": 420
+    },
     ".claude/skills/.yss-skills-manifest.json": {
       "type": "file",
       "digest": "4bd90435c9ce1d27a2726060574abc42f1175cbef5e7565068e77b6b99023d37",
@@ -17485,6 +17415,156 @@
     ".claude/skills/yss-web-controller/scripts/generate_controller.test.mjs": {
       "type": "file",
       "digest": "3e63fdb95276a81916110766aca34945b7ff75d63d78b0350c2b9bb25aa5a0b1",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/SKILL.md": {
+      "type": "file",
+      "digest": "515297998ff0086028bf34c5ee09308fea6c59e292bac5aad81ad83e80202a1e",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/agents/openai.yaml": {
+      "type": "file",
+      "digest": "ef33ca2d81cb826d7b772c967ae9669b1a7e7ab95ecc9340939779a619a16d5f",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/SKILL.md": {
+      "type": "file",
+      "digest": "d6d7c8d091a81f8e34ec9f1d8ae6db4cf76007b6e9ba9e798fbe793216c7368f",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/agents/openai.yaml": {
+      "type": "file",
+      "digest": "76396e3684a88a9c4c9cab7f605df45f1b6c2213a2c9cb0d46f77776840c10dc",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/SKILL.md": {
+      "type": "file",
+      "digest": "5f15a5c5ece078f4edb56b6518374d71d0e23870ee37232fd518cebe9afdfd98",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/agents/openai.yaml": {
+      "type": "file",
+      "digest": "efa65c101909951b400a439348d569fb4731e58b5c6d9fc27aa3b896732a948c",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/SKILL.md": {
+      "type": "file",
+      "digest": "ef626c97b446b116948c73154c3f63742e4f51eb21c786d58f255906d7793ecc",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/agents/openai.yaml": {
+      "type": "file",
+      "digest": "59535593b57b6bffaea9c66afb89a9166d02175f9f23bfd3b0d0995569a05afb",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/SKILL.md": {
+      "type": "file",
+      "digest": "7a7b982ebc95142d2ee9293175a9829d9b8e21a9bef36308f418df248c630e6f",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/agents/openai.yaml": {
+      "type": "file",
+      "digest": "6705f6ec55318546ede350d247ec2fe1cee1b00ae58b93cd40e45dd7146e263f",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/SKILL.md": {
+      "type": "file",
+      "digest": "515297998ff0086028bf34c5ee09308fea6c59e292bac5aad81ad83e80202a1e",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/agents/openai.yaml": {
+      "type": "file",
+      "digest": "ef33ca2d81cb826d7b772c967ae9669b1a7e7ab95ecc9340939779a619a16d5f",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/SKILL.md": {
+      "type": "file",
+      "digest": "d6d7c8d091a81f8e34ec9f1d8ae6db4cf76007b6e9ba9e798fbe793216c7368f",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/agents/openai.yaml": {
+      "type": "file",
+      "digest": "76396e3684a88a9c4c9cab7f605df45f1b6c2213a2c9cb0d46f77776840c10dc",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/SKILL.md": {
+      "type": "file",
+      "digest": "5f15a5c5ece078f4edb56b6518374d71d0e23870ee37232fd518cebe9afdfd98",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/agents/openai.yaml": {
+      "type": "file",
+      "digest": "efa65c101909951b400a439348d569fb4731e58b5c6d9fc27aa3b896732a948c",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/SKILL.md": {
+      "type": "file",
+      "digest": "ef626c97b446b116948c73154c3f63742e4f51eb21c786d58f255906d7793ecc",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/agents/openai.yaml": {
+      "type": "file",
+      "digest": "59535593b57b6bffaea9c66afb89a9166d02175f9f23bfd3b0d0995569a05afb",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/SKILL.md": {
+      "type": "file",
+      "digest": "7a7b982ebc95142d2ee9293175a9829d9b8e21a9bef36308f418df248c630e6f",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/agents/openai.yaml": {
+      "type": "file",
+      "digest": "6705f6ec55318546ede350d247ec2fe1cee1b00ae58b93cd40e45dd7146e263f",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/SKILL.md": {
+      "type": "file",
+      "digest": "515297998ff0086028bf34c5ee09308fea6c59e292bac5aad81ad83e80202a1e",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-adapter/agents/openai.yaml": {
+      "type": "file",
+      "digest": "ef33ca2d81cb826d7b772c967ae9669b1a7e7ab95ecc9340939779a619a16d5f",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/SKILL.md": {
+      "type": "file",
+      "digest": "d6d7c8d091a81f8e34ec9f1d8ae6db4cf76007b6e9ba9e798fbe793216c7368f",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-application/agents/openai.yaml": {
+      "type": "file",
+      "digest": "76396e3684a88a9c4c9cab7f605df45f1b6c2213a2c9cb0d46f77776840c10dc",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/SKILL.md": {
+      "type": "file",
+      "digest": "5f15a5c5ece078f4edb56b6518374d71d0e23870ee37232fd518cebe9afdfd98",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-domain/agents/openai.yaml": {
+      "type": "file",
+      "digest": "efa65c101909951b400a439348d569fb4731e58b5c6d9fc27aa3b896732a948c",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/SKILL.md": {
+      "type": "file",
+      "digest": "ef626c97b446b116948c73154c3f63742e4f51eb21c786d58f255906d7793ecc",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-infrastructure/agents/openai.yaml": {
+      "type": "file",
+      "digest": "59535593b57b6bffaea9c66afb89a9166d02175f9f23bfd3b0d0995569a05afb",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/SKILL.md": {
+      "type": "file",
+      "digest": "7a7b982ebc95142d2ee9293175a9829d9b8e21a9bef36308f418df248c630e6f",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-web/agents/openai.yaml": {
+      "type": "file",
+      "digest": "6705f6ec55318546ede350d247ec2fe1cee1b00ae58b93cd40e45dd7146e263f",
       "mode": 420
     },
     ".qoder/skills/alibaba-java-code-style/SKILL.md": {
@@ -22888,11 +22968,106 @@
       "mode": 420
     }
   },
-  "retiredFilesHash": "73c5dcd8428af5357bf3d9ad49b6a26668e11c2ff9bbff6b4cbfe43e7bc80c22",
+  "retiredFilesHash": "5969c249466df621f800c52ac464d43f03b1e68ee34a7204a41f1235abeed380",
   "transitionBaselines": {
+    ".agents/skills/harness-orchestrator/SKILL.md": {
+      "type": "file",
+      "digest": "b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492",
+      "mode": 420
+    },
+    ".agents/skills/harness-orchestrator/references/orchestration-contract.yaml": {
+      "type": "file",
+      "digest": "9142a300326e0eabf5e16a7e336a1a657255c39e0fa08199229d5696cc5d4572",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/SKILL.md": {
+      "type": "file",
+      "digest": "7c93828f9cc8e13912be5a5563303e5a8e6baba70e5d925742dcec09b41a1a3a",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/references/USAGE_EXAMPLES.md": {
+      "type": "file",
+      "digest": "cfdc158a715bc9be2c77c6fbfdf30179ee8f20a581c1b54bdf95faae7cdf855d",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-parent/SKILL.md": {
+      "type": "file",
+      "digest": "10cca120a2181f3dd304b848518f6466e0df2631c4872cd112988afc45389117",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/scripts/first-slice-compatibility.test.mjs": {
+      "type": "file",
+      "digest": "a374cf0222c59bceb31cea0150ad390dbf64c81150007505de6f59362ee96681",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/scripts/generate_scaffold.mjs": {
+      "type": "file",
+      "digest": "afcf6e12f7615fbb5204ff3c9ac907a963b24af484b73ed3dbbcf18715cac164",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/scripts/run_first_slice_verification.mjs": {
+      "type": "file",
+      "digest": "a92466818515979ae0ff82b5c2a6a89e2197a113f5307b80bc2e352bf112ad75",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/scripts/run_scaffold_verification.mjs": {
+      "type": "file",
+      "digest": "c4efaaf5b6a9af829c4f8638e62821e93084947ebc674e8c762d148594385f13",
+      "mode": 420
+    },
+    ".agents/skills/yss-ddd-scaffold-generator/scripts/scaffold-generator.test.mjs": {
+      "type": "file",
+      "digest": "5b53339d10acc2ee2e39bb3cc26fd8ed24ed9aa9532e3d779b64b58f347a918e",
+      "mode": 420
+    },
+    ".agents/skills/yss-implementation-contract-compiler/SKILL.md": {
+      "type": "file",
+      "digest": "907cf2ecc07c716b4e448d9f3380906bf153cb7c561fc0c42589eac46a0c7367",
+      "mode": 420
+    },
+    ".agents/skills/yss-implementation-contract-compiler/references/compiler-contract.yaml": {
+      "type": "file",
+      "digest": "3d670fcbce6baf0999652939f1f8823e64cb557df0d7dd9db348cca6764cd370",
+      "mode": 420
+    },
+    ".agents/skills/yss-layered-mvc-scaffold-generator/SKILL.md": {
+      "type": "file",
+      "digest": "faadece53343727d6b5f669f960b2bb0cda57d2d67ffb17d2cc0f67fb5c2261d",
+      "mode": 420
+    },
+    ".agents/skills/yss-layered-mvc-scaffold-generator/agents/openai.yaml": {
+      "type": "file",
+      "digest": "b15324c5835884b6d476da6a9c890b8777d8da7270be113a890600a65fea6ea9",
+      "mode": 420
+    },
+    ".agents/skills/yss-layered-mvc-scaffold-generator/scripts/generate_scaffold.mjs": {
+      "type": "file",
+      "digest": "be52ecb41ea601e8150359e8d7e7701f9f39157ab70ba0279d6fdd9e7f991d31",
+      "mode": 493
+    },
+    ".agents/skills/yss-layered-mvc-scaffold-generator/scripts/run_scaffold_verification.mjs": {
+      "type": "file",
+      "digest": "9fcf1de96936c47c693bdd9da2b181504358cfb604a0646475779fec5eb584a3",
+      "mode": 493
+    },
+    ".agents/skills/yss-layered-mvc-scaffold-generator/scripts/scaffold-generator.test.mjs": {
+      "type": "file",
+      "digest": "039affa62d7d07d7381135408ee81570396061d53908a8d57869f4177295cb89",
+      "mode": 493
+    },
+    ".agents/skills/yss-mvc-data-analysis-project-initializer/SKILL.md": {
+      "type": "file",
+      "digest": "b0ee0b87a975e1d560b3d539ffa59a1fd1c06cfde8b7fe02149667c46814ecf9",
+      "mode": 420
+    },
     ".agents/skills/yss-mvc-data-analysis-project-initializer/scripts/generate_project.mjs": {
       "type": "file",
       "digest": "8ee268dca51c0dac9a95bc2c95249b7887512b6492048cc015e45d43088a6861",
+      "mode": 420
+    },
+    ".agents/skills/yss-openapi-governance/SKILL.md": {
+      "type": "file",
+      "digest": "dfce104838750a0afda9348e9c1d550c5ad4415fb9ff73dffcec5479be15882c",
       "mode": 420
     },
     ".agents/skills/yss-tactical-design/SKILL.md": {
@@ -22900,9 +23075,114 @@
       "digest": "7346c004a83d6c49083397138f0159154415c84b4f40271e3213bea9e56b8ced",
       "mode": 420
     },
+    ".agents/skills/yss-web-controller/scripts/generate_controller.mjs": {
+      "type": "file",
+      "digest": "fc2af1b08b947c0d383a424e13fba455280dc746a97a61837890f485a14e4034",
+      "mode": 420
+    },
+    ".agents/skills/yss-web-controller/scripts/generate_controller.test.mjs": {
+      "type": "file",
+      "digest": "3e63fdb95276a81916110766aca34945b7ff75d63d78b0350c2b9bb25aa5a0b1",
+      "mode": 420
+    },
+    ".codex/skills/harness-orchestrator/SKILL.md": {
+      "type": "file",
+      "digest": "b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492",
+      "mode": 420
+    },
+    ".codex/skills/harness-orchestrator/references/orchestration-contract.yaml": {
+      "type": "file",
+      "digest": "9142a300326e0eabf5e16a7e336a1a657255c39e0fa08199229d5696cc5d4572",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/SKILL.md": {
+      "type": "file",
+      "digest": "7c93828f9cc8e13912be5a5563303e5a8e6baba70e5d925742dcec09b41a1a3a",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/references/USAGE_EXAMPLES.md": {
+      "type": "file",
+      "digest": "cfdc158a715bc9be2c77c6fbfdf30179ee8f20a581c1b54bdf95faae7cdf855d",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-parent/SKILL.md": {
+      "type": "file",
+      "digest": "10cca120a2181f3dd304b848518f6466e0df2631c4872cd112988afc45389117",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/scripts/first-slice-compatibility.test.mjs": {
+      "type": "file",
+      "digest": "a374cf0222c59bceb31cea0150ad390dbf64c81150007505de6f59362ee96681",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/scripts/generate_scaffold.mjs": {
+      "type": "file",
+      "digest": "afcf6e12f7615fbb5204ff3c9ac907a963b24af484b73ed3dbbcf18715cac164",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/scripts/run_first_slice_verification.mjs": {
+      "type": "file",
+      "digest": "a92466818515979ae0ff82b5c2a6a89e2197a113f5307b80bc2e352bf112ad75",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/scripts/run_scaffold_verification.mjs": {
+      "type": "file",
+      "digest": "c4efaaf5b6a9af829c4f8638e62821e93084947ebc674e8c762d148594385f13",
+      "mode": 420
+    },
+    ".codex/skills/yss-ddd-scaffold-generator/scripts/scaffold-generator.test.mjs": {
+      "type": "file",
+      "digest": "5b53339d10acc2ee2e39bb3cc26fd8ed24ed9aa9532e3d779b64b58f347a918e",
+      "mode": 420
+    },
+    ".codex/skills/yss-implementation-contract-compiler/SKILL.md": {
+      "type": "file",
+      "digest": "907cf2ecc07c716b4e448d9f3380906bf153cb7c561fc0c42589eac46a0c7367",
+      "mode": 420
+    },
+    ".codex/skills/yss-implementation-contract-compiler/references/compiler-contract.yaml": {
+      "type": "file",
+      "digest": "3d670fcbce6baf0999652939f1f8823e64cb557df0d7dd9db348cca6764cd370",
+      "mode": 420
+    },
+    ".codex/skills/yss-layered-mvc-scaffold-generator/SKILL.md": {
+      "type": "file",
+      "digest": "faadece53343727d6b5f669f960b2bb0cda57d2d67ffb17d2cc0f67fb5c2261d",
+      "mode": 420
+    },
+    ".codex/skills/yss-layered-mvc-scaffold-generator/agents/openai.yaml": {
+      "type": "file",
+      "digest": "b15324c5835884b6d476da6a9c890b8777d8da7270be113a890600a65fea6ea9",
+      "mode": 420
+    },
+    ".codex/skills/yss-layered-mvc-scaffold-generator/scripts/generate_scaffold.mjs": {
+      "type": "file",
+      "digest": "be52ecb41ea601e8150359e8d7e7701f9f39157ab70ba0279d6fdd9e7f991d31",
+      "mode": 493
+    },
+    ".codex/skills/yss-layered-mvc-scaffold-generator/scripts/run_scaffold_verification.mjs": {
+      "type": "file",
+      "digest": "9fcf1de96936c47c693bdd9da2b181504358cfb604a0646475779fec5eb584a3",
+      "mode": 493
+    },
+    ".codex/skills/yss-layered-mvc-scaffold-generator/scripts/scaffold-generator.test.mjs": {
+      "type": "file",
+      "digest": "039affa62d7d07d7381135408ee81570396061d53908a8d57869f4177295cb89",
+      "mode": 493
+    },
+    ".codex/skills/yss-mvc-data-analysis-project-initializer/SKILL.md": {
+      "type": "file",
+      "digest": "b0ee0b87a975e1d560b3d539ffa59a1fd1c06cfde8b7fe02149667c46814ecf9",
+      "mode": 420
+    },
     ".codex/skills/yss-mvc-data-analysis-project-initializer/scripts/generate_project.mjs": {
       "type": "file",
       "digest": "8ee268dca51c0dac9a95bc2c95249b7887512b6492048cc015e45d43088a6861",
+      "mode": 420
+    },
+    ".codex/skills/yss-openapi-governance/SKILL.md": {
+      "type": "file",
+      "digest": "dfce104838750a0afda9348e9c1d550c5ad4415fb9ff73dffcec5479be15882c",
       "mode": 420
     },
     ".codex/skills/yss-tactical-design/SKILL.md": {
@@ -22910,9 +23190,114 @@
       "digest": "7346c004a83d6c49083397138f0159154415c84b4f40271e3213bea9e56b8ced",
       "mode": 420
     },
+    ".codex/skills/yss-web-controller/scripts/generate_controller.mjs": {
+      "type": "file",
+      "digest": "fc2af1b08b947c0d383a424e13fba455280dc746a97a61837890f485a14e4034",
+      "mode": 420
+    },
+    ".codex/skills/yss-web-controller/scripts/generate_controller.test.mjs": {
+      "type": "file",
+      "digest": "3e63fdb95276a81916110766aca34945b7ff75d63d78b0350c2b9bb25aa5a0b1",
+      "mode": 420
+    },
+    ".cursor/skills/harness-orchestrator/SKILL.md": {
+      "type": "file",
+      "digest": "b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492",
+      "mode": 420
+    },
+    ".cursor/skills/harness-orchestrator/references/orchestration-contract.yaml": {
+      "type": "file",
+      "digest": "9142a300326e0eabf5e16a7e336a1a657255c39e0fa08199229d5696cc5d4572",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/SKILL.md": {
+      "type": "file",
+      "digest": "7c93828f9cc8e13912be5a5563303e5a8e6baba70e5d925742dcec09b41a1a3a",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/references/USAGE_EXAMPLES.md": {
+      "type": "file",
+      "digest": "cfdc158a715bc9be2c77c6fbfdf30179ee8f20a581c1b54bdf95faae7cdf855d",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-parent/SKILL.md": {
+      "type": "file",
+      "digest": "10cca120a2181f3dd304b848518f6466e0df2631c4872cd112988afc45389117",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/scripts/first-slice-compatibility.test.mjs": {
+      "type": "file",
+      "digest": "a374cf0222c59bceb31cea0150ad390dbf64c81150007505de6f59362ee96681",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/scripts/generate_scaffold.mjs": {
+      "type": "file",
+      "digest": "afcf6e12f7615fbb5204ff3c9ac907a963b24af484b73ed3dbbcf18715cac164",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/scripts/run_first_slice_verification.mjs": {
+      "type": "file",
+      "digest": "a92466818515979ae0ff82b5c2a6a89e2197a113f5307b80bc2e352bf112ad75",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/scripts/run_scaffold_verification.mjs": {
+      "type": "file",
+      "digest": "c4efaaf5b6a9af829c4f8638e62821e93084947ebc674e8c762d148594385f13",
+      "mode": 420
+    },
+    ".cursor/skills/yss-ddd-scaffold-generator/scripts/scaffold-generator.test.mjs": {
+      "type": "file",
+      "digest": "5b53339d10acc2ee2e39bb3cc26fd8ed24ed9aa9532e3d779b64b58f347a918e",
+      "mode": 420
+    },
+    ".cursor/skills/yss-implementation-contract-compiler/SKILL.md": {
+      "type": "file",
+      "digest": "907cf2ecc07c716b4e448d9f3380906bf153cb7c561fc0c42589eac46a0c7367",
+      "mode": 420
+    },
+    ".cursor/skills/yss-implementation-contract-compiler/references/compiler-contract.yaml": {
+      "type": "file",
+      "digest": "3d670fcbce6baf0999652939f1f8823e64cb557df0d7dd9db348cca6764cd370",
+      "mode": 420
+    },
+    ".cursor/skills/yss-layered-mvc-scaffold-generator/SKILL.md": {
+      "type": "file",
+      "digest": "faadece53343727d6b5f669f960b2bb0cda57d2d67ffb17d2cc0f67fb5c2261d",
+      "mode": 420
+    },
+    ".cursor/skills/yss-layered-mvc-scaffold-generator/agents/openai.yaml": {
+      "type": "file",
+      "digest": "b15324c5835884b6d476da6a9c890b8777d8da7270be113a890600a65fea6ea9",
+      "mode": 420
+    },
+    ".cursor/skills/yss-layered-mvc-scaffold-generator/scripts/generate_scaffold.mjs": {
+      "type": "file",
+      "digest": "be52ecb41ea601e8150359e8d7e7701f9f39157ab70ba0279d6fdd9e7f991d31",
+      "mode": 493
+    },
+    ".cursor/skills/yss-layered-mvc-scaffold-generator/scripts/run_scaffold_verification.mjs": {
+      "type": "file",
+      "digest": "9fcf1de96936c47c693bdd9da2b181504358cfb604a0646475779fec5eb584a3",
+      "mode": 493
+    },
+    ".cursor/skills/yss-layered-mvc-scaffold-generator/scripts/scaffold-generator.test.mjs": {
+      "type": "file",
+      "digest": "039affa62d7d07d7381135408ee81570396061d53908a8d57869f4177295cb89",
+      "mode": 493
+    },
+    ".cursor/skills/yss-mvc-data-analysis-project-initializer/SKILL.md": {
+      "type": "file",
+      "digest": "b0ee0b87a975e1d560b3d539ffa59a1fd1c06cfde8b7fe02149667c46814ecf9",
+      "mode": 420
+    },
     ".cursor/skills/yss-mvc-data-analysis-project-initializer/scripts/generate_project.mjs": {
       "type": "file",
       "digest": "8ee268dca51c0dac9a95bc2c95249b7887512b6492048cc015e45d43088a6861",
+      "mode": 420
+    },
+    ".cursor/skills/yss-openapi-governance/SKILL.md": {
+      "type": "file",
+      "digest": "dfce104838750a0afda9348e9c1d550c5ad4415fb9ff73dffcec5479be15882c",
       "mode": 420
     },
     ".cursor/skills/yss-tactical-design/SKILL.md": {
@@ -22920,14 +23305,129 @@
       "digest": "7346c004a83d6c49083397138f0159154415c84b4f40271e3213bea9e56b8ced",
       "mode": 420
     },
+    ".cursor/skills/yss-web-controller/scripts/generate_controller.mjs": {
+      "type": "file",
+      "digest": "fc2af1b08b947c0d383a424e13fba455280dc746a97a61837890f485a14e4034",
+      "mode": 420
+    },
+    ".cursor/skills/yss-web-controller/scripts/generate_controller.test.mjs": {
+      "type": "file",
+      "digest": "3e63fdb95276a81916110766aca34945b7ff75d63d78b0350c2b9bb25aa5a0b1",
+      "mode": 420
+    },
+    ".pi/skills/harness-orchestrator/SKILL.md": {
+      "type": "file",
+      "digest": "b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492",
+      "mode": 420
+    },
+    ".pi/skills/harness-orchestrator/references/orchestration-contract.yaml": {
+      "type": "file",
+      "digest": "9142a300326e0eabf5e16a7e336a1a657255c39e0fa08199229d5696cc5d4572",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/SKILL.md": {
+      "type": "file",
+      "digest": "7c93828f9cc8e13912be5a5563303e5a8e6baba70e5d925742dcec09b41a1a3a",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/references/USAGE_EXAMPLES.md": {
+      "type": "file",
+      "digest": "cfdc158a715bc9be2c77c6fbfdf30179ee8f20a581c1b54bdf95faae7cdf855d",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/references/yss-backend-scaffold-parent/SKILL.md": {
+      "type": "file",
+      "digest": "10cca120a2181f3dd304b848518f6466e0df2631c4872cd112988afc45389117",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/scripts/first-slice-compatibility.test.mjs": {
+      "type": "file",
+      "digest": "a374cf0222c59bceb31cea0150ad390dbf64c81150007505de6f59362ee96681",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/scripts/generate_scaffold.mjs": {
+      "type": "file",
+      "digest": "afcf6e12f7615fbb5204ff3c9ac907a963b24af484b73ed3dbbcf18715cac164",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/scripts/run_first_slice_verification.mjs": {
+      "type": "file",
+      "digest": "a92466818515979ae0ff82b5c2a6a89e2197a113f5307b80bc2e352bf112ad75",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/scripts/run_scaffold_verification.mjs": {
+      "type": "file",
+      "digest": "c4efaaf5b6a9af829c4f8638e62821e93084947ebc674e8c762d148594385f13",
+      "mode": 420
+    },
+    ".pi/skills/yss-ddd-scaffold-generator/scripts/scaffold-generator.test.mjs": {
+      "type": "file",
+      "digest": "5b53339d10acc2ee2e39bb3cc26fd8ed24ed9aa9532e3d779b64b58f347a918e",
+      "mode": 420
+    },
+    ".pi/skills/yss-implementation-contract-compiler/SKILL.md": {
+      "type": "file",
+      "digest": "907cf2ecc07c716b4e448d9f3380906bf153cb7c561fc0c42589eac46a0c7367",
+      "mode": 420
+    },
+    ".pi/skills/yss-implementation-contract-compiler/references/compiler-contract.yaml": {
+      "type": "file",
+      "digest": "3d670fcbce6baf0999652939f1f8823e64cb557df0d7dd9db348cca6764cd370",
+      "mode": 420
+    },
+    ".pi/skills/yss-layered-mvc-scaffold-generator/SKILL.md": {
+      "type": "file",
+      "digest": "faadece53343727d6b5f669f960b2bb0cda57d2d67ffb17d2cc0f67fb5c2261d",
+      "mode": 420
+    },
+    ".pi/skills/yss-layered-mvc-scaffold-generator/agents/openai.yaml": {
+      "type": "file",
+      "digest": "b15324c5835884b6d476da6a9c890b8777d8da7270be113a890600a65fea6ea9",
+      "mode": 420
+    },
+    ".pi/skills/yss-layered-mvc-scaffold-generator/scripts/generate_scaffold.mjs": {
+      "type": "file",
+      "digest": "be52ecb41ea601e8150359e8d7e7701f9f39157ab70ba0279d6fdd9e7f991d31",
+      "mode": 493
+    },
+    ".pi/skills/yss-layered-mvc-scaffold-generator/scripts/run_scaffold_verification.mjs": {
+      "type": "file",
+      "digest": "9fcf1de96936c47c693bdd9da2b181504358cfb604a0646475779fec5eb584a3",
+      "mode": 493
+    },
+    ".pi/skills/yss-layered-mvc-scaffold-generator/scripts/scaffold-generator.test.mjs": {
+      "type": "file",
+      "digest": "039affa62d7d07d7381135408ee81570396061d53908a8d57869f4177295cb89",
+      "mode": 493
+    },
+    ".pi/skills/yss-mvc-data-analysis-project-initializer/SKILL.md": {
+      "type": "file",
+      "digest": "b0ee0b87a975e1d560b3d539ffa59a1fd1c06cfde8b7fe02149667c46814ecf9",
+      "mode": 420
+    },
     ".pi/skills/yss-mvc-data-analysis-project-initializer/scripts/generate_project.mjs": {
       "type": "file",
       "digest": "8ee268dca51c0dac9a95bc2c95249b7887512b6492048cc015e45d43088a6861",
       "mode": 420
     },
+    ".pi/skills/yss-openapi-governance/SKILL.md": {
+      "type": "file",
+      "digest": "dfce104838750a0afda9348e9c1d550c5ad4415fb9ff73dffcec5479be15882c",
+      "mode": 420
+    },
     ".pi/skills/yss-tactical-design/SKILL.md": {
       "type": "file",
       "digest": "7346c004a83d6c49083397138f0159154415c84b4f40271e3213bea9e56b8ced",
+      "mode": 420
+    },
+    ".pi/skills/yss-web-controller/scripts/generate_controller.mjs": {
+      "type": "file",
+      "digest": "fc2af1b08b947c0d383a424e13fba455280dc746a97a61837890f485a14e4034",
+      "mode": 420
+    },
+    ".pi/skills/yss-web-controller/scripts/generate_controller.test.mjs": {
+      "type": "file",
+      "digest": "3e63fdb95276a81916110766aca34945b7ff75d63d78b0350c2b9bb25aa5a0b1",
       "mode": 420
     },
     "AGENTS.md": {
@@ -22940,6 +23440,16 @@
       "digest": "ccbc5b5a376cfb0b55921c94764b0093879755cc37914efee99d5becabd4de65",
       "mode": 420
     },
+    "docs/agents/digital-human-roles.yaml": {
+      "type": "file",
+      "digest": "f190b7f00fd512c5068cd1d1700143243166493d22a8277c6932eb27512554e8",
+      "mode": 420
+    },
+    "docs/agents/skill-migrations.md": {
+      "type": "file",
+      "digest": "12008752c3a122a56d1b15648e4cf6286b7014dacd083f4588c81d538c368738",
+      "mode": 420
+    },
     "docs/agents/skills-maintenance.md": {
       "type": "file",
       "digest": "400b9bfdbb35764316a86bb48013d214b142243a0d064fc47cb041dfd3bd0adf",
@@ -22948,6 +23458,16 @@
     "docs/agents/yss-skill-registry.yaml": {
       "type": "file",
       "digest": "e03e89e45b4c4b174a8d4ae97fdc9f3164fb1ae7f585ae37264e653be8bfcc78",
+      "mode": 420
+    },
+    "docs/architecture/templates/engineering-baseline-review-template.md": {
+      "type": "file",
+      "digest": "1625d1f09b55a590475e585561b0a1e02ba853b77992fac8c1d252de1bb61608",
+      "mode": 420
+    },
+    "docs/design/README.md": {
+      "type": "file",
+      "digest": "2be4ca57f077d4f80c90362852f4d8bb0c866e78f2ad8825b68a71512684da09",
       "mode": 420
     },
     "docs/process/delivery-preflight.md": {
@@ -22960,9 +23480,44 @@
       "digest": "2ac93f0d5b7aceed66c4de1e3acee6bd721d1702bad4a0aeb95041355fc93a9f",
       "mode": 420
     },
+    "docs/process/harness-profile.yaml": {
+      "type": "file",
+      "digest": "fe462950d451da7d6edf113ca662ffc23005715653a03e9cb9d5af029c1a8646",
+      "mode": 420
+    },
+    "docs/process/lifecycle-artifact-map.md": {
+      "type": "file",
+      "digest": "27018032620dee31763cd4f200938fcb592bffecb8ec8f392c02b5f317152fee",
+      "mode": 420
+    },
+    "docs/process/lifecycle-registry-baseline.json": {
+      "type": "file",
+      "digest": "5d6496c88e70dd5ebdcd315623673d9c335f77b2435b5f7a41e6018eb2d060c2",
+      "mode": 420
+    },
+    "docs/process/lifecycle-registry.yaml": {
+      "type": "file",
+      "digest": "2d808de69af3dbba627cf4e3a1398279e61120172bfd4ff4ee95a3b29659cf6d",
+      "mode": 420
+    },
+    "docs/process/schemas/digital-human-task-package.schema.json": {
+      "type": "file",
+      "digest": "9660f8ed6fc25de4a28c5aae621b3a5b01fd094c7283e7ae83d4702df87746bd",
+      "mode": 420
+    },
+    "docs/process/schemas/implementation-repository-preparation-result.schema.json": {
+      "type": "file",
+      "digest": "6957a4323c65f95bba7b2e08275a825160dd0c09b335966c5e030614211d486f",
+      "mode": 420
+    },
     "docs/process/schemas/lifecycle-checkpoint.schema.json": {
       "type": "file",
       "digest": "bb558834d699d6a9f431ce8198779b04efc68a411639fe0d2cb456a3c0010f17",
+      "mode": 420
+    },
+    "docs/process/schemas/project-scaffold-contract.schema.json": {
+      "type": "file",
+      "digest": "b4be48a8ddc5694349ed6115e839772772bc0b856e3943699e2a840229ceea24",
       "mode": 420
     },
     "docs/process/schemas/strategic-design-handoff.schema.json": {
@@ -22983,6 +23538,21 @@
     "docs/process/templates/lifecycle-checkpoint-template.yaml": {
       "type": "file",
       "digest": "4467bd7c114211a6a93b73d83b3d9af5470cea609887150049f3dbf45a7fe3e3",
+      "mode": 420
+    },
+    "docs/requirements/README.md": {
+      "type": "file",
+      "digest": "4d35c71dec05c6089cf32a317b730c2a8a2964777d493eaa6a9d432626ba016e",
+      "mode": 420
+    },
+    "docs/templates/build-architecture-checklist-template.md": {
+      "type": "file",
+      "digest": "3d4378e9f6cf68e861697db67af126896a2059d3044252b17c5fd4ce16834cc7",
+      "mode": 420
+    },
+    "docs/templates/implementation-routing-template.md": {
+      "type": "file",
+      "digest": "8df33508fd72617e532947d543a1ab55ade61b5367b4c43935ea293662202833",
       "mode": 420
     },
     "docs/user-guide/CLI使用说明.md": {
@@ -23010,14 +23580,44 @@
       "digest": "621b82180674c95f8a7f3625858ed44682e701088e0cc7c6c4a5fa181c1b48c4",
       "mode": 420
     },
+    "scripts/fixtures/backend-scaffold/design-prerequisites.mjs": {
+      "type": "file",
+      "digest": "748a1ff2417ebf838bea4993f5b36155fd9f43360c8d3e9d8a22c46b4a58cc28",
+      "mode": 420
+    },
     "scripts/fixtures/strategic-handoff/fixture.mjs": {
       "type": "file",
       "digest": "d70012010e7e9a2d41de4d2f4a4e516052ceb0aad2891646d98ea27574cb2f35",
       "mode": 420
     },
+    "scripts/fixtures/strategic-handoff/source-roles.json": {
+      "type": "file",
+      "digest": "9fa3119c0299087675107fde5a54ea0ed5523448bb0601bef51eebad3569b243",
+      "mode": 420
+    },
+    "scripts/lib/backend-scaffold-prerequisites.mjs": {
+      "type": "file",
+      "digest": "9031ba9fae3243caee445e393f239281e19e1d776d8705501a84cc5b853f793f",
+      "mode": 420
+    },
+    "scripts/lib/harness-profile.mjs": {
+      "type": "file",
+      "digest": "1f67583245554d93d162de2e5470eb5b2f903c3f2ef36bf7387867ddd500880f",
+      "mode": 420
+    },
     "scripts/lib/instance-distribution.mjs": {
       "type": "file",
       "digest": "36570e9d8289ccac4d7f60f4b37b5f5aa7d062472699ae2ac26a9c5b98da260f",
+      "mode": 420
+    },
+    "scripts/lib/lifecycle-transition.mjs": {
+      "type": "file",
+      "digest": "42a609c34038bf4f7ff4a305a16ffb82be5f7c475dcafd42eac06afd97f51bc7",
+      "mode": 420
+    },
+    "scripts/lib/scenario-checks.mjs": {
+      "type": "file",
+      "digest": "18ee3835ff72e177ccd564a0478240d55a7b55ed23f04427bc1c3fc1361dc770",
       "mode": 420
     },
     "scripts/lib/skill-registry.mjs": {
@@ -23050,9 +23650,34 @@
       "digest": "adfed7e9c8b746e0f3db4b1b85f00159f85cad5c349852b14cf22259182fdbb3",
       "mode": 420
     },
+    "scripts/lib/task-package.mjs": {
+      "type": "file",
+      "digest": "f801e4ff301786a60448953eba2f13b36558e7f8db07c1dc5f1acd2b067eb3df",
+      "mode": 420
+    },
     "scripts/strategic-handoff": {
       "type": "file",
       "digest": "616c2d62da4a9a5f33fa6a638685eb82c0fce511ab1725c6b050d8d0117ca5be",
+      "mode": 493
+    },
+    "scripts/verify-harness-profile-scenarios": {
+      "type": "file",
+      "digest": "8654c00b240475e9b78d41f3d85cd559d3a306f48364190700b8251491018304",
+      "mode": 493
+    },
+    "scripts/verify-lifecycle-transition-scenarios": {
+      "type": "file",
+      "digest": "eab284837108e38405a449f6ee5029cc418506ca111a04fa80db28eefe136aab",
+      "mode": 493
+    },
+    "scripts/verify-retired-skill-ids": {
+      "type": "file",
+      "digest": "ee9612c2081ae9dcb145c76f113b528112ce4af34e2f5737b9e35df308427cd9",
+      "mode": 493
+    },
+    "scripts/verify-scaffold-generator-scenarios": {
+      "type": "file",
+      "digest": "bfc30b277fe0998e836fe0d1c263d7cf535455b5699341cdefd3cd7092d4a14f",
       "mode": 493
     },
     "scripts/verify-strategic-context-import": {
@@ -23065,14 +23690,19 @@
       "digest": "8eb3e3393028f1955f39de7a0559594e9ac23631374d657bee779ca4a7957d96",
       "mode": 493
     },
+    "scripts/verify-subagent-task-package-scenarios": {
+      "type": "file",
+      "digest": "c000e721b007d20968a77e3792ecf81af4517530fb8ad03b7dee47cc71b95fd4",
+      "mode": 493
+    },
     "skills-lock.json": {
       "type": "file",
       "digest": "a4b211ae6fdc40cbf9840ed4ef6f4eda5d46563ed467ac329c2e7507e3fe6a22",
       "mode": 420
     }
   },
-  "transitionBaselinesHash": "b8dd19b5761c1d44a48f072d770dfb060e6c1e685b5e098b6009a35669f3ff7c",
-  "snapshotHash": "1247aa4fb8b5ba33201fa67e86a031bd160e70508419df62ca097a446013404b",
+  "transitionBaselinesHash": "8042003c15acbbcf313c3bf70dc6f3e3f80d7142a07f8bab442eeb57c3572ded",
+  "snapshotHash": "0c3677fb47fc3bceb18fb8426d2c956d2a0ce040551e519ded695243f48a0abb",
   "projectionRepresentation": "materialized-files",
   "pathEncoding": "sha256-blobs-v1"
 }
