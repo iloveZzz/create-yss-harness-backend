@@ -1,33 +1,11 @@
----
-name: mapstruct
-description: |
-  MapStruct Java mapping framework. Covers basic mappers, update mappings,
-  nested objects, collections, custom methods, and Lombok integration.
-  Based on castellino and gestionale-presenze production patterns.
+# mapstruct 条件参考
 
-  USE WHEN: user mentions "mapstruct", "@Mapper", "@Mapping", asks about
-  "DTO mapping", "entity conversion", "@MappingTarget", "nested mapping"
-
-  DO NOT USE FOR: Java language - use `java` skill instead
-  DO NOT USE FOR: Lombok - use `lombok` skill instead
-  DO NOT USE FOR: JPA entities - use JPA-specific skills
-allowed-tools: Read, Grep, Glob, Write, Edit
----
-# MapStruct Object Mapping
-
-> **Deep Knowledge**: Use `mcp__documentation__fetch_docs` with technology: `mapstruct` for comprehensive documentation.
-
-## YSS 阶段 7 执行结果
-
-- Java、依赖与处理器版本来自工程基线，不从下面通用示例推断。三个新后端 Profile 为 Java 8；MVC 的 wire/internal 转换在 server，core/service 不依赖 client，Repository 不依赖上层 DTO。采用 Spring Bean 和构造器注入，显式映射或忽略字段；禁止通过全局 IGNORE 掩盖合同字段遗漏。
-- 消费批准后的 Slice Contract/work unit，只为合同中的 DTO/VO/PO/Domain 转换生成 Mapper/Convertor。
-- 受控生成必须记录 source/target、忽略字段、更新语义、Lombok processor 配置和 mapper 行为测试。
-- 按 `yss-implementation-contract-compiler` 的统一 Execution Result 返回生成/源文件、测试和实际验证；未映射字段、反射/BeanUtils 退化或越界路径返回 `violation`。
+仅在需要具体注解或配置示例时定位对应章节。示例业务名与版本不是工程基线；按批准合同替换，禁止直接复制成业务实现。
 
 ## Basic Mapper
 
 ```java
-@Mapper(componentModel = "spring", unmappedTargetPolicy = ReportingPolicy.IGNORE)
+@Mapper(componentModel = "spring", unmappedTargetPolicy = ReportingPolicy.ERROR)
 public interface UserMapper {
 
     UserResponse toResponse(User user);
@@ -45,7 +23,7 @@ public interface UserMapper {
 ## Update Mapping
 
 ```java
-@Mapper(componentModel = "spring", unmappedTargetPolicy = ReportingPolicy.IGNORE)
+@Mapper(componentModel = "spring", unmappedTargetPolicy = ReportingPolicy.ERROR)
 public interface UserMapper {
 
     // Partial update - ignores null values
@@ -234,7 +212,7 @@ public abstract class UserMapper {
                 <source>${maven.compiler.source}</source>
                 <target>${maven.compiler.target}</target>
                 <annotationProcessorPaths>
-                    <!-- Order matters: Lombok first -->
+                    <!-- Use the approved processor configuration, including Lombok binding -->
                     <path>
                         <groupId>org.projectlombok</groupId>
                         <artifactId>lombok</artifactId>
@@ -276,26 +254,15 @@ public abstract class UserMapper {
 ## Best Practices
 
 1. Use `componentModel = "spring"` for Spring injection
-2. Use `unmappedTargetPolicy = ReportingPolicy.IGNORE` for DTOs with fewer fields
-3. Always exclude `id`, `createdAt`, `updatedAt` when mapping from DTOs
+2. Keep unmapped targets visible with `ReportingPolicy.ERROR`; explicitly ignore only fields excluded by the contract
+3. Map or explicitly exclude identity and audit fields according to ownership in the contract
 4. Use `@MappingTarget` for partial updates
-5. Order annotation processors: Lombok → MapStruct → Binding
+5. Configure Lombok, MapStruct and the required binding processor from the engineering baseline
 6. Use abstract classes instead of interfaces for custom logic
 7. Use `@Condition` for conditional mapping logic
 
 ---
 
-## When NOT to Use This Skill
-
-| Scenario | Use Instead |
-|----------|-------------|
-| Java language features | `java` skill |
-| Lombok annotations | `lombok` skill |
-| Spring configuration | `backend-spring-boot` skill |
-| JPA entity operations | JPA-specific skills |
-| Simple copying outside YSS contracts | Explicit manual mapping; in YSS slices follow the contract and never fall back to `BeanUtils.copyProperties` |
-
----
 
 ## Anti-Patterns
 
@@ -304,7 +271,7 @@ public abstract class UserMapper {
 | Mapping entities to entities | Breaks change tracking | Map DTO to entity |
 | Not using @MappingTarget | Inefficient updates | Use for partial updates |
 | Complex logic in expressions | Hard to test | Use custom methods |
-| Ignoring all unmapped | Misses fields silently | Use WARN or ERROR policy |
+| Ignoring all unmapped | Misses fields silently | Use ERROR and explicit field mappings |
 | Not excluding audit fields | Overwrites metadata | Exclude id, timestamps |
 | Circular references | StackOverflowError | Break cycles with custom mapping |
 | Using interfaces for custom logic | Can't inject dependencies | Use abstract classes |
@@ -317,10 +284,10 @@ public abstract class UserMapper {
 | Issue | Cause | Solution |
 |-------|-------|----------|
 | "Cannot find implementation" | Annotation processing failed | Check processor configuration |
-| Lombok fields not found | Wrong processor order | Lombok before MapStruct |
+| Lombok fields not found | Missing processor or binding | Check annotationProcessorPaths and Lombok binding |
 | Mapper not autowired | Wrong componentModel | Use componentModel = "spring" |
-| Circular dependency | Mappers reference each other | Use @Lazy or refactor |
-| UnmappedTargetProperty warning | Missing mapping | Add @Mapping or ignore policy |
+| Circular dependency | Mappers reference each other | Review mapper dependencies and remove cycles |
+| UnmappedTargetProperty warning | Missing mapping | Add an explicit mapping or a contract-approved field ignore |
 | NullPointerException in mapping | Null source | Add null checks or NullValuePropertyMappingStrategy |
 | Custom method not called | Wrong signature | Match method parameters exactly |
 | Generated code not updated | IDE cache | Clean and rebuild project |
@@ -331,5 +298,3 @@ public abstract class UserMapper {
 - [MapStruct Reference](https://mapstruct.org/documentation/stable/reference/html/)
 - [Spring Integration](https://mapstruct.org/documentation/stable/reference/html/#spring)
 - [Lombok Integration](https://mapstruct.org/faq/#can-i-use-mapstruct-together-with-project-lombok)
-
-> **Deep Knowledge**: Use `mcp__documentation__fetch_docs` with technology: `mapstruct` for comprehensive documentation.

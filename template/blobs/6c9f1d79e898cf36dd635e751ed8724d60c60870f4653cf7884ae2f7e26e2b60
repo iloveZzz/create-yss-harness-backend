@@ -1,46 +1,12 @@
----
-name: lombok
-description: |
-  Project Lombok for reducing Java boilerplate. Covers annotations for getters,
-  setters, constructors, builders, logging, and more. Based on production
-  patterns from castellino and gestionale-presenze projects.
+# lombok 条件参考
 
-  USE WHEN: user mentions "lombok", "@Data", "@Builder", "@Slf4j", asks about
-  "boilerplate reduction", "getters/setters", "@RequiredArgsConstructor", "@Value"
-
-  DO NOT USE FOR: Java language features - use `java` skill instead
-  DO NOT USE FOR: MapStruct integration - use `mapstruct` skill
-  DO NOT USE FOR: Spring annotations - use `backend-spring-boot` skill
-allowed-tools: Read, Grep, Glob, Write, Edit
----
-# Project Lombok
-
-> **Deep Knowledge**: Use `mcp__documentation__fetch_docs` with technology: `lombok` for comprehensive documentation.
-
-## YSS 阶段 7 执行结果
-
-- 消费工程 Java 与处理器基线；三个新后端 Profile 为 Java 8。MapStruct binding 进入 annotationProcessorPaths，不作为业务依赖单独引入；示例不授权升级依赖。MVC PO 的身份/敏感字段风险与 DDD 相同，不能默认全量 @Data。
-- 消费批准后的 Slice Contract/work unit，只在允许路径内调整 POJO 样板和注解处理器配置。
-- 受控生成必须记录对象类型、选用/排除注解、实体关系和敏感字段风险、编译/测试实际结果。
-- 按 `yss-implementation-contract-compiler` 的统一 Execution Result 返回 changed files、证据、偏离和新增影响；`@Data` 实体风险、处理器配置缺失或越界路径返回 `violation`。
+仅在需要具体注解或配置示例时定位对应章节。示例业务名与版本不是工程基线；按批准合同替换，禁止直接复制成业务实现。
 
 ## Maven Configuration
 
-```xml
-<dependency>
-    <groupId>org.projectlombok</groupId>
-    <artifactId>lombok</artifactId>
-    <version>1.18.34</version>
-    <optional>true</optional>
-</dependency>
+复用工程父 POM 中已批准的 Lombok 版本与编译插件配置。Lombok 依赖按工程策略使用 provided 或 optional；使用显式注解处理器路径的项目，将 Lombok 放入 `annotationProcessorPaths`。
 
-<!-- For MapStruct compatibility -->
-<dependency>
-    <groupId>org.projectlombok</groupId>
-    <artifactId>lombok-mapstruct-binding</artifactId>
-    <version>0.2.0</version>
-</dependency>
-```
+与 MapStruct 共用时，在同一处理器配置中核验 Lombok、MapStruct processor 和适用的 lombok-mapstruct-binding；binding 不作为业务依赖单独引入。具体配置参见 [MapStruct 配置示例](../../mapstruct/references/annotation-examples.md#maven-configuration)，示例版本仍由当前工程基线替换。
 
 ## Common Annotations
 
@@ -195,7 +161,7 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public UserResponse create(CreateUserRequest dto) {
-        log.info("Creating user: {}", dto.getEmail());
+        log.info("Creating user");
         User user = userMapper.toEntity(dto);
         return userMapper.toResponse(userRepository.save(user));
     }
@@ -209,7 +175,7 @@ public class UserServiceImpl implements UserService {
 public class UserService {
     public void process() {
         log.info("Processing...");
-        log.debug("Debug info: {}", data);
+        log.debug("Processing completed");
         log.error("Error occurred", exception);
     }
 }
@@ -223,7 +189,9 @@ public class UserService {
 
 ```java
 // Request DTO
-@Data
+@Getter
+@Setter
+@ToString(onlyExplicitlyIncluded = true)
 public class CreateUserRequest {
     @NotBlank
     private String name;
@@ -302,17 +270,6 @@ Point p2 = p1.withX(5);  // Point(5, 2)
 
 ---
 
-## When NOT to Use This Skill
-
-| Scenario | Use Instead |
-|----------|-------------|
-| Java core language | `java` skill |
-| MapStruct mapping | `mapstruct` skill |
-| Spring annotations | `backend-spring-boot` skill |
-| JPA entities complex logic | Manual implementation |
-| Public API design | Explicit methods for clarity |
-
----
 
 ## Anti-Patterns
 
@@ -348,5 +305,3 @@ Point p2 = p1.withX(5);  // Point(5, 2)
 - [Lombok Documentation](https://projectlombok.org/features/)
 - [Stable Features](https://projectlombok.org/features/all)
 - [Configuration](https://projectlombok.org/features/configuration)
-
-> **Deep Knowledge**: Use `mcp__documentation__fetch_docs` with technology: `lombok` for comprehensive documentation.
