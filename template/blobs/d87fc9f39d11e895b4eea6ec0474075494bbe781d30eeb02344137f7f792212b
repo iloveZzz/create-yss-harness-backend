@@ -1,7 +1,0 @@
-{
-  "source": "@yss/skills",
-  "mode": "copy",
-  "skills": [
-    "java-backend-commit"
-  ]
-}
