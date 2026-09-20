@@ -6,7 +6,7 @@
   "metadataFile": ".yss-harness-backend.json",
   "templateName": "yss-harness-backend-agent",
   "templateSource": "github:iloveZzz/yss-harness-backend-agent",
-  "templateCommit": "f440149e87d402fbdd751efccd0d426bc486aa4a",
+  "templateCommit": "f2a36c8eca44b3272bd491da3dead4ce1874372f",
   "sourceState": "committed",
   "manifestHash": "85d99d140544d30a016cca23ebb166bd57e26debbc76cf403447d0d880d89f26",
   "files": {
@@ -1254,9 +1254,9 @@
     },
     ".agents/skills/code-review/references/yss-review-standards.md": {
       "type": "file",
-      "digest": "f97195d2c7e2d9e1d8ccf430450646d89be1b42231b352bafe86b782711407ed",
+      "digest": "1ad296f682c2334c952aa8a35e67c474065a8a26bfddf0ba70f0c39c741772ce",
       "mode": 420,
-      "blob": "blobs/f97195d2c7e2d9e1d8ccf430450646d89be1b42231b352bafe86b782711407ed"
+      "blob": "blobs/1ad296f682c2334c952aa8a35e67c474065a8a26bfddf0ba70f0c39c741772ce"
     },
     ".agents/skills/codebase-design/DEEPENING.md": {
       "type": "file",
@@ -1854,9 +1854,9 @@
     },
     ".agents/skills/yss-application/SKILL.md": {
       "type": "file",
-      "digest": "ccb07a5f32c71abfefca09e86de2683efe9b5c6e1b36f8a2a6fb9781ebff7a83",
+      "digest": "c9592407f0cc5499d30c683698d3ff3af7b7d68adab97cc544c7aed2e9e87fa2",
       "mode": 420,
-      "blob": "blobs/ccb07a5f32c71abfefca09e86de2683efe9b5c6e1b36f8a2a6fb9781ebff7a83"
+      "blob": "blobs/c9592407f0cc5499d30c683698d3ff3af7b7d68adab97cc544c7aed2e9e87fa2"
     },
     ".agents/skills/yss-application/agents/openai.yaml": {
       "type": "file",
@@ -1950,21 +1950,27 @@
     },
     ".agents/skills/yss-backend-spec-review/SKILL.md": {
       "type": "file",
-      "digest": "c3720e0acb4a1845eb731f524a3bf50daf30d6b4d389567e631b61713bfde829",
+      "digest": "f6a685c11562d91b4ccd37e245a447082e923ab689aa131613e7a51b9fa24384",
       "mode": 420,
-      "blob": "blobs/c3720e0acb4a1845eb731f524a3bf50daf30d6b4d389567e631b61713bfde829"
+      "blob": "blobs/f6a685c11562d91b4ccd37e245a447082e923ab689aa131613e7a51b9fa24384"
     },
     ".agents/skills/yss-backend-spec-review/references/check-inputs.md": {
       "type": "file",
-      "digest": "02db003732f2b19b52a02064fb1666fbb24a95deef863a89a4bf94f877c765c2",
+      "digest": "a70c08db9fbd2f5d4f4a540d68f9502cd9a7e44c67415697ca83de927fc27b71",
       "mode": 420,
-      "blob": "blobs/02db003732f2b19b52a02064fb1666fbb24a95deef863a89a4bf94f877c765c2"
+      "blob": "blobs/a70c08db9fbd2f5d4f4a540d68f9502cd9a7e44c67415697ca83de927fc27b71"
     },
     ".agents/skills/yss-backend-spec-review/references/remediation-workflow.md": {
       "type": "file",
       "digest": "ba6b4ff11a331661bb872f0dc7ff8d295923dcfb357332722540e03ec1220331",
       "mode": 420,
       "blob": "blobs/ba6b4ff11a331661bb872f0dc7ff8d295923dcfb357332722540e03ec1220331"
+    },
+    ".agents/skills/yss-backend-spec-review/references/standards-coverage.md": {
+      "type": "file",
+      "digest": "9c6ccfd2a5d20686567c0a2d1984dad89ce3155f67f43816a404035297ca6f8d",
+      "mode": 420,
+      "blob": "blobs/9c6ccfd2a5d20686567c0a2d1984dad89ce3155f67f43816a404035297ca6f8d"
     },
     ".agents/skills/yss-backend-spec-review/tests/routing.test.mjs": {
       "type": "file",
@@ -2310,9 +2316,9 @@
     },
     ".agents/skills/yss-domain/SKILL.md": {
       "type": "file",
-      "digest": "41b866b454395a98c0f96a54122332a9d19bfef5ccf4da4c465d73f9501242bb",
+      "digest": "6f2c05ce2d09d301691bdcaa20230911f073e40d02654051f7393757b1869333",
       "mode": 420,
-      "blob": "blobs/41b866b454395a98c0f96a54122332a9d19bfef5ccf4da4c465d73f9501242bb"
+      "blob": "blobs/6f2c05ce2d09d301691bdcaa20230911f073e40d02654051f7393757b1869333"
     },
     ".agents/skills/yss-domain/agents/openai.yaml": {
       "type": "file",
@@ -2322,15 +2328,21 @@
     },
     ".agents/skills/yss-domain/references/domain-layer-guide.md": {
       "type": "file",
-      "digest": "6cb6ae626f3ebbe8a1082995a9b0ba4cb62b97eec2fb35b156c5b82e045219ec",
+      "digest": "1083a44e2d93036c8e60d14a620c720062fcc88e2e25c47a7229201ebefc795f",
       "mode": 420,
-      "blob": "blobs/6cb6ae626f3ebbe8a1082995a9b0ba4cb62b97eec2fb35b156c5b82e045219ec"
+      "blob": "blobs/1083a44e2d93036c8e60d14a620c720062fcc88e2e25c47a7229201ebefc795f"
+    },
+    ".agents/skills/yss-domain/references/existing-project.md": {
+      "type": "file",
+      "digest": "78bf4000e64d2bcd54d2bba1ffcb954751855ce0ba8b7cf3ca45746046c21c79",
+      "mode": 420,
+      "blob": "blobs/78bf4000e64d2bcd54d2bba1ffcb954751855ce0ba8b7cf3ca45746046c21c79"
     },
     ".agents/skills/yss-dto/SKILL.md": {
       "type": "file",
-      "digest": "8605fc36aa13a2f3bea416a29fcfa6f988802f7bbd3dd920b4c6f0da67438896",
+      "digest": "d8cf58160d2e42ca03bc5555a56260ae0060bb2fdba263149c0dea6cbccb8389",
       "mode": 420,
-      "blob": "blobs/8605fc36aa13a2f3bea416a29fcfa6f988802f7bbd3dd920b4c6f0da67438896"
+      "blob": "blobs/d8cf58160d2e42ca03bc5555a56260ae0060bb2fdba263149c0dea6cbccb8389"
     },
     ".agents/skills/yss-dto/agents/openai.yaml": {
       "type": "file",
@@ -2514,9 +2526,9 @@
     },
     ".agents/skills/yss-implementation-contract-compiler/references/yss-skill-execution-result.md": {
       "type": "file",
-      "digest": "1e2396c6cac6c1e20651352c69117e9b9f788ca771708d660aff7a1b5d7a186a",
+      "digest": "19dffd4b145726437be0fbf7beb874d5737b040733e1ab1a39f5745048cde7c1",
       "mode": 420,
-      "blob": "blobs/1e2396c6cac6c1e20651352c69117e9b9f788ca771708d660aff7a1b5d7a186a"
+      "blob": "blobs/19dffd4b145726437be0fbf7beb874d5737b040733e1ab1a39f5745048cde7c1"
     },
     ".agents/skills/yss-implementation-contract-compiler/tests/backend-profiles.test.mjs": {
       "type": "file",
@@ -2592,9 +2604,9 @@
     },
     ".agents/skills/yss-mybatis/SKILL.md": {
       "type": "file",
-      "digest": "3156289699fce09dd6447d22a90c70c52b2e14ea6b04c4fdef6462ccb0fd038b",
+      "digest": "d64cff063d1857cebf528b7cf1e7f4a538e7d3b2d159921f49363ddfb2bc06a7",
       "mode": 420,
-      "blob": "blobs/3156289699fce09dd6447d22a90c70c52b2e14ea6b04c4fdef6462ccb0fd038b"
+      "blob": "blobs/d64cff063d1857cebf528b7cf1e7f4a538e7d3b2d159921f49363ddfb2bc06a7"
     },
     ".agents/skills/yss-mybatis/agents/openai.yaml": {
       "type": "file",
@@ -2640,15 +2652,27 @@
     },
     ".agents/skills/yss-repository/SKILL.md": {
       "type": "file",
-      "digest": "ffa7e48048dc35867fb857f1173397bfe3679dbaa038e754ae7bd68e5b54fc4c",
+      "digest": "0d4d224293a736438e602522cf5194153b55cb3a4370d79a8e463f86a584f6c4",
       "mode": 420,
-      "blob": "blobs/ffa7e48048dc35867fb857f1173397bfe3679dbaa038e754ae7bd68e5b54fc4c"
+      "blob": "blobs/0d4d224293a736438e602522cf5194153b55cb3a4370d79a8e463f86a584f6c4"
     },
     ".agents/skills/yss-repository/agents/openai.yaml": {
       "type": "file",
       "digest": "9ba11c8c53b6d6056abaf91f6a7bf000339325df329c9b9487fac9bc293081c4",
       "mode": 420,
       "blob": "blobs/9ba11c8c53b6d6056abaf91f6a7bf000339325df329c9b9487fac9bc293081c4"
+    },
+    ".agents/skills/yss-repository/references/profiles/existing-domain-driven-maven.md": {
+      "type": "file",
+      "digest": "12b984bda63eda097a450f0f65266f59c95818fb0b9f001dc8132c15a73d67ad",
+      "mode": 420,
+      "blob": "blobs/12b984bda63eda097a450f0f65266f59c95818fb0b9f001dc8132c15a73d67ad"
+    },
+    ".agents/skills/yss-repository/references/profiles/existing-layered-mvc-maven.md": {
+      "type": "file",
+      "digest": "c1cec2b02cba600bf4bf075f8c0ec69e7034713e1f0636cbee0819b004aabe8d",
+      "mode": 420,
+      "blob": "blobs/c1cec2b02cba600bf4bf075f8c0ec69e7034713e1f0636cbee0819b004aabe8d"
     },
     ".agents/skills/yss-repository/references/profiles/layered-mvc-service.md": {
       "type": "file",
@@ -2670,9 +2694,9 @@
     },
     ".agents/skills/yss-repository/tests/profile-routing.test.mjs": {
       "type": "file",
-      "digest": "7b7709226451965e964e3c9e1a1509322b7117418cdca00d4b531f09315c23e7",
+      "digest": "6a5de44e674814967313818b2ca0616b2e6626cea0bad489e031a756f19b4c14",
       "mode": 420,
-      "blob": "blobs/7b7709226451965e964e3c9e1a1509322b7117418cdca00d4b531f09315c23e7"
+      "blob": "blobs/6a5de44e674814967313818b2ca0616b2e6626cea0bad489e031a756f19b4c14"
     },
     ".agents/skills/yss-research/SKILL.md": {
       "type": "file",
@@ -3060,9 +3084,9 @@
     },
     ".agents/skills/yss-web-controller/SKILL.md": {
       "type": "file",
-      "digest": "ee838f382931c564d65b9c3325e3d4cc25489f13a8cd4bf4e6d33c0cca0d4702",
+      "digest": "c0505864105e1cb84fb8381fb53cc16820ce6f5052707696725d272bad29c459",
       "mode": 420,
-      "blob": "blobs/ee838f382931c564d65b9c3325e3d4cc25489f13a8cd4bf4e6d33c0cca0d4702"
+      "blob": "blobs/c0505864105e1cb84fb8381fb53cc16820ce6f5052707696725d272bad29c459"
     },
     ".agents/skills/yss-web-controller/agents/openai.yaml": {
       "type": "file",
@@ -4392,9 +4416,9 @@
     },
     ".codex/skills/code-review/references/yss-review-standards.md": {
       "type": "file",
-      "digest": "f97195d2c7e2d9e1d8ccf430450646d89be1b42231b352bafe86b782711407ed",
+      "digest": "1ad296f682c2334c952aa8a35e67c474065a8a26bfddf0ba70f0c39c741772ce",
       "mode": 420,
-      "blob": "blobs/f97195d2c7e2d9e1d8ccf430450646d89be1b42231b352bafe86b782711407ed"
+      "blob": "blobs/1ad296f682c2334c952aa8a35e67c474065a8a26bfddf0ba70f0c39c741772ce"
     },
     ".codex/skills/codebase-design/DEEPENING.md": {
       "type": "file",
@@ -4992,9 +5016,9 @@
     },
     ".codex/skills/yss-application/SKILL.md": {
       "type": "file",
-      "digest": "ccb07a5f32c71abfefca09e86de2683efe9b5c6e1b36f8a2a6fb9781ebff7a83",
+      "digest": "c9592407f0cc5499d30c683698d3ff3af7b7d68adab97cc544c7aed2e9e87fa2",
       "mode": 420,
-      "blob": "blobs/ccb07a5f32c71abfefca09e86de2683efe9b5c6e1b36f8a2a6fb9781ebff7a83"
+      "blob": "blobs/c9592407f0cc5499d30c683698d3ff3af7b7d68adab97cc544c7aed2e9e87fa2"
     },
     ".codex/skills/yss-application/agents/openai.yaml": {
       "type": "file",
@@ -5088,21 +5112,27 @@
     },
     ".codex/skills/yss-backend-spec-review/SKILL.md": {
       "type": "file",
-      "digest": "c3720e0acb4a1845eb731f524a3bf50daf30d6b4d389567e631b61713bfde829",
+      "digest": "f6a685c11562d91b4ccd37e245a447082e923ab689aa131613e7a51b9fa24384",
       "mode": 420,
-      "blob": "blobs/c3720e0acb4a1845eb731f524a3bf50daf30d6b4d389567e631b61713bfde829"
+      "blob": "blobs/f6a685c11562d91b4ccd37e245a447082e923ab689aa131613e7a51b9fa24384"
     },
     ".codex/skills/yss-backend-spec-review/references/check-inputs.md": {
       "type": "file",
-      "digest": "02db003732f2b19b52a02064fb1666fbb24a95deef863a89a4bf94f877c765c2",
+      "digest": "a70c08db9fbd2f5d4f4a540d68f9502cd9a7e44c67415697ca83de927fc27b71",
       "mode": 420,
-      "blob": "blobs/02db003732f2b19b52a02064fb1666fbb24a95deef863a89a4bf94f877c765c2"
+      "blob": "blobs/a70c08db9fbd2f5d4f4a540d68f9502cd9a7e44c67415697ca83de927fc27b71"
     },
     ".codex/skills/yss-backend-spec-review/references/remediation-workflow.md": {
       "type": "file",
       "digest": "ba6b4ff11a331661bb872f0dc7ff8d295923dcfb357332722540e03ec1220331",
       "mode": 420,
       "blob": "blobs/ba6b4ff11a331661bb872f0dc7ff8d295923dcfb357332722540e03ec1220331"
+    },
+    ".codex/skills/yss-backend-spec-review/references/standards-coverage.md": {
+      "type": "file",
+      "digest": "9c6ccfd2a5d20686567c0a2d1984dad89ce3155f67f43816a404035297ca6f8d",
+      "mode": 420,
+      "blob": "blobs/9c6ccfd2a5d20686567c0a2d1984dad89ce3155f67f43816a404035297ca6f8d"
     },
     ".codex/skills/yss-backend-spec-review/tests/routing.test.mjs": {
       "type": "file",
@@ -5448,9 +5478,9 @@
     },
     ".codex/skills/yss-domain/SKILL.md": {
       "type": "file",
-      "digest": "41b866b454395a98c0f96a54122332a9d19bfef5ccf4da4c465d73f9501242bb",
+      "digest": "6f2c05ce2d09d301691bdcaa20230911f073e40d02654051f7393757b1869333",
       "mode": 420,
-      "blob": "blobs/41b866b454395a98c0f96a54122332a9d19bfef5ccf4da4c465d73f9501242bb"
+      "blob": "blobs/6f2c05ce2d09d301691bdcaa20230911f073e40d02654051f7393757b1869333"
     },
     ".codex/skills/yss-domain/agents/openai.yaml": {
       "type": "file",
@@ -5460,15 +5490,21 @@
     },
     ".codex/skills/yss-domain/references/domain-layer-guide.md": {
       "type": "file",
-      "digest": "6cb6ae626f3ebbe8a1082995a9b0ba4cb62b97eec2fb35b156c5b82e045219ec",
+      "digest": "1083a44e2d93036c8e60d14a620c720062fcc88e2e25c47a7229201ebefc795f",
       "mode": 420,
-      "blob": "blobs/6cb6ae626f3ebbe8a1082995a9b0ba4cb62b97eec2fb35b156c5b82e045219ec"
+      "blob": "blobs/1083a44e2d93036c8e60d14a620c720062fcc88e2e25c47a7229201ebefc795f"
+    },
+    ".codex/skills/yss-domain/references/existing-project.md": {
+      "type": "file",
+      "digest": "78bf4000e64d2bcd54d2bba1ffcb954751855ce0ba8b7cf3ca45746046c21c79",
+      "mode": 420,
+      "blob": "blobs/78bf4000e64d2bcd54d2bba1ffcb954751855ce0ba8b7cf3ca45746046c21c79"
     },
     ".codex/skills/yss-dto/SKILL.md": {
       "type": "file",
-      "digest": "8605fc36aa13a2f3bea416a29fcfa6f988802f7bbd3dd920b4c6f0da67438896",
+      "digest": "d8cf58160d2e42ca03bc5555a56260ae0060bb2fdba263149c0dea6cbccb8389",
       "mode": 420,
-      "blob": "blobs/8605fc36aa13a2f3bea416a29fcfa6f988802f7bbd3dd920b4c6f0da67438896"
+      "blob": "blobs/d8cf58160d2e42ca03bc5555a56260ae0060bb2fdba263149c0dea6cbccb8389"
     },
     ".codex/skills/yss-dto/agents/openai.yaml": {
       "type": "file",
@@ -5652,9 +5688,9 @@
     },
     ".codex/skills/yss-implementation-contract-compiler/references/yss-skill-execution-result.md": {
       "type": "file",
-      "digest": "1e2396c6cac6c1e20651352c69117e9b9f788ca771708d660aff7a1b5d7a186a",
+      "digest": "19dffd4b145726437be0fbf7beb874d5737b040733e1ab1a39f5745048cde7c1",
       "mode": 420,
-      "blob": "blobs/1e2396c6cac6c1e20651352c69117e9b9f788ca771708d660aff7a1b5d7a186a"
+      "blob": "blobs/19dffd4b145726437be0fbf7beb874d5737b040733e1ab1a39f5745048cde7c1"
     },
     ".codex/skills/yss-implementation-contract-compiler/tests/backend-profiles.test.mjs": {
       "type": "file",
@@ -5730,9 +5766,9 @@
     },
     ".codex/skills/yss-mybatis/SKILL.md": {
       "type": "file",
-      "digest": "3156289699fce09dd6447d22a90c70c52b2e14ea6b04c4fdef6462ccb0fd038b",
+      "digest": "d64cff063d1857cebf528b7cf1e7f4a538e7d3b2d159921f49363ddfb2bc06a7",
       "mode": 420,
-      "blob": "blobs/3156289699fce09dd6447d22a90c70c52b2e14ea6b04c4fdef6462ccb0fd038b"
+      "blob": "blobs/d64cff063d1857cebf528b7cf1e7f4a538e7d3b2d159921f49363ddfb2bc06a7"
     },
     ".codex/skills/yss-mybatis/agents/openai.yaml": {
       "type": "file",
@@ -5778,15 +5814,27 @@
     },
     ".codex/skills/yss-repository/SKILL.md": {
       "type": "file",
-      "digest": "ffa7e48048dc35867fb857f1173397bfe3679dbaa038e754ae7bd68e5b54fc4c",
+      "digest": "0d4d224293a736438e602522cf5194153b55cb3a4370d79a8e463f86a584f6c4",
       "mode": 420,
-      "blob": "blobs/ffa7e48048dc35867fb857f1173397bfe3679dbaa038e754ae7bd68e5b54fc4c"
+      "blob": "blobs/0d4d224293a736438e602522cf5194153b55cb3a4370d79a8e463f86a584f6c4"
     },
     ".codex/skills/yss-repository/agents/openai.yaml": {
       "type": "file",
       "digest": "9ba11c8c53b6d6056abaf91f6a7bf000339325df329c9b9487fac9bc293081c4",
       "mode": 420,
       "blob": "blobs/9ba11c8c53b6d6056abaf91f6a7bf000339325df329c9b9487fac9bc293081c4"
+    },
+    ".codex/skills/yss-repository/references/profiles/existing-domain-driven-maven.md": {
+      "type": "file",
+      "digest": "12b984bda63eda097a450f0f65266f59c95818fb0b9f001dc8132c15a73d67ad",
+      "mode": 420,
+      "blob": "blobs/12b984bda63eda097a450f0f65266f59c95818fb0b9f001dc8132c15a73d67ad"
+    },
+    ".codex/skills/yss-repository/references/profiles/existing-layered-mvc-maven.md": {
+      "type": "file",
+      "digest": "c1cec2b02cba600bf4bf075f8c0ec69e7034713e1f0636cbee0819b004aabe8d",
+      "mode": 420,
+      "blob": "blobs/c1cec2b02cba600bf4bf075f8c0ec69e7034713e1f0636cbee0819b004aabe8d"
     },
     ".codex/skills/yss-repository/references/profiles/layered-mvc-service.md": {
       "type": "file",
@@ -5808,9 +5856,9 @@
     },
     ".codex/skills/yss-repository/tests/profile-routing.test.mjs": {
       "type": "file",
-      "digest": "7b7709226451965e964e3c9e1a1509322b7117418cdca00d4b531f09315c23e7",
+      "digest": "6a5de44e674814967313818b2ca0616b2e6626cea0bad489e031a756f19b4c14",
       "mode": 420,
-      "blob": "blobs/7b7709226451965e964e3c9e1a1509322b7117418cdca00d4b531f09315c23e7"
+      "blob": "blobs/6a5de44e674814967313818b2ca0616b2e6626cea0bad489e031a756f19b4c14"
     },
     ".codex/skills/yss-research/SKILL.md": {
       "type": "file",
@@ -6198,9 +6246,9 @@
     },
     ".codex/skills/yss-web-controller/SKILL.md": {
       "type": "file",
-      "digest": "ee838f382931c564d65b9c3325e3d4cc25489f13a8cd4bf4e6d33c0cca0d4702",
+      "digest": "c0505864105e1cb84fb8381fb53cc16820ce6f5052707696725d272bad29c459",
       "mode": 420,
-      "blob": "blobs/ee838f382931c564d65b9c3325e3d4cc25489f13a8cd4bf4e6d33c0cca0d4702"
+      "blob": "blobs/c0505864105e1cb84fb8381fb53cc16820ce6f5052707696725d272bad29c459"
     },
     ".codex/skills/yss-web-controller/agents/openai.yaml": {
       "type": "file",
@@ -7530,9 +7578,9 @@
     },
     ".cursor/skills/code-review/references/yss-review-standards.md": {
       "type": "file",
-      "digest": "f97195d2c7e2d9e1d8ccf430450646d89be1b42231b352bafe86b782711407ed",
+      "digest": "1ad296f682c2334c952aa8a35e67c474065a8a26bfddf0ba70f0c39c741772ce",
       "mode": 420,
-      "blob": "blobs/f97195d2c7e2d9e1d8ccf430450646d89be1b42231b352bafe86b782711407ed"
+      "blob": "blobs/1ad296f682c2334c952aa8a35e67c474065a8a26bfddf0ba70f0c39c741772ce"
     },
     ".cursor/skills/codebase-design/DEEPENING.md": {
       "type": "file",
@@ -8130,9 +8178,9 @@
     },
     ".cursor/skills/yss-application/SKILL.md": {
       "type": "file",
-      "digest": "ccb07a5f32c71abfefca09e86de2683efe9b5c6e1b36f8a2a6fb9781ebff7a83",
+      "digest": "c9592407f0cc5499d30c683698d3ff3af7b7d68adab97cc544c7aed2e9e87fa2",
       "mode": 420,
-      "blob": "blobs/ccb07a5f32c71abfefca09e86de2683efe9b5c6e1b36f8a2a6fb9781ebff7a83"
+      "blob": "blobs/c9592407f0cc5499d30c683698d3ff3af7b7d68adab97cc544c7aed2e9e87fa2"
     },
     ".cursor/skills/yss-application/agents/openai.yaml": {
       "type": "file",
@@ -8226,21 +8274,27 @@
     },
     ".cursor/skills/yss-backend-spec-review/SKILL.md": {
       "type": "file",
-      "digest": "c3720e0acb4a1845eb731f524a3bf50daf30d6b4d389567e631b61713bfde829",
+      "digest": "f6a685c11562d91b4ccd37e245a447082e923ab689aa131613e7a51b9fa24384",
       "mode": 420,
-      "blob": "blobs/c3720e0acb4a1845eb731f524a3bf50daf30d6b4d389567e631b61713bfde829"
+      "blob": "blobs/f6a685c11562d91b4ccd37e245a447082e923ab689aa131613e7a51b9fa24384"
     },
     ".cursor/skills/yss-backend-spec-review/references/check-inputs.md": {
       "type": "file",
-      "digest": "02db003732f2b19b52a02064fb1666fbb24a95deef863a89a4bf94f877c765c2",
+      "digest": "a70c08db9fbd2f5d4f4a540d68f9502cd9a7e44c67415697ca83de927fc27b71",
       "mode": 420,
-      "blob": "blobs/02db003732f2b19b52a02064fb1666fbb24a95deef863a89a4bf94f877c765c2"
+      "blob": "blobs/a70c08db9fbd2f5d4f4a540d68f9502cd9a7e44c67415697ca83de927fc27b71"
     },
     ".cursor/skills/yss-backend-spec-review/references/remediation-workflow.md": {
       "type": "file",
       "digest": "ba6b4ff11a331661bb872f0dc7ff8d295923dcfb357332722540e03ec1220331",
       "mode": 420,
       "blob": "blobs/ba6b4ff11a331661bb872f0dc7ff8d295923dcfb357332722540e03ec1220331"
+    },
+    ".cursor/skills/yss-backend-spec-review/references/standards-coverage.md": {
+      "type": "file",
+      "digest": "9c6ccfd2a5d20686567c0a2d1984dad89ce3155f67f43816a404035297ca6f8d",
+      "mode": 420,
+      "blob": "blobs/9c6ccfd2a5d20686567c0a2d1984dad89ce3155f67f43816a404035297ca6f8d"
     },
     ".cursor/skills/yss-backend-spec-review/tests/routing.test.mjs": {
       "type": "file",
@@ -8586,9 +8640,9 @@
     },
     ".cursor/skills/yss-domain/SKILL.md": {
       "type": "file",
-      "digest": "41b866b454395a98c0f96a54122332a9d19bfef5ccf4da4c465d73f9501242bb",
+      "digest": "6f2c05ce2d09d301691bdcaa20230911f073e40d02654051f7393757b1869333",
       "mode": 420,
-      "blob": "blobs/41b866b454395a98c0f96a54122332a9d19bfef5ccf4da4c465d73f9501242bb"
+      "blob": "blobs/6f2c05ce2d09d301691bdcaa20230911f073e40d02654051f7393757b1869333"
     },
     ".cursor/skills/yss-domain/agents/openai.yaml": {
       "type": "file",
@@ -8598,15 +8652,21 @@
     },
     ".cursor/skills/yss-domain/references/domain-layer-guide.md": {
       "type": "file",
-      "digest": "6cb6ae626f3ebbe8a1082995a9b0ba4cb62b97eec2fb35b156c5b82e045219ec",
+      "digest": "1083a44e2d93036c8e60d14a620c720062fcc88e2e25c47a7229201ebefc795f",
       "mode": 420,
-      "blob": "blobs/6cb6ae626f3ebbe8a1082995a9b0ba4cb62b97eec2fb35b156c5b82e045219ec"
+      "blob": "blobs/1083a44e2d93036c8e60d14a620c720062fcc88e2e25c47a7229201ebefc795f"
+    },
+    ".cursor/skills/yss-domain/references/existing-project.md": {
+      "type": "file",
+      "digest": "78bf4000e64d2bcd54d2bba1ffcb954751855ce0ba8b7cf3ca45746046c21c79",
+      "mode": 420,
+      "blob": "blobs/78bf4000e64d2bcd54d2bba1ffcb954751855ce0ba8b7cf3ca45746046c21c79"
     },
     ".cursor/skills/yss-dto/SKILL.md": {
       "type": "file",
-      "digest": "8605fc36aa13a2f3bea416a29fcfa6f988802f7bbd3dd920b4c6f0da67438896",
+      "digest": "d8cf58160d2e42ca03bc5555a56260ae0060bb2fdba263149c0dea6cbccb8389",
       "mode": 420,
-      "blob": "blobs/8605fc36aa13a2f3bea416a29fcfa6f988802f7bbd3dd920b4c6f0da67438896"
+      "blob": "blobs/d8cf58160d2e42ca03bc5555a56260ae0060bb2fdba263149c0dea6cbccb8389"
     },
     ".cursor/skills/yss-dto/agents/openai.yaml": {
       "type": "file",
@@ -8790,9 +8850,9 @@
     },
     ".cursor/skills/yss-implementation-contract-compiler/references/yss-skill-execution-result.md": {
       "type": "file",
-      "digest": "1e2396c6cac6c1e20651352c69117e9b9f788ca771708d660aff7a1b5d7a186a",
+      "digest": "19dffd4b145726437be0fbf7beb874d5737b040733e1ab1a39f5745048cde7c1",
       "mode": 420,
-      "blob": "blobs/1e2396c6cac6c1e20651352c69117e9b9f788ca771708d660aff7a1b5d7a186a"
+      "blob": "blobs/19dffd4b145726437be0fbf7beb874d5737b040733e1ab1a39f5745048cde7c1"
     },
     ".cursor/skills/yss-implementation-contract-compiler/tests/backend-profiles.test.mjs": {
       "type": "file",
@@ -8868,9 +8928,9 @@
     },
     ".cursor/skills/yss-mybatis/SKILL.md": {
       "type": "file",
-      "digest": "3156289699fce09dd6447d22a90c70c52b2e14ea6b04c4fdef6462ccb0fd038b",
+      "digest": "d64cff063d1857cebf528b7cf1e7f4a538e7d3b2d159921f49363ddfb2bc06a7",
       "mode": 420,
-      "blob": "blobs/3156289699fce09dd6447d22a90c70c52b2e14ea6b04c4fdef6462ccb0fd038b"
+      "blob": "blobs/d64cff063d1857cebf528b7cf1e7f4a538e7d3b2d159921f49363ddfb2bc06a7"
     },
     ".cursor/skills/yss-mybatis/agents/openai.yaml": {
       "type": "file",
@@ -8916,15 +8976,27 @@
     },
     ".cursor/skills/yss-repository/SKILL.md": {
       "type": "file",
-      "digest": "ffa7e48048dc35867fb857f1173397bfe3679dbaa038e754ae7bd68e5b54fc4c",
+      "digest": "0d4d224293a736438e602522cf5194153b55cb3a4370d79a8e463f86a584f6c4",
       "mode": 420,
-      "blob": "blobs/ffa7e48048dc35867fb857f1173397bfe3679dbaa038e754ae7bd68e5b54fc4c"
+      "blob": "blobs/0d4d224293a736438e602522cf5194153b55cb3a4370d79a8e463f86a584f6c4"
     },
     ".cursor/skills/yss-repository/agents/openai.yaml": {
       "type": "file",
       "digest": "9ba11c8c53b6d6056abaf91f6a7bf000339325df329c9b9487fac9bc293081c4",
       "mode": 420,
       "blob": "blobs/9ba11c8c53b6d6056abaf91f6a7bf000339325df329c9b9487fac9bc293081c4"
+    },
+    ".cursor/skills/yss-repository/references/profiles/existing-domain-driven-maven.md": {
+      "type": "file",
+      "digest": "12b984bda63eda097a450f0f65266f59c95818fb0b9f001dc8132c15a73d67ad",
+      "mode": 420,
+      "blob": "blobs/12b984bda63eda097a450f0f65266f59c95818fb0b9f001dc8132c15a73d67ad"
+    },
+    ".cursor/skills/yss-repository/references/profiles/existing-layered-mvc-maven.md": {
+      "type": "file",
+      "digest": "c1cec2b02cba600bf4bf075f8c0ec69e7034713e1f0636cbee0819b004aabe8d",
+      "mode": 420,
+      "blob": "blobs/c1cec2b02cba600bf4bf075f8c0ec69e7034713e1f0636cbee0819b004aabe8d"
     },
     ".cursor/skills/yss-repository/references/profiles/layered-mvc-service.md": {
       "type": "file",
@@ -8946,9 +9018,9 @@
     },
     ".cursor/skills/yss-repository/tests/profile-routing.test.mjs": {
       "type": "file",
-      "digest": "7b7709226451965e964e3c9e1a1509322b7117418cdca00d4b531f09315c23e7",
+      "digest": "6a5de44e674814967313818b2ca0616b2e6626cea0bad489e031a756f19b4c14",
       "mode": 420,
-      "blob": "blobs/7b7709226451965e964e3c9e1a1509322b7117418cdca00d4b531f09315c23e7"
+      "blob": "blobs/6a5de44e674814967313818b2ca0616b2e6626cea0bad489e031a756f19b4c14"
     },
     ".cursor/skills/yss-research/SKILL.md": {
       "type": "file",
@@ -9336,9 +9408,9 @@
     },
     ".cursor/skills/yss-web-controller/SKILL.md": {
       "type": "file",
-      "digest": "ee838f382931c564d65b9c3325e3d4cc25489f13a8cd4bf4e6d33c0cca0d4702",
+      "digest": "c0505864105e1cb84fb8381fb53cc16820ce6f5052707696725d272bad29c459",
       "mode": 420,
-      "blob": "blobs/ee838f382931c564d65b9c3325e3d4cc25489f13a8cd4bf4e6d33c0cca0d4702"
+      "blob": "blobs/c0505864105e1cb84fb8381fb53cc16820ce6f5052707696725d272bad29c459"
     },
     ".cursor/skills/yss-web-controller/agents/openai.yaml": {
       "type": "file",
@@ -10680,9 +10752,9 @@
     },
     ".pi/skills/code-review/references/yss-review-standards.md": {
       "type": "file",
-      "digest": "f97195d2c7e2d9e1d8ccf430450646d89be1b42231b352bafe86b782711407ed",
+      "digest": "1ad296f682c2334c952aa8a35e67c474065a8a26bfddf0ba70f0c39c741772ce",
       "mode": 420,
-      "blob": "blobs/f97195d2c7e2d9e1d8ccf430450646d89be1b42231b352bafe86b782711407ed"
+      "blob": "blobs/1ad296f682c2334c952aa8a35e67c474065a8a26bfddf0ba70f0c39c741772ce"
     },
     ".pi/skills/codebase-design/DEEPENING.md": {
       "type": "file",
@@ -11280,9 +11352,9 @@
     },
     ".pi/skills/yss-application/SKILL.md": {
       "type": "file",
-      "digest": "ccb07a5f32c71abfefca09e86de2683efe9b5c6e1b36f8a2a6fb9781ebff7a83",
+      "digest": "c9592407f0cc5499d30c683698d3ff3af7b7d68adab97cc544c7aed2e9e87fa2",
       "mode": 420,
-      "blob": "blobs/ccb07a5f32c71abfefca09e86de2683efe9b5c6e1b36f8a2a6fb9781ebff7a83"
+      "blob": "blobs/c9592407f0cc5499d30c683698d3ff3af7b7d68adab97cc544c7aed2e9e87fa2"
     },
     ".pi/skills/yss-application/agents/openai.yaml": {
       "type": "file",
@@ -11376,21 +11448,27 @@
     },
     ".pi/skills/yss-backend-spec-review/SKILL.md": {
       "type": "file",
-      "digest": "c3720e0acb4a1845eb731f524a3bf50daf30d6b4d389567e631b61713bfde829",
+      "digest": "f6a685c11562d91b4ccd37e245a447082e923ab689aa131613e7a51b9fa24384",
       "mode": 420,
-      "blob": "blobs/c3720e0acb4a1845eb731f524a3bf50daf30d6b4d389567e631b61713bfde829"
+      "blob": "blobs/f6a685c11562d91b4ccd37e245a447082e923ab689aa131613e7a51b9fa24384"
     },
     ".pi/skills/yss-backend-spec-review/references/check-inputs.md": {
       "type": "file",
-      "digest": "02db003732f2b19b52a02064fb1666fbb24a95deef863a89a4bf94f877c765c2",
+      "digest": "a70c08db9fbd2f5d4f4a540d68f9502cd9a7e44c67415697ca83de927fc27b71",
       "mode": 420,
-      "blob": "blobs/02db003732f2b19b52a02064fb1666fbb24a95deef863a89a4bf94f877c765c2"
+      "blob": "blobs/a70c08db9fbd2f5d4f4a540d68f9502cd9a7e44c67415697ca83de927fc27b71"
     },
     ".pi/skills/yss-backend-spec-review/references/remediation-workflow.md": {
       "type": "file",
       "digest": "ba6b4ff11a331661bb872f0dc7ff8d295923dcfb357332722540e03ec1220331",
       "mode": 420,
       "blob": "blobs/ba6b4ff11a331661bb872f0dc7ff8d295923dcfb357332722540e03ec1220331"
+    },
+    ".pi/skills/yss-backend-spec-review/references/standards-coverage.md": {
+      "type": "file",
+      "digest": "9c6ccfd2a5d20686567c0a2d1984dad89ce3155f67f43816a404035297ca6f8d",
+      "mode": 420,
+      "blob": "blobs/9c6ccfd2a5d20686567c0a2d1984dad89ce3155f67f43816a404035297ca6f8d"
     },
     ".pi/skills/yss-backend-spec-review/tests/routing.test.mjs": {
       "type": "file",
@@ -11736,9 +11814,9 @@
     },
     ".pi/skills/yss-domain/SKILL.md": {
       "type": "file",
-      "digest": "41b866b454395a98c0f96a54122332a9d19bfef5ccf4da4c465d73f9501242bb",
+      "digest": "6f2c05ce2d09d301691bdcaa20230911f073e40d02654051f7393757b1869333",
       "mode": 420,
-      "blob": "blobs/41b866b454395a98c0f96a54122332a9d19bfef5ccf4da4c465d73f9501242bb"
+      "blob": "blobs/6f2c05ce2d09d301691bdcaa20230911f073e40d02654051f7393757b1869333"
     },
     ".pi/skills/yss-domain/agents/openai.yaml": {
       "type": "file",
@@ -11748,15 +11826,21 @@
     },
     ".pi/skills/yss-domain/references/domain-layer-guide.md": {
       "type": "file",
-      "digest": "6cb6ae626f3ebbe8a1082995a9b0ba4cb62b97eec2fb35b156c5b82e045219ec",
+      "digest": "1083a44e2d93036c8e60d14a620c720062fcc88e2e25c47a7229201ebefc795f",
       "mode": 420,
-      "blob": "blobs/6cb6ae626f3ebbe8a1082995a9b0ba4cb62b97eec2fb35b156c5b82e045219ec"
+      "blob": "blobs/1083a44e2d93036c8e60d14a620c720062fcc88e2e25c47a7229201ebefc795f"
+    },
+    ".pi/skills/yss-domain/references/existing-project.md": {
+      "type": "file",
+      "digest": "78bf4000e64d2bcd54d2bba1ffcb954751855ce0ba8b7cf3ca45746046c21c79",
+      "mode": 420,
+      "blob": "blobs/78bf4000e64d2bcd54d2bba1ffcb954751855ce0ba8b7cf3ca45746046c21c79"
     },
     ".pi/skills/yss-dto/SKILL.md": {
       "type": "file",
-      "digest": "8605fc36aa13a2f3bea416a29fcfa6f988802f7bbd3dd920b4c6f0da67438896",
+      "digest": "d8cf58160d2e42ca03bc5555a56260ae0060bb2fdba263149c0dea6cbccb8389",
       "mode": 420,
-      "blob": "blobs/8605fc36aa13a2f3bea416a29fcfa6f988802f7bbd3dd920b4c6f0da67438896"
+      "blob": "blobs/d8cf58160d2e42ca03bc5555a56260ae0060bb2fdba263149c0dea6cbccb8389"
     },
     ".pi/skills/yss-dto/agents/openai.yaml": {
       "type": "file",
@@ -11940,9 +12024,9 @@
     },
     ".pi/skills/yss-implementation-contract-compiler/references/yss-skill-execution-result.md": {
       "type": "file",
-      "digest": "1e2396c6cac6c1e20651352c69117e9b9f788ca771708d660aff7a1b5d7a186a",
+      "digest": "19dffd4b145726437be0fbf7beb874d5737b040733e1ab1a39f5745048cde7c1",
       "mode": 420,
-      "blob": "blobs/1e2396c6cac6c1e20651352c69117e9b9f788ca771708d660aff7a1b5d7a186a"
+      "blob": "blobs/19dffd4b145726437be0fbf7beb874d5737b040733e1ab1a39f5745048cde7c1"
     },
     ".pi/skills/yss-implementation-contract-compiler/tests/backend-profiles.test.mjs": {
       "type": "file",
@@ -12018,9 +12102,9 @@
     },
     ".pi/skills/yss-mybatis/SKILL.md": {
       "type": "file",
-      "digest": "3156289699fce09dd6447d22a90c70c52b2e14ea6b04c4fdef6462ccb0fd038b",
+      "digest": "d64cff063d1857cebf528b7cf1e7f4a538e7d3b2d159921f49363ddfb2bc06a7",
       "mode": 420,
-      "blob": "blobs/3156289699fce09dd6447d22a90c70c52b2e14ea6b04c4fdef6462ccb0fd038b"
+      "blob": "blobs/d64cff063d1857cebf528b7cf1e7f4a538e7d3b2d159921f49363ddfb2bc06a7"
     },
     ".pi/skills/yss-mybatis/agents/openai.yaml": {
       "type": "file",
@@ -12066,15 +12150,27 @@
     },
     ".pi/skills/yss-repository/SKILL.md": {
       "type": "file",
-      "digest": "ffa7e48048dc35867fb857f1173397bfe3679dbaa038e754ae7bd68e5b54fc4c",
+      "digest": "0d4d224293a736438e602522cf5194153b55cb3a4370d79a8e463f86a584f6c4",
       "mode": 420,
-      "blob": "blobs/ffa7e48048dc35867fb857f1173397bfe3679dbaa038e754ae7bd68e5b54fc4c"
+      "blob": "blobs/0d4d224293a736438e602522cf5194153b55cb3a4370d79a8e463f86a584f6c4"
     },
     ".pi/skills/yss-repository/agents/openai.yaml": {
       "type": "file",
       "digest": "9ba11c8c53b6d6056abaf91f6a7bf000339325df329c9b9487fac9bc293081c4",
       "mode": 420,
       "blob": "blobs/9ba11c8c53b6d6056abaf91f6a7bf000339325df329c9b9487fac9bc293081c4"
+    },
+    ".pi/skills/yss-repository/references/profiles/existing-domain-driven-maven.md": {
+      "type": "file",
+      "digest": "12b984bda63eda097a450f0f65266f59c95818fb0b9f001dc8132c15a73d67ad",
+      "mode": 420,
+      "blob": "blobs/12b984bda63eda097a450f0f65266f59c95818fb0b9f001dc8132c15a73d67ad"
+    },
+    ".pi/skills/yss-repository/references/profiles/existing-layered-mvc-maven.md": {
+      "type": "file",
+      "digest": "c1cec2b02cba600bf4bf075f8c0ec69e7034713e1f0636cbee0819b004aabe8d",
+      "mode": 420,
+      "blob": "blobs/c1cec2b02cba600bf4bf075f8c0ec69e7034713e1f0636cbee0819b004aabe8d"
     },
     ".pi/skills/yss-repository/references/profiles/layered-mvc-service.md": {
       "type": "file",
@@ -12096,9 +12192,9 @@
     },
     ".pi/skills/yss-repository/tests/profile-routing.test.mjs": {
       "type": "file",
-      "digest": "7b7709226451965e964e3c9e1a1509322b7117418cdca00d4b531f09315c23e7",
+      "digest": "6a5de44e674814967313818b2ca0616b2e6626cea0bad489e031a756f19b4c14",
       "mode": 420,
-      "blob": "blobs/7b7709226451965e964e3c9e1a1509322b7117418cdca00d4b531f09315c23e7"
+      "blob": "blobs/6a5de44e674814967313818b2ca0616b2e6626cea0bad489e031a756f19b4c14"
     },
     ".pi/skills/yss-research/SKILL.md": {
       "type": "file",
@@ -12486,9 +12582,9 @@
     },
     ".pi/skills/yss-web-controller/SKILL.md": {
       "type": "file",
-      "digest": "ee838f382931c564d65b9c3325e3d4cc25489f13a8cd4bf4e6d33c0cca0d4702",
+      "digest": "c0505864105e1cb84fb8381fb53cc16820ce6f5052707696725d272bad29c459",
       "mode": 420,
-      "blob": "blobs/ee838f382931c564d65b9c3325e3d4cc25489f13a8cd4bf4e6d33c0cca0d4702"
+      "blob": "blobs/c0505864105e1cb84fb8381fb53cc16820ce6f5052707696725d272bad29c459"
     },
     ".pi/skills/yss-web-controller/agents/openai.yaml": {
       "type": "file",
@@ -13104,9 +13200,9 @@
     },
     "docs/process/schemas/digital-human-task-package.schema.json": {
       "type": "file",
-      "digest": "bb9d4b087f9ac61f51a0b341229cc24e1c09bcb31564425d4f6d02566a1c4e0f",
+      "digest": "6158b6a10fe306211ab70bba43a272e53505f5f17f827a79766d2e46c390217b",
       "mode": 420,
-      "blob": "blobs/bb9d4b087f9ac61f51a0b341229cc24e1c09bcb31564425d4f6d02566a1c4e0f"
+      "blob": "blobs/6158b6a10fe306211ab70bba43a272e53505f5f17f827a79766d2e46c390217b"
     },
     "docs/process/schemas/existing-ui-baseline.schema.json": {
       "type": "file",
@@ -13594,6 +13690,12 @@
       "mode": 493,
       "blob": "blobs/1a85ffb099895b2aff22fd2792817553dcc8ae1480f555ef9180d419d972b83c"
     },
+    "scripts/backend-standards-coverage": {
+      "type": "file",
+      "digest": "433dfd5435e6a7c8b53297180557e7e94ff8818559c2c61f905b5f9fbac1524d",
+      "mode": 493,
+      "blob": "blobs/433dfd5435e6a7c8b53297180557e7e94ff8818559c2c61f905b5f9fbac1524d"
+    },
     "scripts/export-yss-skills": {
       "type": "file",
       "digest": "2a0ed7e29d31a463826e0ee4d93d9fb27d34cc7ae60259d8de72a350fb80d820",
@@ -13902,15 +14004,21 @@
     },
     "scripts/lib/backend-review.mjs": {
       "type": "file",
-      "digest": "8046047e1b83f3e25c5fda4a8f6bbd0a9a8f886a080c46c5c7877b8a170687f5",
+      "digest": "2fcc920dcdc7395647d01b439cdf2513775a4be639fbc099457aaebb08b3c054",
       "mode": 420,
-      "blob": "blobs/8046047e1b83f3e25c5fda4a8f6bbd0a9a8f886a080c46c5c7877b8a170687f5"
+      "blob": "blobs/2fcc920dcdc7395647d01b439cdf2513775a4be639fbc099457aaebb08b3c054"
     },
     "scripts/lib/backend-scaffold-prerequisites.mjs": {
       "type": "file",
       "digest": "3a98c9c5466b27a35f3a4cb63f4e179708dc5c445952089573373bd269ea192c",
       "mode": 420,
       "blob": "blobs/3a98c9c5466b27a35f3a4cb63f4e179708dc5c445952089573373bd269ea192c"
+    },
+    "scripts/lib/backend-standards-coverage.mjs": {
+      "type": "file",
+      "digest": "8db72be23668c3465fc92729a7854a5203eff83c53f44ad8124223c90e5a9b3a",
+      "mode": 420,
+      "blob": "blobs/8db72be23668c3465fc92729a7854a5203eff83c53f44ad8124223c90e5a9b3a"
     },
     "scripts/lib/command-runner.mjs": {
       "type": "file",
@@ -13980,9 +14088,9 @@
     },
     "scripts/lib/first-slice-artifacts.mjs": {
       "type": "file",
-      "digest": "d22de1fcf155d3768f4040fd805e81a4b9d01248d468f6957b4058ecc22057fd",
+      "digest": "956cdb07a6d3df854b6f9413ef41bcc08c7b45d66b878aad6bd064968a056092",
       "mode": 420,
-      "blob": "blobs/d22de1fcf155d3768f4040fd805e81a4b9d01248d468f6957b4058ecc22057fd"
+      "blob": "blobs/956cdb07a6d3df854b6f9413ef41bcc08c7b45d66b878aad6bd064968a056092"
     },
     "scripts/lib/first-slice-tests.mjs": {
       "type": "file",
@@ -23797,6 +23905,11 @@
       "digest": "8229ca854e11dc8e6aef2131ee03f31fb1561cf905fab9ccc325180cf3331352",
       "mode": 420
     },
+    ".agents/skills/code-review/references/yss-review-standards.md": {
+      "type": "file",
+      "digest": "f97195d2c7e2d9e1d8ccf430450646d89be1b42231b352bafe86b782711407ed",
+      "mode": 420
+    },
     ".agents/skills/harness-orchestrator/SKILL.md": {
       "type": "file",
       "digest": "b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492",
@@ -23865,6 +23978,16 @@
     ".agents/skills/yss-audit-log/SKILL.md": {
       "type": "file",
       "digest": "07c47319a1f4c848b409b343ee1eb20a6aafc5fb0be4273436d355f276c8dcee",
+      "mode": 420
+    },
+    ".agents/skills/yss-backend-spec-review/SKILL.md": {
+      "type": "file",
+      "digest": "c3720e0acb4a1845eb731f524a3bf50daf30d6b4d389567e631b61713bfde829",
+      "mode": 420
+    },
+    ".agents/skills/yss-backend-spec-review/references/check-inputs.md": {
+      "type": "file",
+      "digest": "02db003732f2b19b52a02064fb1666fbb24a95deef863a89a4bf94f877c765c2",
       "mode": 420
     },
     ".agents/skills/yss-cache/SKILL.md": {
@@ -23962,6 +24085,11 @@
       "digest": "28c583f5d456b6634887bbe8123dc38f2ef5495113dd7fdca0a32c714dbad380",
       "mode": 420
     },
+    ".agents/skills/yss-domain/SKILL.md": {
+      "type": "file",
+      "digest": "41b866b454395a98c0f96a54122332a9d19bfef5ccf4da4c465d73f9501242bb",
+      "mode": 420
+    },
     ".agents/skills/yss-domain/references/domain-layer-guide.md": {
       "type": "file",
       "digest": "1d1cb0c407d6bd0edc484f9a88164890d61647e210ae02c6e2fade1da332f12f",
@@ -24015,6 +24143,11 @@
     ".agents/skills/yss-implementation-contract-compiler/references/slice-implementation-contract.md": {
       "type": "file",
       "digest": "b5c3344c5da1bd7cf78c602c3b26c34e937f62fd6b23f404792dfc2aaf3de9fb",
+      "mode": 420
+    },
+    ".agents/skills/yss-implementation-contract-compiler/references/yss-skill-execution-result.md": {
+      "type": "file",
+      "digest": "1e2396c6cac6c1e20651352c69117e9b9f788ca771708d660aff7a1b5d7a186a",
       "mode": 420
     },
     ".agents/skills/yss-implementation-contract-compiler/tests/compiler-scenarios.test.mjs": {
@@ -24100,6 +24233,11 @@
     ".agents/skills/yss-repository/references/profiles/target-domain-model.md": {
       "type": "file",
       "digest": "75ee1878632ad276a14f5625de450c4aa3b239a2cf6b7437736075cf8f890d10",
+      "mode": 420
+    },
+    ".agents/skills/yss-repository/tests/profile-routing.test.mjs": {
+      "type": "file",
+      "digest": "7b7709226451965e964e3c9e1a1509322b7117418cdca00d4b531f09315c23e7",
       "mode": 420
     },
     ".agents/skills/yss-research/SKILL.md": {
@@ -24252,6 +24390,11 @@
       "digest": "8229ca854e11dc8e6aef2131ee03f31fb1561cf905fab9ccc325180cf3331352",
       "mode": 420
     },
+    ".codex/skills/code-review/references/yss-review-standards.md": {
+      "type": "file",
+      "digest": "f97195d2c7e2d9e1d8ccf430450646d89be1b42231b352bafe86b782711407ed",
+      "mode": 420
+    },
     ".codex/skills/harness-orchestrator/SKILL.md": {
       "type": "file",
       "digest": "b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492",
@@ -24320,6 +24463,16 @@
     ".codex/skills/yss-audit-log/SKILL.md": {
       "type": "file",
       "digest": "07c47319a1f4c848b409b343ee1eb20a6aafc5fb0be4273436d355f276c8dcee",
+      "mode": 420
+    },
+    ".codex/skills/yss-backend-spec-review/SKILL.md": {
+      "type": "file",
+      "digest": "c3720e0acb4a1845eb731f524a3bf50daf30d6b4d389567e631b61713bfde829",
+      "mode": 420
+    },
+    ".codex/skills/yss-backend-spec-review/references/check-inputs.md": {
+      "type": "file",
+      "digest": "02db003732f2b19b52a02064fb1666fbb24a95deef863a89a4bf94f877c765c2",
       "mode": 420
     },
     ".codex/skills/yss-cache/SKILL.md": {
@@ -24417,6 +24570,11 @@
       "digest": "28c583f5d456b6634887bbe8123dc38f2ef5495113dd7fdca0a32c714dbad380",
       "mode": 420
     },
+    ".codex/skills/yss-domain/SKILL.md": {
+      "type": "file",
+      "digest": "41b866b454395a98c0f96a54122332a9d19bfef5ccf4da4c465d73f9501242bb",
+      "mode": 420
+    },
     ".codex/skills/yss-domain/references/domain-layer-guide.md": {
       "type": "file",
       "digest": "1d1cb0c407d6bd0edc484f9a88164890d61647e210ae02c6e2fade1da332f12f",
@@ -24470,6 +24628,11 @@
     ".codex/skills/yss-implementation-contract-compiler/references/slice-implementation-contract.md": {
       "type": "file",
       "digest": "b5c3344c5da1bd7cf78c602c3b26c34e937f62fd6b23f404792dfc2aaf3de9fb",
+      "mode": 420
+    },
+    ".codex/skills/yss-implementation-contract-compiler/references/yss-skill-execution-result.md": {
+      "type": "file",
+      "digest": "1e2396c6cac6c1e20651352c69117e9b9f788ca771708d660aff7a1b5d7a186a",
       "mode": 420
     },
     ".codex/skills/yss-implementation-contract-compiler/tests/compiler-scenarios.test.mjs": {
@@ -24555,6 +24718,11 @@
     ".codex/skills/yss-repository/references/profiles/target-domain-model.md": {
       "type": "file",
       "digest": "75ee1878632ad276a14f5625de450c4aa3b239a2cf6b7437736075cf8f890d10",
+      "mode": 420
+    },
+    ".codex/skills/yss-repository/tests/profile-routing.test.mjs": {
+      "type": "file",
+      "digest": "7b7709226451965e964e3c9e1a1509322b7117418cdca00d4b531f09315c23e7",
       "mode": 420
     },
     ".codex/skills/yss-research/SKILL.md": {
@@ -24707,6 +24875,11 @@
       "digest": "8229ca854e11dc8e6aef2131ee03f31fb1561cf905fab9ccc325180cf3331352",
       "mode": 420
     },
+    ".cursor/skills/code-review/references/yss-review-standards.md": {
+      "type": "file",
+      "digest": "f97195d2c7e2d9e1d8ccf430450646d89be1b42231b352bafe86b782711407ed",
+      "mode": 420
+    },
     ".cursor/skills/harness-orchestrator/SKILL.md": {
       "type": "file",
       "digest": "b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492",
@@ -24775,6 +24948,16 @@
     ".cursor/skills/yss-audit-log/SKILL.md": {
       "type": "file",
       "digest": "07c47319a1f4c848b409b343ee1eb20a6aafc5fb0be4273436d355f276c8dcee",
+      "mode": 420
+    },
+    ".cursor/skills/yss-backend-spec-review/SKILL.md": {
+      "type": "file",
+      "digest": "c3720e0acb4a1845eb731f524a3bf50daf30d6b4d389567e631b61713bfde829",
+      "mode": 420
+    },
+    ".cursor/skills/yss-backend-spec-review/references/check-inputs.md": {
+      "type": "file",
+      "digest": "02db003732f2b19b52a02064fb1666fbb24a95deef863a89a4bf94f877c765c2",
       "mode": 420
     },
     ".cursor/skills/yss-cache/SKILL.md": {
@@ -24872,6 +25055,11 @@
       "digest": "28c583f5d456b6634887bbe8123dc38f2ef5495113dd7fdca0a32c714dbad380",
       "mode": 420
     },
+    ".cursor/skills/yss-domain/SKILL.md": {
+      "type": "file",
+      "digest": "41b866b454395a98c0f96a54122332a9d19bfef5ccf4da4c465d73f9501242bb",
+      "mode": 420
+    },
     ".cursor/skills/yss-domain/references/domain-layer-guide.md": {
       "type": "file",
       "digest": "1d1cb0c407d6bd0edc484f9a88164890d61647e210ae02c6e2fade1da332f12f",
@@ -24925,6 +25113,11 @@
     ".cursor/skills/yss-implementation-contract-compiler/references/slice-implementation-contract.md": {
       "type": "file",
       "digest": "b5c3344c5da1bd7cf78c602c3b26c34e937f62fd6b23f404792dfc2aaf3de9fb",
+      "mode": 420
+    },
+    ".cursor/skills/yss-implementation-contract-compiler/references/yss-skill-execution-result.md": {
+      "type": "file",
+      "digest": "1e2396c6cac6c1e20651352c69117e9b9f788ca771708d660aff7a1b5d7a186a",
       "mode": 420
     },
     ".cursor/skills/yss-implementation-contract-compiler/tests/compiler-scenarios.test.mjs": {
@@ -25010,6 +25203,11 @@
     ".cursor/skills/yss-repository/references/profiles/target-domain-model.md": {
       "type": "file",
       "digest": "75ee1878632ad276a14f5625de450c4aa3b239a2cf6b7437736075cf8f890d10",
+      "mode": 420
+    },
+    ".cursor/skills/yss-repository/tests/profile-routing.test.mjs": {
+      "type": "file",
+      "digest": "7b7709226451965e964e3c9e1a1509322b7117418cdca00d4b531f09315c23e7",
       "mode": 420
     },
     ".cursor/skills/yss-research/SKILL.md": {
@@ -25162,6 +25360,11 @@
       "digest": "8229ca854e11dc8e6aef2131ee03f31fb1561cf905fab9ccc325180cf3331352",
       "mode": 420
     },
+    ".pi/skills/code-review/references/yss-review-standards.md": {
+      "type": "file",
+      "digest": "f97195d2c7e2d9e1d8ccf430450646d89be1b42231b352bafe86b782711407ed",
+      "mode": 420
+    },
     ".pi/skills/harness-orchestrator/SKILL.md": {
       "type": "file",
       "digest": "b4d47f8d404c6c4ee6debd7eb2eb7841d7fd21165c616f701ac20f7fdfea0492",
@@ -25230,6 +25433,16 @@
     ".pi/skills/yss-audit-log/SKILL.md": {
       "type": "file",
       "digest": "07c47319a1f4c848b409b343ee1eb20a6aafc5fb0be4273436d355f276c8dcee",
+      "mode": 420
+    },
+    ".pi/skills/yss-backend-spec-review/SKILL.md": {
+      "type": "file",
+      "digest": "c3720e0acb4a1845eb731f524a3bf50daf30d6b4d389567e631b61713bfde829",
+      "mode": 420
+    },
+    ".pi/skills/yss-backend-spec-review/references/check-inputs.md": {
+      "type": "file",
+      "digest": "02db003732f2b19b52a02064fb1666fbb24a95deef863a89a4bf94f877c765c2",
       "mode": 420
     },
     ".pi/skills/yss-cache/SKILL.md": {
@@ -25327,6 +25540,11 @@
       "digest": "28c583f5d456b6634887bbe8123dc38f2ef5495113dd7fdca0a32c714dbad380",
       "mode": 420
     },
+    ".pi/skills/yss-domain/SKILL.md": {
+      "type": "file",
+      "digest": "41b866b454395a98c0f96a54122332a9d19bfef5ccf4da4c465d73f9501242bb",
+      "mode": 420
+    },
     ".pi/skills/yss-domain/references/domain-layer-guide.md": {
       "type": "file",
       "digest": "1d1cb0c407d6bd0edc484f9a88164890d61647e210ae02c6e2fade1da332f12f",
@@ -25380,6 +25598,11 @@
     ".pi/skills/yss-implementation-contract-compiler/references/slice-implementation-contract.md": {
       "type": "file",
       "digest": "b5c3344c5da1bd7cf78c602c3b26c34e937f62fd6b23f404792dfc2aaf3de9fb",
+      "mode": 420
+    },
+    ".pi/skills/yss-implementation-contract-compiler/references/yss-skill-execution-result.md": {
+      "type": "file",
+      "digest": "1e2396c6cac6c1e20651352c69117e9b9f788ca771708d660aff7a1b5d7a186a",
       "mode": 420
     },
     ".pi/skills/yss-implementation-contract-compiler/tests/compiler-scenarios.test.mjs": {
@@ -25465,6 +25688,11 @@
     ".pi/skills/yss-repository/references/profiles/target-domain-model.md": {
       "type": "file",
       "digest": "75ee1878632ad276a14f5625de450c4aa3b239a2cf6b7437736075cf8f890d10",
+      "mode": 420
+    },
+    ".pi/skills/yss-repository/tests/profile-routing.test.mjs": {
+      "type": "file",
+      "digest": "7b7709226451965e964e3c9e1a1509322b7117418cdca00d4b531f09315c23e7",
       "mode": 420
     },
     ".pi/skills/yss-research/SKILL.md": {
@@ -25872,9 +26100,19 @@
       "digest": "600f1400b431a9285d5d3aaf3e13f931d64128d44734cebd4c2e27025eafd928",
       "mode": 420
     },
+    "scripts/lib/backend-review.mjs": {
+      "type": "file",
+      "digest": "8046047e1b83f3e25c5fda4a8f6bbd0a9a8f886a080c46c5c7877b8a170687f5",
+      "mode": 420
+    },
     "scripts/lib/backend-scaffold-prerequisites.mjs": {
       "type": "file",
       "digest": "9031ba9fae3243caee445e393f239281e19e1d776d8705501a84cc5b853f793f",
+      "mode": 420
+    },
+    "scripts/lib/backend-standards-coverage.mjs": {
+      "type": "file",
+      "digest": "ab21e06293793cdc00454e6770974ed1e978f6a71de6f53542471c9df6959e69",
       "mode": 420
     },
     "scripts/lib/delivery-preflight.mjs": {
@@ -25885,6 +26123,11 @@
     "scripts/lib/existing-backend-architecture.mjs": {
       "type": "file",
       "digest": "97a04dd68ddf7c9aae79e1fc74222b48824c059a9c58ea96e8b536691e5454f9",
+      "mode": 420
+    },
+    "scripts/lib/first-slice-artifacts.mjs": {
+      "type": "file",
+      "digest": "d22de1fcf155d3768f4040fd805e81a4b9d01248d468f6957b4058ecc22057fd",
       "mode": 420
     },
     "scripts/lib/frontend-delivery-boundary.mjs": {
@@ -26083,8 +26326,8 @@
       "mode": 420
     }
   },
-  "transitionBaselinesHash": "954e05a429916797b5dd36a7bede9c0565fcf5254bda16146a5da7a23d16d75f",
-  "snapshotHash": "a368c55a174b6551e859aef31acd0337e7c8f3e48861cbf4bc7bef23d819c2ad",
+  "transitionBaselinesHash": "40ec2fa830a19ecbde1ccdf94f148431d40b5fa652d4b1cb7620d167c8f29236",
+  "snapshotHash": "edc8cb696980848248093b66c097b7ed680b6c64e0b9394ebd982a31000d4f74",
   "projectionRepresentation": "materialized-files",
   "pathEncoding": "sha256-blobs-v1"
 }
