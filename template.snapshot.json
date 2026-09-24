@@ -6,7 +6,7 @@
   "metadataFile": ".yss-harness-backend.json",
   "templateName": "yss-harness-backend-agent",
   "templateSource": "github:iloveZzz/yss-harness-backend-agent",
-  "templateCommit": "e27bdf887a9d58de8fb1949afc13eace61ca5de5",
+  "templateCommit": "f2a72fdfe60096a9454eeca874ed882769699f86",
   "sourceState": "committed",
   "manifestHash": "85d99d140544d30a016cca23ebb166bd57e26debbc76cf403447d0d880d89f26",
   "files": {
@@ -1347,18 +1347,6 @@
       "digest": "f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b",
       "mode": 420,
       "blob": "blobs/f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b"
-    },
-    ".agents/skills/grill-me/SKILL.md": {
-      "type": "file",
-      "digest": "510906000517af8ad632e292f2ede1332266c2ac4550030931a7e34ec21bc091",
-      "mode": 420,
-      "blob": "blobs/510906000517af8ad632e292f2ede1332266c2ac4550030931a7e34ec21bc091"
-    },
-    ".agents/skills/grill-me/agents/openai.yaml": {
-      "type": "file",
-      "digest": "c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b",
-      "mode": 420,
-      "blob": "blobs/c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b"
     },
     ".agents/skills/grill-with-docs/SKILL.md": {
       "type": "file",
@@ -4594,18 +4582,6 @@
       "mode": 420,
       "blob": "blobs/f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b"
     },
-    ".codex/skills/grill-me/SKILL.md": {
-      "type": "file",
-      "digest": "510906000517af8ad632e292f2ede1332266c2ac4550030931a7e34ec21bc091",
-      "mode": 420,
-      "blob": "blobs/510906000517af8ad632e292f2ede1332266c2ac4550030931a7e34ec21bc091"
-    },
-    ".codex/skills/grill-me/agents/openai.yaml": {
-      "type": "file",
-      "digest": "c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b",
-      "mode": 420,
-      "blob": "blobs/c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b"
-    },
     ".codex/skills/grill-with-docs/SKILL.md": {
       "type": "file",
       "digest": "e4971132a0f33f8d052aef1616f11db741d6dc9223da7cf5197aded6b43c77a4",
@@ -7839,18 +7815,6 @@
       "digest": "f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b",
       "mode": 420,
       "blob": "blobs/f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b"
-    },
-    ".cursor/skills/grill-me/SKILL.md": {
-      "type": "file",
-      "digest": "510906000517af8ad632e292f2ede1332266c2ac4550030931a7e34ec21bc091",
-      "mode": 420,
-      "blob": "blobs/510906000517af8ad632e292f2ede1332266c2ac4550030931a7e34ec21bc091"
-    },
-    ".cursor/skills/grill-me/agents/openai.yaml": {
-      "type": "file",
-      "digest": "c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b",
-      "mode": 420,
-      "blob": "blobs/c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b"
     },
     ".cursor/skills/grill-with-docs/SKILL.md": {
       "type": "file",
@@ -11098,18 +11062,6 @@
       "mode": 420,
       "blob": "blobs/f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b"
     },
-    ".pi/skills/grill-me/SKILL.md": {
-      "type": "file",
-      "digest": "510906000517af8ad632e292f2ede1332266c2ac4550030931a7e34ec21bc091",
-      "mode": 420,
-      "blob": "blobs/510906000517af8ad632e292f2ede1332266c2ac4550030931a7e34ec21bc091"
-    },
-    ".pi/skills/grill-me/agents/openai.yaml": {
-      "type": "file",
-      "digest": "c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b",
-      "mode": 420,
-      "blob": "blobs/c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b"
-    },
     ".pi/skills/grill-with-docs/SKILL.md": {
       "type": "file",
       "digest": "e4971132a0f33f8d052aef1616f11db741d6dc9223da7cf5197aded6b43c77a4",
@@ -13092,9 +13044,9 @@
     },
     "docs/agents/skill-migrations.md": {
       "type": "file",
-      "digest": "e6008be1a1be0e87d8e2954c8d9a0831e05a350bd10fe29ab74136646151a04f",
+      "digest": "cd00f23f4b3f6e05642eb0448d6c2fdbf576184c2747188d2f6e7e7e5c37b417",
       "mode": 420,
-      "blob": "blobs/e6008be1a1be0e87d8e2954c8d9a0831e05a350bd10fe29ab74136646151a04f"
+      "blob": "blobs/cd00f23f4b3f6e05642eb0448d6c2fdbf576184c2747188d2f6e7e7e5c37b417"
     },
     "docs/agents/skills-maintenance.md": {
       "type": "file",
@@ -13110,21 +13062,9 @@
     },
     "docs/agents/yss-skill-registry.yaml": {
       "type": "file",
-      "digest": "78f84423e7abb4a8cb9d20c2d12046067483256e82c129b27ec958710e5df797",
+      "digest": "853ccff406f21868bfce7c7eab7908b10071f16433cd216cae43fe7eb0890fd3",
       "mode": 420,
-      "blob": "blobs/78f84423e7abb4a8cb9d20c2d12046067483256e82c129b27ec958710e5df797"
-    },
-    "docs/api/.gitkeep": {
-      "type": "file",
-      "digest": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "mode": 420,
-      "blob": "blobs/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-    },
-    "docs/api/specs/.gitkeep": {
-      "type": "file",
-      "digest": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "mode": 420,
-      "blob": "blobs/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "blob": "blobs/853ccff406f21868bfce7c7eab7908b10071f16433cd216cae43fe7eb0890fd3"
     },
     "docs/api/templates/openapi-draft-review-checklist.md": {
       "type": "file",
@@ -13149,12 +13089,6 @@
       "digest": "7075109357e000fec27ef34963db62485d40f37855b1842aa41d0c928b9239ff",
       "mode": 420,
       "blob": "blobs/7075109357e000fec27ef34963db62485d40f37855b1842aa41d0c928b9239ff"
-    },
-    "docs/architecture/.gitkeep": {
-      "type": "file",
-      "digest": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "mode": 420,
-      "blob": "blobs/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     "docs/architecture/README.md": {
       "type": "file",
@@ -13227,12 +13161,6 @@
       "digest": "11d05960ad19c7cea6b6a6d69cf4dda6bf258d5eda6e018f8bf3680d8f071100",
       "mode": 420,
       "blob": "blobs/11d05960ad19c7cea6b6a6d69cf4dda6bf258d5eda6e018f8bf3680d8f071100"
-    },
-    "docs/design/prototypes/.gitkeep": {
-      "type": "file",
-      "digest": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
-      "mode": 420,
-      "blob": "blobs/01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
     },
     "docs/design/schemas/visual-baseline.schema.json": {
       "type": "file",
@@ -13330,18 +13258,6 @@
       "mode": 420,
       "blob": "blobs/facfba2935c36b17e94d37720a4bf5e6d38754ce35eb587e4d6dc104dec651e6"
     },
-    "docs/discovery/reports/.gitkeep": {
-      "type": "file",
-      "digest": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "mode": 420,
-      "blob": "blobs/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-    },
-    "docs/discovery/reports/competitor-deep-dive/.gitkeep": {
-      "type": "file",
-      "digest": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "mode": 420,
-      "blob": "blobs/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-    },
     "docs/discovery/templates/competitive-analysis-template.md": {
       "type": "file",
       "digest": "d1b1499324d99d4bee0de1bd6209f5a25dfa475bcef19f9051c53856d17940ee",
@@ -13384,23 +13300,11 @@
       "mode": 420,
       "blob": "blobs/158794317046cef4aafd62ed16a038d27ec60654eebbcf8f8848f15861f9dd89"
     },
-    "docs/implementation/.gitkeep": {
-      "type": "file",
-      "digest": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
-      "mode": 420,
-      "blob": "blobs/01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-    },
     "docs/process/MATT-POCOCK-ENGINEERING-SKILLS.md": {
       "type": "file",
       "digest": "6c87da8cd22875bacb31bec65239061e4876ad04444925941e0162a44f4b2e41",
       "mode": 420,
       "blob": "blobs/6c87da8cd22875bacb31bec65239061e4876ad04444925941e0162a44f4b2e41"
-    },
-    "docs/process/PDCA-SCRUM.md": {
-      "type": "file",
-      "digest": "0e1e3edc80c1c554aa52c6a6df9b4fc3e5db0e3dafcc298c35d36c70b12fcad3",
-      "mode": 420,
-      "blob": "blobs/0e1e3edc80c1c554aa52c6a6df9b4fc3e5db0e3dafcc298c35d36c70b12fcad3"
     },
     "docs/process/backend-delivery-defaults.md": {
       "type": "file",
@@ -13443,12 +13347,6 @@
       "digest": "8a9d2468cb856dca2c8390a874942ba95d9de069ac64d1a4ed9cc6ef8f11d655",
       "mode": 420,
       "blob": "blobs/8a9d2468cb856dca2c8390a874942ba95d9de069ac64d1a4ed9cc6ef8f11d655"
-    },
-    "docs/process/harness-executive-blueprint.md": {
-      "type": "file",
-      "digest": "cce8170a08f8dc45bdcf0cce7d5985e491435b0f797d938a41b285d833788101",
-      "mode": 420,
-      "blob": "blobs/cce8170a08f8dc45bdcf0cce7d5985e491435b0f797d938a41b285d833788101"
     },
     "docs/process/harness-process-tailoring.md": {
       "type": "file",
@@ -13822,47 +13720,17 @@
       "mode": 420,
       "blob": "blobs/eb22d76e9bde20ee79f0ac6672c2ba694a89cc47f323114c22e17837943ab306"
     },
-    "docs/releases/.gitkeep": {
-      "type": "file",
-      "digest": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
-      "mode": 420,
-      "blob": "blobs/01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-    },
-    "docs/requirements/README.md": {
-      "type": "file",
-      "digest": "a6dcb45c878f39e2f4aa1fdc4edd1ab24b8cebd20e145a44380e90dd392460d5",
-      "mode": 420,
-      "blob": "blobs/a6dcb45c878f39e2f4aa1fdc4edd1ab24b8cebd20e145a44380e90dd392460d5"
-    },
-    "docs/requirements/tickets/.gitkeep": {
-      "type": "file",
-      "digest": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
-      "mode": 420,
-      "blob": "blobs/01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-    },
     "docs/templates/adr-template.md": {
       "type": "file",
       "digest": "8dc9bf7c840bd1e61c7f06a9dc41d85448a66847148e246ef7c9f8235405316d",
       "mode": 420,
       "blob": "blobs/8dc9bf7c840bd1e61c7f06a9dc41d85448a66847148e246ef7c9f8235405316d"
     },
-    "docs/templates/agent-brief-template.md": {
-      "type": "file",
-      "digest": "9cdac3f2d21ab4f30de82743f9b40361d0a549cc4d68ca353c33900536b1f3f9",
-      "mode": 420,
-      "blob": "blobs/9cdac3f2d21ab4f30de82743f9b40361d0a549cc4d68ca353c33900536b1f3f9"
-    },
     "docs/templates/approval-record-template.yaml": {
       "type": "file",
       "digest": "9b3deca7eefae4963ba85add0363c5456c7b52d40fd5479c19160d3a9aa99756",
       "mode": 420,
       "blob": "blobs/9b3deca7eefae4963ba85add0363c5456c7b52d40fd5479c19160d3a9aa99756"
-    },
-    "docs/templates/architecture-proposal-template.md": {
-      "type": "file",
-      "digest": "ce3eac7df135f8762d2559b4fbbac945336f6fd93d356b222139bd5b050bd598",
-      "mode": 420,
-      "blob": "blobs/ce3eac7df135f8762d2559b4fbbac945336f6fd93d356b222139bd5b050bd598"
     },
     "docs/templates/build-architecture-checklist-template.md": {
       "type": "file",
@@ -13894,23 +13762,11 @@
       "mode": 420,
       "blob": "blobs/b8040ee03b132cd474ed72d81fb09bb77c040cb4f06d442f993ecc43e207a203"
     },
-    "docs/templates/implementation-plan-template.md": {
-      "type": "file",
-      "digest": "5bc0a1d95d1eb5aa04f03fe8258bea12dda73e83ad7fb088e987ec988eac815e",
-      "mode": 420,
-      "blob": "blobs/5bc0a1d95d1eb5aa04f03fe8258bea12dda73e83ad7fb088e987ec988eac815e"
-    },
     "docs/templates/implementation-repo-registry-template.md": {
       "type": "file",
       "digest": "a0e5ebe9b1cfd4722fefff0386380f2a1d6a304189b1368172dba6b597e22d45",
       "mode": 420,
       "blob": "blobs/a0e5ebe9b1cfd4722fefff0386380f2a1d6a304189b1368172dba6b597e22d45"
-    },
-    "docs/templates/implementation-routing-template.md": {
-      "type": "file",
-      "digest": "3d93083fe6753fd7489fbb8da159b910fd7b68fa1f68f11ded109d85e8c96d29",
-      "mode": 420,
-      "blob": "blobs/3d93083fe6753fd7489fbb8da159b910fd7b68fa1f68f11ded109d85e8c96d29"
     },
     "docs/templates/local-parent-ticket-template.md": {
       "type": "file",
@@ -13930,12 +13786,6 @@
       "mode": 420,
       "blob": "blobs/4b62466769588c295a1fd5a1aa4eb11efb493178e2bb606cdfd7796e7abfbae3"
     },
-    "docs/templates/requirement-freeze-template.md": {
-      "type": "file",
-      "digest": "9da97afc5d0011ce44c319037c76b05e95301f41049e317a822bb69a310e9eb7",
-      "mode": 420,
-      "blob": "blobs/9da97afc5d0011ce44c319037c76b05e95301f41049e317a822bb69a310e9eb7"
-    },
     "docs/templates/retro-report-template.md": {
       "type": "file",
       "digest": "72285356f56f29f1871df3ea240f47b107a4782dcbf18e013192e10c53b6dcaa",
@@ -13947,12 +13797,6 @@
       "digest": "b9bc18b5c2b67ce3d0ef4e83f9896c819d06dfbb81237990146aeeab39577236",
       "mode": 420,
       "blob": "blobs/b9bc18b5c2b67ce3d0ef4e83f9896c819d06dfbb81237990146aeeab39577236"
-    },
-    "docs/templates/risk-register-template.md": {
-      "type": "file",
-      "digest": "46f1c0c945d44980e33e503ad8ebc49801ca8b5905550d00ecb35ada4cd16176",
-      "mode": 420,
-      "blob": "blobs/46f1c0c945d44980e33e503ad8ebc49801ca8b5905550d00ecb35ada4cd16176"
     },
     "docs/templates/spec-delta-template.md": {
       "type": "file",
@@ -13972,12 +13816,6 @@
       "mode": 420,
       "blob": "blobs/41a1f8754322b524d12d20b471cd8f8c1f20d27b767e3f68b3754a8f8ef1dd5a"
     },
-    "docs/templates/user-story-template.md": {
-      "type": "file",
-      "digest": "14e36a8a6e28f3bd14dd0f71de40d5f77548a3db646283f1ceece41adb9e8102",
-      "mode": 420,
-      "blob": "blobs/14e36a8a6e28f3bd14dd0f71de40d5f77548a3db646283f1ceece41adb9e8102"
-    },
     "docs/templates/verification-record-template.md": {
       "type": "file",
       "digest": "addb1ac7dd55713dba9023f9676477397041b0c64a6060355c78f7987f062a62",
@@ -13989,12 +13827,6 @@
       "digest": "c1681b1501bd1cd13abfe63d790333be822d3332c1c0a91bc765e2ad06b04bf1",
       "mode": 420,
       "blob": "blobs/c1681b1501bd1cd13abfe63d790333be822d3332c1c0a91bc765e2ad06b04bf1"
-    },
-    "docs/testing/README.md": {
-      "type": "file",
-      "digest": "9aa759e93a6c070138b94b80013edff8f7835ce7bd7e2e61abb9ec7ac1fae96f",
-      "mode": 420,
-      "blob": "blobs/9aa759e93a6c070138b94b80013edff8f7835ce7bd7e2e61abb9ec7ac1fae96f"
     },
     "docs/user-guide/CLI使用说明.md": {
       "type": "file",
@@ -14646,15 +14478,15 @@
     },
     "scripts/lib/skill-registry.mjs": {
       "type": "file",
-      "digest": "483e457d4bcae15783f237a317ad71a366f3040ff4298f221ef0675923e1e123",
+      "digest": "215acbca6abf1a73b76710a7636c7d94f6dbdfff94bfedb35a97dc943cab6103",
       "mode": 420,
-      "blob": "blobs/483e457d4bcae15783f237a317ad71a366f3040ff4298f221ef0675923e1e123"
+      "blob": "blobs/215acbca6abf1a73b76710a7636c7d94f6dbdfff94bfedb35a97dc943cab6103"
     },
     "scripts/lib/skill-supply-chain.mjs": {
       "type": "file",
-      "digest": "951599615fefedc5d5aacc3117dbae4df0e737a214ce8cd120f9603db6b87974",
+      "digest": "6de84cdca6c0d0fc0120a0bf4c9670f403a55b0e0495cecd9cbebf6f425ace52",
       "mode": 420,
-      "blob": "blobs/951599615fefedc5d5aacc3117dbae4df0e737a214ce8cd120f9603db6b87974"
+      "blob": "blobs/6de84cdca6c0d0fc0120a0bf4c9670f403a55b0e0495cecd9cbebf6f425ace52"
     },
     "scripts/lib/slice-applicability.mjs": {
       "type": "file",
@@ -15126,15 +14958,15 @@
     },
     "scripts/verify-repository-scope-scenarios": {
       "type": "file",
-      "digest": "c1b1da941a0735254a986f9bc3b2aabaa7e3bc0fcd3437f40852591ffab50c8c",
+      "digest": "6da1d8eeae67ab16e5dbf79391de92ec7a99cc397516a4ad4a0c511033f92aad",
       "mode": 493,
-      "blob": "blobs/c1b1da941a0735254a986f9bc3b2aabaa7e3bc0fcd3437f40852591ffab50c8c"
+      "blob": "blobs/6da1d8eeae67ab16e5dbf79391de92ec7a99cc397516a4ad4a0c511033f92aad"
     },
     "scripts/verify-retired-skill-ids": {
       "type": "file",
-      "digest": "b957cf6567f9fb2a11a370987897acbaf545c6b7fdc87dc73a2e6b5cfad85532",
+      "digest": "f9ba411908af5d76bf9bd4b21556ebcd009c7eee6e2e423a01425fb6f2483f44",
       "mode": 493,
-      "blob": "blobs/b957cf6567f9fb2a11a370987897acbaf545c6b7fdc87dc73a2e6b5cfad85532"
+      "blob": "blobs/f9ba411908af5d76bf9bd4b21556ebcd009c7eee6e2e423a01425fb6f2483f44"
     },
     "scripts/verify-scaffold-architecture-decision-scenarios": {
       "type": "file",
@@ -15264,9 +15096,9 @@
     },
     "skills-lock.json": {
       "type": "file",
-      "digest": "f7aab17e5455f08ae875e962c1521cdf8af62dfc59a11639f56740ffde6019d6",
+      "digest": "fba97a9988ab666cb78ab5032ce84b253c1289752f888453d951f916a1948c47",
       "mode": 420,
-      "blob": "blobs/f7aab17e5455f08ae875e962c1521cdf8af62dfc59a11639f56740ffde6019d6"
+      "blob": "blobs/fba97a9988ab666cb78ab5032ce84b253c1289752f888453d951f916a1948c47"
     },
     "yss-project.yaml": {
       "type": "file",
@@ -15294,6 +15126,16 @@
     ".agents/skills/dispatching-parallel-agents/SKILL.md": {
       "type": "file",
       "digest": "f0df13f584049059cc5619f90061405b89dcc6e28ab3f2a8517d27d99c7a46a6",
+      "mode": 420
+    },
+    ".agents/skills/grill-me/SKILL.md": {
+      "type": "file",
+      "digest": "510906000517af8ad632e292f2ede1332266c2ac4550030931a7e34ec21bc091",
+      "mode": 420
+    },
+    ".agents/skills/grill-me/agents/openai.yaml": {
+      "type": "file",
+      "digest": "c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b",
       "mode": 420
     },
     ".agents/skills/loop-me/SKILL.md": {
@@ -18236,6 +18078,16 @@
       "digest": "f0df13f584049059cc5619f90061405b89dcc6e28ab3f2a8517d27d99c7a46a6",
       "mode": 420
     },
+    ".codex/skills/grill-me/SKILL.md": {
+      "type": "file",
+      "digest": "510906000517af8ad632e292f2ede1332266c2ac4550030931a7e34ec21bc091",
+      "mode": 420
+    },
+    ".codex/skills/grill-me/agents/openai.yaml": {
+      "type": "file",
+      "digest": "c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b",
+      "mode": 420
+    },
     ".codex/skills/loop-me/SKILL.md": {
       "type": "file",
       "digest": "2b2c725f8b6e8b8f3f6e6bc2c18f0cf3ab029a270b5ac23132fbebdeb6b443aa",
@@ -18491,6 +18343,16 @@
       "digest": "f0df13f584049059cc5619f90061405b89dcc6e28ab3f2a8517d27d99c7a46a6",
       "mode": 420
     },
+    ".cursor/skills/grill-me/SKILL.md": {
+      "type": "file",
+      "digest": "510906000517af8ad632e292f2ede1332266c2ac4550030931a7e34ec21bc091",
+      "mode": 420
+    },
+    ".cursor/skills/grill-me/agents/openai.yaml": {
+      "type": "file",
+      "digest": "c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b",
+      "mode": 420
+    },
     ".cursor/skills/loop-me/SKILL.md": {
       "type": "file",
       "digest": "2b2c725f8b6e8b8f3f6e6bc2c18f0cf3ab029a270b5ac23132fbebdeb6b443aa",
@@ -18744,6 +18606,16 @@
     ".pi/skills/dispatching-parallel-agents/SKILL.md": {
       "type": "file",
       "digest": "f0df13f584049059cc5619f90061405b89dcc6e28ab3f2a8517d27d99c7a46a6",
+      "mode": 420
+    },
+    ".pi/skills/grill-me/SKILL.md": {
+      "type": "file",
+      "digest": "510906000517af8ad632e292f2ede1332266c2ac4550030931a7e34ec21bc091",
+      "mode": 420
+    },
+    ".pi/skills/grill-me/agents/openai.yaml": {
+      "type": "file",
+      "digest": "c061e39c3e0f9d865fb1b97556d485704af2a8a58f4b8221a8917a5c2074a32b",
       "mode": 420
     },
     ".pi/skills/loop-me/SKILL.md": {
@@ -24346,6 +24218,106 @@
       "digest": "3e63fdb95276a81916110766aca34945b7ff75d63d78b0350c2b9bb25aa5a0b1",
       "mode": 420
     },
+    "docs/api/.gitkeep": {
+      "type": "file",
+      "digest": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mode": 420
+    },
+    "docs/api/specs/.gitkeep": {
+      "type": "file",
+      "digest": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mode": 420
+    },
+    "docs/architecture/.gitkeep": {
+      "type": "file",
+      "digest": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mode": 420
+    },
+    "docs/design/prototypes/.gitkeep": {
+      "type": "file",
+      "digest": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "mode": 420
+    },
+    "docs/discovery/reports/.gitkeep": {
+      "type": "file",
+      "digest": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mode": 420
+    },
+    "docs/discovery/reports/competitor-deep-dive/.gitkeep": {
+      "type": "file",
+      "digest": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "mode": 420
+    },
+    "docs/implementation/.gitkeep": {
+      "type": "file",
+      "digest": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "mode": 420
+    },
+    "docs/process/PDCA-SCRUM.md": {
+      "type": "file",
+      "digest": "0e1e3edc80c1c554aa52c6a6df9b4fc3e5db0e3dafcc298c35d36c70b12fcad3",
+      "mode": 420
+    },
+    "docs/process/harness-executive-blueprint.md": {
+      "type": "file",
+      "digest": "cce8170a08f8dc45bdcf0cce7d5985e491435b0f797d938a41b285d833788101",
+      "mode": 420
+    },
+    "docs/releases/.gitkeep": {
+      "type": "file",
+      "digest": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "mode": 420
+    },
+    "docs/requirements/README.md": {
+      "type": "file",
+      "digest": "a6dcb45c878f39e2f4aa1fdc4edd1ab24b8cebd20e145a44380e90dd392460d5",
+      "mode": 420
+    },
+    "docs/requirements/tickets/.gitkeep": {
+      "type": "file",
+      "digest": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "mode": 420
+    },
+    "docs/templates/agent-brief-template.md": {
+      "type": "file",
+      "digest": "9cdac3f2d21ab4f30de82743f9b40361d0a549cc4d68ca353c33900536b1f3f9",
+      "mode": 420
+    },
+    "docs/templates/architecture-proposal-template.md": {
+      "type": "file",
+      "digest": "ce3eac7df135f8762d2559b4fbbac945336f6fd93d356b222139bd5b050bd598",
+      "mode": 420
+    },
+    "docs/templates/implementation-plan-template.md": {
+      "type": "file",
+      "digest": "5bc0a1d95d1eb5aa04f03fe8258bea12dda73e83ad7fb088e987ec988eac815e",
+      "mode": 420
+    },
+    "docs/templates/implementation-routing-template.md": {
+      "type": "file",
+      "digest": "3d93083fe6753fd7489fbb8da159b910fd7b68fa1f68f11ded109d85e8c96d29",
+      "mode": 420
+    },
+    "docs/templates/requirement-freeze-template.md": {
+      "type": "file",
+      "digest": "9da97afc5d0011ce44c319037c76b05e95301f41049e317a822bb69a310e9eb7",
+      "mode": 420
+    },
+    "docs/templates/risk-register-template.md": {
+      "type": "file",
+      "digest": "46f1c0c945d44980e33e503ad8ebc49801ca8b5905550d00ecb35ada4cd16176",
+      "mode": 420
+    },
+    "docs/templates/user-story-template.md": {
+      "type": "file",
+      "digest": "14e36a8a6e28f3bd14dd0f71de40d5f77548a3db646283f1ceece41adb9e8102",
+      "mode": 420
+    },
+    "docs/testing/README.md": {
+      "type": "file",
+      "digest": "9aa759e93a6c070138b94b80013edff8f7835ce7bd7e2e61abb9ec7ac1fae96f",
+      "mode": 420
+    },
     "docs/user-guide/templates/用户手册模板.md": {
       "type": "file",
       "digest": "73fbf73977e85fada38a974b55615baf22ec66582b088d0648a9cad3bf5ab9b6",
@@ -24382,7 +24354,7 @@
       "mode": 420
     }
   },
-  "retiredFilesHash": "65c44958c3718cc7f42a6982b42172b95bf3ca0f74e06f4098e7d1c234cf695a",
+  "retiredFilesHash": "32ddce615c4b9264cb0f38fd921d4b6d40442144f3a5b2ab9abb6b85932d5373",
   "transitionBaselines": {
     ".agents/skills/.strategic-design-skills-manifest.json": {
       "type": "file",
@@ -27419,19 +27391,9 @@
       "digest": "4467bd7c114211a6a93b73d83b3d9af5470cea609887150049f3dbf45a7fe3e3",
       "mode": 420
     },
-    "docs/requirements/README.md": {
-      "type": "file",
-      "digest": "4d35c71dec05c6089cf32a317b730c2a8a2964777d493eaa6a9d432626ba016e",
-      "mode": 420
-    },
     "docs/templates/build-architecture-checklist-template.md": {
       "type": "file",
       "digest": "3d4378e9f6cf68e861697db67af126896a2059d3044252b17c5fd4ce16834cc7",
-      "mode": 420
-    },
-    "docs/templates/implementation-routing-template.md": {
-      "type": "file",
-      "digest": "8df33508fd72617e532947d543a1ab55ade61b5367b4c43935ea293662202833",
       "mode": 420
     },
     "docs/templates/vertical-slice-ticket-template.md": {
@@ -27814,6 +27776,11 @@
       "digest": "eab284837108e38405a449f6ee5029cc418506ca111a04fa80db28eefe136aab",
       "mode": 493
     },
+    "scripts/verify-repository-scope-scenarios": {
+      "type": "file",
+      "digest": "c1b1da941a0735254a986f9bc3b2aabaa7e3bc0fcd3437f40852591ffab50c8c",
+      "mode": 493
+    },
     "scripts/verify-retired-skill-ids": {
       "type": "file",
       "digest": "ee9612c2081ae9dcb145c76f113b528112ce4af34e2f5737b9e35df308427cd9",
@@ -27855,8 +27822,8 @@
       "mode": 420
     }
   },
-  "transitionBaselinesHash": "248278e5f3ee80a8a74fd53bfa6fc3f536b7faad620e49adc90ba026f27acf81",
-  "snapshotHash": "8a1ba50f2f1abf589dc2e1c9f9e2827ba55ef10cff9637c3fcf955b73b28cef4",
+  "transitionBaselinesHash": "f53284ac95e74854416c94f32393cecaccd8295c693f3f05f64b0ab372c71fd3",
+  "snapshotHash": "99c4724c274725574c2148e7f60133c3b51aafc703adb3232b235870985087a6",
   "projectionRepresentation": "materialized-files",
   "pathEncoding": "sha256-blobs-v1"
 }
