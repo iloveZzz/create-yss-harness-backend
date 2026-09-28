@@ -6,7 +6,7 @@
   "metadataFile": ".yss-harness-backend.json",
   "templateName": "yss-harness-backend-agent",
   "templateSource": "github:iloveZzz/yss-harness-backend-agent",
-  "templateCommit": "0f0061e4c2c21c9c26a3a874853bb1c0ef18043b",
+  "templateCommit": "f46f22901528bcc76a0182c95153d463bb685a88",
   "sourceState": "committed",
   "manifestHash": "188f3c2a97dd2c3a44e3be4a98d3125fbe7ae8e50426cfc7dd769af4d42f2ce6",
   "files": {
@@ -14244,9 +14244,9 @@
     },
     "scripts/lib/contract-views.mjs": {
       "type": "file",
-      "digest": "37d85acde58bdb9b91d2fd4162c4be1401889efac2ecb1354e430ec74042e8d3",
+      "digest": "694d4fd94f4ecf50a9d6408ebc845ed70f02f5c673bf59f636370f8b1216df94",
       "mode": 420,
-      "blob": "blobs/37d85acde58bdb9b91d2fd4162c4be1401889efac2ecb1354e430ec74042e8d3"
+      "blob": "blobs/694d4fd94f4ecf50a9d6408ebc845ed70f02f5c673bf59f636370f8b1216df94"
     },
     "scripts/lib/decision-continuation.mjs": {
       "type": "file",
@@ -28794,7 +28794,7 @@
     }
   },
   "transitionBaselinesHash": "86ecf567669161410efdd6d7688b945a2dae9b0a69c96ba80dcd1e952160b545",
-  "snapshotHash": "780e7a5b0d7bf2f79377b7134128dcc66eb8434c8224d5a4efdba7957a0e44b5",
+  "snapshotHash": "437928d5b9dd57eac096129d3c55c1874b8c925d817b68371739c18c619d9ecd",
   "projectionRepresentation": "materialized-files",
   "pathEncoding": "sha256-blobs-v1"
 }
