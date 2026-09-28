@@ -6,7 +6,7 @@
   "metadataFile": ".yss-harness-backend.json",
   "templateName": "yss-harness-backend-agent",
   "templateSource": "github:iloveZzz/yss-harness-backend-agent",
-  "templateCommit": "e8e1b93c26ae1dbf120da3d45a184d41985428fb",
+  "templateCommit": "cbded26aea8b4104f87b2377922bc3416befb0a6",
   "sourceState": "committed",
   "manifestHash": "188f3c2a97dd2c3a44e3be4a98d3125fbe7ae8e50426cfc7dd769af4d42f2ce6",
   "files": {
@@ -15060,9 +15060,9 @@
     },
     "scripts/verify-frontend-implementation-evidence": {
       "type": "file",
-      "digest": "630990a44c73e12df6177232ec5e02903b56c7e2579538c541e356b189990d42",
+      "digest": "79a8cda62143be9f3322577e2b1f597806bbb53af06d82aa99d6b31165e79ccc",
       "mode": 493,
-      "blob": "blobs/630990a44c73e12df6177232ec5e02903b56c7e2579538c541e356b189990d42"
+      "blob": "blobs/79a8cda62143be9f3322577e2b1f597806bbb53af06d82aa99d6b31165e79ccc"
     },
     "scripts/verify-frontend-implementation-evidence-scenarios": {
       "type": "file",
@@ -29332,7 +29332,7 @@
     }
   },
   "transitionBaselinesHash": "0a80f5615b1f4b4b258f76ba0f81af4d128b23efc806c9ddf52b876ca3342687",
-  "snapshotHash": "efda83b4fd20a14d67289b5cf5ec5d3f8fc070320624f8fce11ff3e314bbd0da",
+  "snapshotHash": "0a7dd0dd4b59d340470fee217dae2416e59bed95c088a55f06459bdd62767eb2",
   "projectionRepresentation": "materialized-files",
   "pathEncoding": "sha256-blobs-v1"
 }
