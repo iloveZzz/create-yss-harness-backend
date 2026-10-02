@@ -6,7 +6,7 @@
   "metadataFile": ".yss-harness-backend.json",
   "templateName": "yss-harness-backend-agent",
   "templateSource": "github:iloveZzz/yss-harness-backend-agent",
-  "templateCommit": "d7179d27dd9487a733badd61ca70288daadfbf24",
+  "templateCommit": "a8ec77bd0cf3387d9632e6962c3a6e625feddc18",
   "sourceState": "committed",
   "manifestHash": "188f3c2a97dd2c3a44e3be4a98d3125fbe7ae8e50426cfc7dd769af4d42f2ce6",
   "files": {
@@ -16572,9 +16572,9 @@
     },
     "skills-lock.json": {
       "type": "file",
-      "digest": "333a79911080cfd04dce4bf33f20d6b586dac72351ca9815b26451af0cd09d2e",
+      "digest": "049a84da2798d05a9c6c03ca9da91a840ec6100d58772394fed65cc52601ee7a",
       "mode": 420,
-      "blob": "blobs/333a79911080cfd04dce4bf33f20d6b586dac72351ca9815b26451af0cd09d2e"
+      "blob": "blobs/049a84da2798d05a9c6c03ca9da91a840ec6100d58772394fed65cc52601ee7a"
     },
     "yss-project.yaml": {
       "type": "file",
@@ -31664,7 +31664,7 @@
     }
   },
   "transitionBaselinesHash": "c76b1bc422641bc912c69d217d7a5ab4c4ff3775a835ba74d8676b178ce679c2",
-  "snapshotHash": "39d4536ac8b2c98fe60d15dbd704fa559b428da64912f3045841e501bd0d25a6",
+  "snapshotHash": "b11347fd10c6886d028bba2c3b5377e5010f711c3a30e6670a4c2c663635e27a",
   "projectionRepresentation": "materialized-files",
   "pathEncoding": "sha256-blobs-v1"
 }
