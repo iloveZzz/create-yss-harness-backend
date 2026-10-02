@@ -6,7 +6,7 @@
   "metadataFile": ".yss-harness-backend.json",
   "templateName": "yss-harness-backend-agent",
   "templateSource": "github:iloveZzz/yss-harness-backend-agent",
-  "templateCommit": "82476138edcc4e8cd3aef981ddb64de609c54771",
+  "templateCommit": "d7179d27dd9487a733badd61ca70288daadfbf24",
   "sourceState": "committed",
   "manifestHash": "188f3c2a97dd2c3a44e3be4a98d3125fbe7ae8e50426cfc7dd769af4d42f2ce6",
   "files": {
@@ -1272,9 +1272,9 @@
     },
     ".agents/skills/code-review/SKILL.md": {
       "type": "file",
-      "digest": "13bf6bf59d4cfb07124a1fd923a1984541584a30d315a9e675841400aab15e14",
+      "digest": "30d820bd63fef46391e4ade3bb24fe1bf03d20caedc4cc2ecbd023afe376f85d",
       "mode": 420,
-      "blob": "blobs/13bf6bf59d4cfb07124a1fd923a1984541584a30d315a9e675841400aab15e14"
+      "blob": "blobs/30d820bd63fef46391e4ade3bb24fe1bf03d20caedc4cc2ecbd023afe376f85d"
     },
     ".agents/skills/code-review/agents/openai.yaml": {
       "type": "file",
@@ -1290,15 +1290,15 @@
     },
     ".agents/skills/code-review/references/legacy-convergence.md": {
       "type": "file",
-      "digest": "3a289879b3d38bf745e74fe05e68bcce0ea4dfea9880b740eff9db02c6b1f9d9",
+      "digest": "7322f4e8793bc7101f58a20b1904adeea53b7d16ecef6cdd52344968e29f3f08",
       "mode": 420,
-      "blob": "blobs/3a289879b3d38bf745e74fe05e68bcce0ea4dfea9880b740eff9db02c6b1f9d9"
+      "blob": "blobs/7322f4e8793bc7101f58a20b1904adeea53b7d16ecef6cdd52344968e29f3f08"
     },
     ".agents/skills/code-review/references/review-axis-checklists.md": {
       "type": "file",
-      "digest": "a4845144e63eb9ad025c286fed5340460b22f132e3edc6f49e1ad3343c6d5f1a",
+      "digest": "3944995726b6fbd9fc368809a3963c6728a4c0fe08247e42da8de180188655ef",
       "mode": 420,
-      "blob": "blobs/a4845144e63eb9ad025c286fed5340460b22f132e3edc6f49e1ad3343c6d5f1a"
+      "blob": "blobs/3944995726b6fbd9fc368809a3963c6728a4c0fe08247e42da8de180188655ef"
     },
     ".agents/skills/code-review/references/smell-baseline.md": {
       "type": "file",
@@ -1308,9 +1308,9 @@
     },
     ".agents/skills/code-review/references/yss-review-standards.md": {
       "type": "file",
-      "digest": "dd838bfe5b9bd37228f25b60c81e02c236a2e43413fbe63dad9f3bcbd34f5b0f",
+      "digest": "44c60e2763b309e0d72f6c87dd85e7eeb3738f5f7ffdde6c026a39513f3cfa78",
       "mode": 420,
-      "blob": "blobs/dd838bfe5b9bd37228f25b60c81e02c236a2e43413fbe63dad9f3bcbd34f5b0f"
+      "blob": "blobs/44c60e2763b309e0d72f6c87dd85e7eeb3738f5f7ffdde6c026a39513f3cfa78"
     },
     ".agents/skills/codebase-design/DEEPENING.md": {
       "type": "file",
@@ -1350,9 +1350,9 @@
     },
     ".agents/skills/competitive-intelligence/SKILL.md": {
       "type": "file",
-      "digest": "caee822202f1f85517efcbee5a7cada337112c4fd01d3a77ceeac9edf15d703f",
+      "digest": "18af2bca5c2c590db902c65b84b24fe74455dc6bfebb3d46a91150b82ed67686",
       "mode": 420,
-      "blob": "blobs/caee822202f1f85517efcbee5a7cada337112c4fd01d3a77ceeac9edf15d703f"
+      "blob": "blobs/18af2bca5c2c590db902c65b84b24fe74455dc6bfebb3d46a91150b82ed67686"
     },
     ".agents/skills/cross-repo-implementation-routing/SKILL.md": {
       "type": "file",
@@ -1452,9 +1452,9 @@
     },
     ".agents/skills/harness-orchestrator/SKILL.md": {
       "type": "file",
-      "digest": "069205786d60f97ef135ea0150ae17cfae4efe32ac3ecc8ac038bec50cde3b65",
+      "digest": "6fcf2491cf2be09cf2f59341c46932e7262645a0933c0c31291a397ed73ab518",
       "mode": 420,
-      "blob": "blobs/069205786d60f97ef135ea0150ae17cfae4efe32ac3ecc8ac038bec50cde3b65"
+      "blob": "blobs/6fcf2491cf2be09cf2f59341c46932e7262645a0933c0c31291a397ed73ab518"
     },
     ".agents/skills/harness-orchestrator/agents/openai.yaml": {
       "type": "file",
@@ -1470,15 +1470,21 @@
     },
     ".agents/skills/harness-orchestrator/references/orchestration-contract.yaml": {
       "type": "file",
-      "digest": "0b5f7ae60f7ee793962eea0009e27ee158f58344f2dadd92869d5f2c3e468ae0",
+      "digest": "5fe82ef12ae77a93045a1f63a4ce0ff598665da0aee2b3167e817b832d958f1f",
       "mode": 420,
-      "blob": "blobs/0b5f7ae60f7ee793962eea0009e27ee158f58344f2dadd92869d5f2c3e468ae0"
+      "blob": "blobs/5fe82ef12ae77a93045a1f63a4ce0ff598665da0aee2b3167e817b832d958f1f"
     },
     ".agents/skills/harness-orchestrator/references/plan-requirements.md": {
       "type": "file",
       "digest": "c6671542cdfd21bd165dba36e771d0b85202e585e4719cb23afdedb5f4e7bc4e",
       "mode": 420,
       "blob": "blobs/c6671542cdfd21bd165dba36e771d0b85202e585e4719cb23afdedb5f4e7bc4e"
+    },
+    ".agents/skills/harness-orchestrator/references/professional-review.md": {
+      "type": "file",
+      "digest": "88253a061d970eb9aa25fc048e3f51601f599f51a7f49c0818433b80a780cc8f",
+      "mode": 420,
+      "blob": "blobs/88253a061d970eb9aa25fc048e3f51601f599f51a7f49c0818433b80a780cc8f"
     },
     ".agents/skills/i-have-adhd/LICENSE": {
       "type": "file",
@@ -2472,9 +2478,9 @@
     },
     ".agents/skills/yss-ddd-scaffold-generator/scripts/scaffold-generator.test.mjs": {
       "type": "file",
-      "digest": "f558c24ff2e5007072a5b1992b59f7ce590eed8c84bf63ba244811140bb0a3c1",
+      "digest": "f40a73d6d6e64b334f4c489794c561a787ba9f98a33f8c6f09b1b67b467f2461",
       "mode": 420,
-      "blob": "blobs/f558c24ff2e5007072a5b1992b59f7ce590eed8c84bf63ba244811140bb0a3c1"
+      "blob": "blobs/f40a73d6d6e64b334f4c489794c561a787ba9f98a33f8c6f09b1b67b467f2461"
     },
     ".agents/skills/yss-distributed-id/SKILL.md": {
       "type": "file",
@@ -2964,15 +2970,21 @@
     },
     ".agents/skills/yss-research/SKILL.md": {
       "type": "file",
-      "digest": "789fa6131272d11d9758df4efd54ef5c6d8c265c2581bebeae56633685680696",
+      "digest": "145d5df415d24fa3b407f58f2733be3d5c30606d312d78c60aab00475beeaab5",
       "mode": 420,
-      "blob": "blobs/789fa6131272d11d9758df4efd54ef5c6d8c265c2581bebeae56633685680696"
+      "blob": "blobs/145d5df415d24fa3b407f58f2733be3d5c30606d312d78c60aab00475beeaab5"
     },
     ".agents/skills/yss-research/agents/openai.yaml": {
       "type": "file",
       "digest": "8ecd0ce015596948d53dd0201a2f68e9d3463f8e5620526360cf7b0096fb50bc",
       "mode": 420,
       "blob": "blobs/8ecd0ce015596948d53dd0201a2f68e9d3463f8e5620526360cf7b0096fb50bc"
+    },
+    ".agents/skills/yss-research/assets/competitive-evidence-template.yaml": {
+      "type": "file",
+      "digest": "e53ae9dd7a249edfdac793235dc672322e248990179bc6bdc6bcc8a731775cb3",
+      "mode": 420,
+      "blob": "blobs/e53ae9dd7a249edfdac793235dc672322e248990179bc6bdc6bcc8a731775cb3"
     },
     ".agents/skills/yss-research/assets/evidence-template.yaml": {
       "type": "file",
@@ -2986,17 +2998,47 @@
       "mode": 420,
       "blob": "blobs/5ab5ca8ca63158290977548c2ad8ff610564dc39210009b5665c058ef5cc6be7"
     },
+    ".agents/skills/yss-research/references/competitive-analysis.md": {
+      "type": "file",
+      "digest": "b2d5090b1473fa6ddbab6960c6149f11593bc2329e82a3fc3fb1ae97eb707820",
+      "mode": 420,
+      "blob": "blobs/b2d5090b1473fa6ddbab6960c6149f11593bc2329e82a3fc3fb1ae97eb707820"
+    },
+    ".agents/skills/yss-research/references/competitive-analysis.schema.json": {
+      "type": "file",
+      "digest": "e1d0ea62c896f5eb116e5a3d8578ae7ecbd4b55cd12751314e5ef381b9692a09",
+      "mode": 420,
+      "blob": "blobs/e1d0ea62c896f5eb116e5a3d8578ae7ecbd4b55cd12751314e5ef381b9692a09"
+    },
     ".agents/skills/yss-research/references/evidence-contract.md": {
       "type": "file",
-      "digest": "accf660bda44cec320aca3d7ea769c8c724ac7adaf543879035d56a030cb9fa7",
+      "digest": "89680f6f6c69f944672960ae6f8c29b58be06cac1a58bcdebcce149a1d75e626",
       "mode": 420,
-      "blob": "blobs/accf660bda44cec320aca3d7ea769c8c724ac7adaf543879035d56a030cb9fa7"
+      "blob": "blobs/89680f6f6c69f944672960ae6f8c29b58be06cac1a58bcdebcce149a1d75e626"
+    },
+    ".agents/skills/yss-research/scripts/lib/competitive-analysis.mjs": {
+      "type": "file",
+      "digest": "d52f89500b59b4bf21608154a128ceef71c40940b24a4546bc3f86e3c93ef57e",
+      "mode": 420,
+      "blob": "blobs/d52f89500b59b4bf21608154a128ceef71c40940b24a4546bc3f86e3c93ef57e"
+    },
+    ".agents/skills/yss-research/scripts/render-competitive-outputs.mjs": {
+      "type": "file",
+      "digest": "74a692573892a2a3b9fa8582a45941eaccdf2a26a13fa72edb7fdacf0e115834",
+      "mode": 420,
+      "blob": "blobs/74a692573892a2a3b9fa8582a45941eaccdf2a26a13fa72edb7fdacf0e115834"
     },
     ".agents/skills/yss-research/scripts/validate-research-package.mjs": {
       "type": "file",
-      "digest": "5e4e437d54e67cce9dd380974744605bd149c71939c5f01e3ea4719c79911d0f",
+      "digest": "2b6f07d3a47ac8dde29fa8262560bb2eb8d534cf50b021ffa05d1fe468ad0078",
       "mode": 420,
-      "blob": "blobs/5e4e437d54e67cce9dd380974744605bd149c71939c5f01e3ea4719c79911d0f"
+      "blob": "blobs/2b6f07d3a47ac8dde29fa8262560bb2eb8d534cf50b021ffa05d1fe468ad0078"
+    },
+    ".agents/skills/yss-research/tests/competitive-scenarios.test.mjs": {
+      "type": "file",
+      "digest": "d8eab6ddc946086222cf484b4d77beb74ff560972289d46e4851f8fe67ba7199",
+      "mode": 420,
+      "blob": "blobs/d8eab6ddc946086222cf484b4d77beb74ff560972289d46e4851f8fe67ba7199"
     },
     ".agents/skills/yss-research/tests/run-scenarios.mjs": {
       "type": "file",
@@ -4704,9 +4746,9 @@
     },
     ".codex/skills/code-review/SKILL.md": {
       "type": "file",
-      "digest": "13bf6bf59d4cfb07124a1fd923a1984541584a30d315a9e675841400aab15e14",
+      "digest": "30d820bd63fef46391e4ade3bb24fe1bf03d20caedc4cc2ecbd023afe376f85d",
       "mode": 420,
-      "blob": "blobs/13bf6bf59d4cfb07124a1fd923a1984541584a30d315a9e675841400aab15e14"
+      "blob": "blobs/30d820bd63fef46391e4ade3bb24fe1bf03d20caedc4cc2ecbd023afe376f85d"
     },
     ".codex/skills/code-review/agents/openai.yaml": {
       "type": "file",
@@ -4722,15 +4764,15 @@
     },
     ".codex/skills/code-review/references/legacy-convergence.md": {
       "type": "file",
-      "digest": "3a289879b3d38bf745e74fe05e68bcce0ea4dfea9880b740eff9db02c6b1f9d9",
+      "digest": "7322f4e8793bc7101f58a20b1904adeea53b7d16ecef6cdd52344968e29f3f08",
       "mode": 420,
-      "blob": "blobs/3a289879b3d38bf745e74fe05e68bcce0ea4dfea9880b740eff9db02c6b1f9d9"
+      "blob": "blobs/7322f4e8793bc7101f58a20b1904adeea53b7d16ecef6cdd52344968e29f3f08"
     },
     ".codex/skills/code-review/references/review-axis-checklists.md": {
       "type": "file",
-      "digest": "a4845144e63eb9ad025c286fed5340460b22f132e3edc6f49e1ad3343c6d5f1a",
+      "digest": "3944995726b6fbd9fc368809a3963c6728a4c0fe08247e42da8de180188655ef",
       "mode": 420,
-      "blob": "blobs/a4845144e63eb9ad025c286fed5340460b22f132e3edc6f49e1ad3343c6d5f1a"
+      "blob": "blobs/3944995726b6fbd9fc368809a3963c6728a4c0fe08247e42da8de180188655ef"
     },
     ".codex/skills/code-review/references/smell-baseline.md": {
       "type": "file",
@@ -4740,9 +4782,9 @@
     },
     ".codex/skills/code-review/references/yss-review-standards.md": {
       "type": "file",
-      "digest": "dd838bfe5b9bd37228f25b60c81e02c236a2e43413fbe63dad9f3bcbd34f5b0f",
+      "digest": "44c60e2763b309e0d72f6c87dd85e7eeb3738f5f7ffdde6c026a39513f3cfa78",
       "mode": 420,
-      "blob": "blobs/dd838bfe5b9bd37228f25b60c81e02c236a2e43413fbe63dad9f3bcbd34f5b0f"
+      "blob": "blobs/44c60e2763b309e0d72f6c87dd85e7eeb3738f5f7ffdde6c026a39513f3cfa78"
     },
     ".codex/skills/codebase-design/DEEPENING.md": {
       "type": "file",
@@ -4782,9 +4824,9 @@
     },
     ".codex/skills/competitive-intelligence/SKILL.md": {
       "type": "file",
-      "digest": "caee822202f1f85517efcbee5a7cada337112c4fd01d3a77ceeac9edf15d703f",
+      "digest": "18af2bca5c2c590db902c65b84b24fe74455dc6bfebb3d46a91150b82ed67686",
       "mode": 420,
-      "blob": "blobs/caee822202f1f85517efcbee5a7cada337112c4fd01d3a77ceeac9edf15d703f"
+      "blob": "blobs/18af2bca5c2c590db902c65b84b24fe74455dc6bfebb3d46a91150b82ed67686"
     },
     ".codex/skills/cross-repo-implementation-routing/SKILL.md": {
       "type": "file",
@@ -4884,9 +4926,9 @@
     },
     ".codex/skills/harness-orchestrator/SKILL.md": {
       "type": "file",
-      "digest": "069205786d60f97ef135ea0150ae17cfae4efe32ac3ecc8ac038bec50cde3b65",
+      "digest": "6fcf2491cf2be09cf2f59341c46932e7262645a0933c0c31291a397ed73ab518",
       "mode": 420,
-      "blob": "blobs/069205786d60f97ef135ea0150ae17cfae4efe32ac3ecc8ac038bec50cde3b65"
+      "blob": "blobs/6fcf2491cf2be09cf2f59341c46932e7262645a0933c0c31291a397ed73ab518"
     },
     ".codex/skills/harness-orchestrator/agents/openai.yaml": {
       "type": "file",
@@ -4902,15 +4944,21 @@
     },
     ".codex/skills/harness-orchestrator/references/orchestration-contract.yaml": {
       "type": "file",
-      "digest": "0b5f7ae60f7ee793962eea0009e27ee158f58344f2dadd92869d5f2c3e468ae0",
+      "digest": "5fe82ef12ae77a93045a1f63a4ce0ff598665da0aee2b3167e817b832d958f1f",
       "mode": 420,
-      "blob": "blobs/0b5f7ae60f7ee793962eea0009e27ee158f58344f2dadd92869d5f2c3e468ae0"
+      "blob": "blobs/5fe82ef12ae77a93045a1f63a4ce0ff598665da0aee2b3167e817b832d958f1f"
     },
     ".codex/skills/harness-orchestrator/references/plan-requirements.md": {
       "type": "file",
       "digest": "c6671542cdfd21bd165dba36e771d0b85202e585e4719cb23afdedb5f4e7bc4e",
       "mode": 420,
       "blob": "blobs/c6671542cdfd21bd165dba36e771d0b85202e585e4719cb23afdedb5f4e7bc4e"
+    },
+    ".codex/skills/harness-orchestrator/references/professional-review.md": {
+      "type": "file",
+      "digest": "88253a061d970eb9aa25fc048e3f51601f599f51a7f49c0818433b80a780cc8f",
+      "mode": 420,
+      "blob": "blobs/88253a061d970eb9aa25fc048e3f51601f599f51a7f49c0818433b80a780cc8f"
     },
     ".codex/skills/i-have-adhd/LICENSE": {
       "type": "file",
@@ -5904,9 +5952,9 @@
     },
     ".codex/skills/yss-ddd-scaffold-generator/scripts/scaffold-generator.test.mjs": {
       "type": "file",
-      "digest": "f558c24ff2e5007072a5b1992b59f7ce590eed8c84bf63ba244811140bb0a3c1",
+      "digest": "f40a73d6d6e64b334f4c489794c561a787ba9f98a33f8c6f09b1b67b467f2461",
       "mode": 420,
-      "blob": "blobs/f558c24ff2e5007072a5b1992b59f7ce590eed8c84bf63ba244811140bb0a3c1"
+      "blob": "blobs/f40a73d6d6e64b334f4c489794c561a787ba9f98a33f8c6f09b1b67b467f2461"
     },
     ".codex/skills/yss-distributed-id/SKILL.md": {
       "type": "file",
@@ -6396,15 +6444,21 @@
     },
     ".codex/skills/yss-research/SKILL.md": {
       "type": "file",
-      "digest": "789fa6131272d11d9758df4efd54ef5c6d8c265c2581bebeae56633685680696",
+      "digest": "145d5df415d24fa3b407f58f2733be3d5c30606d312d78c60aab00475beeaab5",
       "mode": 420,
-      "blob": "blobs/789fa6131272d11d9758df4efd54ef5c6d8c265c2581bebeae56633685680696"
+      "blob": "blobs/145d5df415d24fa3b407f58f2733be3d5c30606d312d78c60aab00475beeaab5"
     },
     ".codex/skills/yss-research/agents/openai.yaml": {
       "type": "file",
       "digest": "8ecd0ce015596948d53dd0201a2f68e9d3463f8e5620526360cf7b0096fb50bc",
       "mode": 420,
       "blob": "blobs/8ecd0ce015596948d53dd0201a2f68e9d3463f8e5620526360cf7b0096fb50bc"
+    },
+    ".codex/skills/yss-research/assets/competitive-evidence-template.yaml": {
+      "type": "file",
+      "digest": "e53ae9dd7a249edfdac793235dc672322e248990179bc6bdc6bcc8a731775cb3",
+      "mode": 420,
+      "blob": "blobs/e53ae9dd7a249edfdac793235dc672322e248990179bc6bdc6bcc8a731775cb3"
     },
     ".codex/skills/yss-research/assets/evidence-template.yaml": {
       "type": "file",
@@ -6418,17 +6472,47 @@
       "mode": 420,
       "blob": "blobs/5ab5ca8ca63158290977548c2ad8ff610564dc39210009b5665c058ef5cc6be7"
     },
+    ".codex/skills/yss-research/references/competitive-analysis.md": {
+      "type": "file",
+      "digest": "b2d5090b1473fa6ddbab6960c6149f11593bc2329e82a3fc3fb1ae97eb707820",
+      "mode": 420,
+      "blob": "blobs/b2d5090b1473fa6ddbab6960c6149f11593bc2329e82a3fc3fb1ae97eb707820"
+    },
+    ".codex/skills/yss-research/references/competitive-analysis.schema.json": {
+      "type": "file",
+      "digest": "e1d0ea62c896f5eb116e5a3d8578ae7ecbd4b55cd12751314e5ef381b9692a09",
+      "mode": 420,
+      "blob": "blobs/e1d0ea62c896f5eb116e5a3d8578ae7ecbd4b55cd12751314e5ef381b9692a09"
+    },
     ".codex/skills/yss-research/references/evidence-contract.md": {
       "type": "file",
-      "digest": "accf660bda44cec320aca3d7ea769c8c724ac7adaf543879035d56a030cb9fa7",
+      "digest": "89680f6f6c69f944672960ae6f8c29b58be06cac1a58bcdebcce149a1d75e626",
       "mode": 420,
-      "blob": "blobs/accf660bda44cec320aca3d7ea769c8c724ac7adaf543879035d56a030cb9fa7"
+      "blob": "blobs/89680f6f6c69f944672960ae6f8c29b58be06cac1a58bcdebcce149a1d75e626"
+    },
+    ".codex/skills/yss-research/scripts/lib/competitive-analysis.mjs": {
+      "type": "file",
+      "digest": "d52f89500b59b4bf21608154a128ceef71c40940b24a4546bc3f86e3c93ef57e",
+      "mode": 420,
+      "blob": "blobs/d52f89500b59b4bf21608154a128ceef71c40940b24a4546bc3f86e3c93ef57e"
+    },
+    ".codex/skills/yss-research/scripts/render-competitive-outputs.mjs": {
+      "type": "file",
+      "digest": "74a692573892a2a3b9fa8582a45941eaccdf2a26a13fa72edb7fdacf0e115834",
+      "mode": 420,
+      "blob": "blobs/74a692573892a2a3b9fa8582a45941eaccdf2a26a13fa72edb7fdacf0e115834"
     },
     ".codex/skills/yss-research/scripts/validate-research-package.mjs": {
       "type": "file",
-      "digest": "5e4e437d54e67cce9dd380974744605bd149c71939c5f01e3ea4719c79911d0f",
+      "digest": "2b6f07d3a47ac8dde29fa8262560bb2eb8d534cf50b021ffa05d1fe468ad0078",
       "mode": 420,
-      "blob": "blobs/5e4e437d54e67cce9dd380974744605bd149c71939c5f01e3ea4719c79911d0f"
+      "blob": "blobs/2b6f07d3a47ac8dde29fa8262560bb2eb8d534cf50b021ffa05d1fe468ad0078"
+    },
+    ".codex/skills/yss-research/tests/competitive-scenarios.test.mjs": {
+      "type": "file",
+      "digest": "d8eab6ddc946086222cf484b4d77beb74ff560972289d46e4851f8fe67ba7199",
+      "mode": 420,
+      "blob": "blobs/d8eab6ddc946086222cf484b4d77beb74ff560972289d46e4851f8fe67ba7199"
     },
     ".codex/skills/yss-research/tests/run-scenarios.mjs": {
       "type": "file",
@@ -8136,9 +8220,9 @@
     },
     ".cursor/skills/code-review/SKILL.md": {
       "type": "file",
-      "digest": "13bf6bf59d4cfb07124a1fd923a1984541584a30d315a9e675841400aab15e14",
+      "digest": "30d820bd63fef46391e4ade3bb24fe1bf03d20caedc4cc2ecbd023afe376f85d",
       "mode": 420,
-      "blob": "blobs/13bf6bf59d4cfb07124a1fd923a1984541584a30d315a9e675841400aab15e14"
+      "blob": "blobs/30d820bd63fef46391e4ade3bb24fe1bf03d20caedc4cc2ecbd023afe376f85d"
     },
     ".cursor/skills/code-review/agents/openai.yaml": {
       "type": "file",
@@ -8154,15 +8238,15 @@
     },
     ".cursor/skills/code-review/references/legacy-convergence.md": {
       "type": "file",
-      "digest": "3a289879b3d38bf745e74fe05e68bcce0ea4dfea9880b740eff9db02c6b1f9d9",
+      "digest": "7322f4e8793bc7101f58a20b1904adeea53b7d16ecef6cdd52344968e29f3f08",
       "mode": 420,
-      "blob": "blobs/3a289879b3d38bf745e74fe05e68bcce0ea4dfea9880b740eff9db02c6b1f9d9"
+      "blob": "blobs/7322f4e8793bc7101f58a20b1904adeea53b7d16ecef6cdd52344968e29f3f08"
     },
     ".cursor/skills/code-review/references/review-axis-checklists.md": {
       "type": "file",
-      "digest": "a4845144e63eb9ad025c286fed5340460b22f132e3edc6f49e1ad3343c6d5f1a",
+      "digest": "3944995726b6fbd9fc368809a3963c6728a4c0fe08247e42da8de180188655ef",
       "mode": 420,
-      "blob": "blobs/a4845144e63eb9ad025c286fed5340460b22f132e3edc6f49e1ad3343c6d5f1a"
+      "blob": "blobs/3944995726b6fbd9fc368809a3963c6728a4c0fe08247e42da8de180188655ef"
     },
     ".cursor/skills/code-review/references/smell-baseline.md": {
       "type": "file",
@@ -8172,9 +8256,9 @@
     },
     ".cursor/skills/code-review/references/yss-review-standards.md": {
       "type": "file",
-      "digest": "dd838bfe5b9bd37228f25b60c81e02c236a2e43413fbe63dad9f3bcbd34f5b0f",
+      "digest": "44c60e2763b309e0d72f6c87dd85e7eeb3738f5f7ffdde6c026a39513f3cfa78",
       "mode": 420,
-      "blob": "blobs/dd838bfe5b9bd37228f25b60c81e02c236a2e43413fbe63dad9f3bcbd34f5b0f"
+      "blob": "blobs/44c60e2763b309e0d72f6c87dd85e7eeb3738f5f7ffdde6c026a39513f3cfa78"
     },
     ".cursor/skills/codebase-design/DEEPENING.md": {
       "type": "file",
@@ -8214,9 +8298,9 @@
     },
     ".cursor/skills/competitive-intelligence/SKILL.md": {
       "type": "file",
-      "digest": "caee822202f1f85517efcbee5a7cada337112c4fd01d3a77ceeac9edf15d703f",
+      "digest": "18af2bca5c2c590db902c65b84b24fe74455dc6bfebb3d46a91150b82ed67686",
       "mode": 420,
-      "blob": "blobs/caee822202f1f85517efcbee5a7cada337112c4fd01d3a77ceeac9edf15d703f"
+      "blob": "blobs/18af2bca5c2c590db902c65b84b24fe74455dc6bfebb3d46a91150b82ed67686"
     },
     ".cursor/skills/cross-repo-implementation-routing/SKILL.md": {
       "type": "file",
@@ -8316,9 +8400,9 @@
     },
     ".cursor/skills/harness-orchestrator/SKILL.md": {
       "type": "file",
-      "digest": "069205786d60f97ef135ea0150ae17cfae4efe32ac3ecc8ac038bec50cde3b65",
+      "digest": "6fcf2491cf2be09cf2f59341c46932e7262645a0933c0c31291a397ed73ab518",
       "mode": 420,
-      "blob": "blobs/069205786d60f97ef135ea0150ae17cfae4efe32ac3ecc8ac038bec50cde3b65"
+      "blob": "blobs/6fcf2491cf2be09cf2f59341c46932e7262645a0933c0c31291a397ed73ab518"
     },
     ".cursor/skills/harness-orchestrator/agents/openai.yaml": {
       "type": "file",
@@ -8334,15 +8418,21 @@
     },
     ".cursor/skills/harness-orchestrator/references/orchestration-contract.yaml": {
       "type": "file",
-      "digest": "0b5f7ae60f7ee793962eea0009e27ee158f58344f2dadd92869d5f2c3e468ae0",
+      "digest": "5fe82ef12ae77a93045a1f63a4ce0ff598665da0aee2b3167e817b832d958f1f",
       "mode": 420,
-      "blob": "blobs/0b5f7ae60f7ee793962eea0009e27ee158f58344f2dadd92869d5f2c3e468ae0"
+      "blob": "blobs/5fe82ef12ae77a93045a1f63a4ce0ff598665da0aee2b3167e817b832d958f1f"
     },
     ".cursor/skills/harness-orchestrator/references/plan-requirements.md": {
       "type": "file",
       "digest": "c6671542cdfd21bd165dba36e771d0b85202e585e4719cb23afdedb5f4e7bc4e",
       "mode": 420,
       "blob": "blobs/c6671542cdfd21bd165dba36e771d0b85202e585e4719cb23afdedb5f4e7bc4e"
+    },
+    ".cursor/skills/harness-orchestrator/references/professional-review.md": {
+      "type": "file",
+      "digest": "88253a061d970eb9aa25fc048e3f51601f599f51a7f49c0818433b80a780cc8f",
+      "mode": 420,
+      "blob": "blobs/88253a061d970eb9aa25fc048e3f51601f599f51a7f49c0818433b80a780cc8f"
     },
     ".cursor/skills/i-have-adhd/LICENSE": {
       "type": "file",
@@ -9336,9 +9426,9 @@
     },
     ".cursor/skills/yss-ddd-scaffold-generator/scripts/scaffold-generator.test.mjs": {
       "type": "file",
-      "digest": "f558c24ff2e5007072a5b1992b59f7ce590eed8c84bf63ba244811140bb0a3c1",
+      "digest": "f40a73d6d6e64b334f4c489794c561a787ba9f98a33f8c6f09b1b67b467f2461",
       "mode": 420,
-      "blob": "blobs/f558c24ff2e5007072a5b1992b59f7ce590eed8c84bf63ba244811140bb0a3c1"
+      "blob": "blobs/f40a73d6d6e64b334f4c489794c561a787ba9f98a33f8c6f09b1b67b467f2461"
     },
     ".cursor/skills/yss-distributed-id/SKILL.md": {
       "type": "file",
@@ -9828,15 +9918,21 @@
     },
     ".cursor/skills/yss-research/SKILL.md": {
       "type": "file",
-      "digest": "789fa6131272d11d9758df4efd54ef5c6d8c265c2581bebeae56633685680696",
+      "digest": "145d5df415d24fa3b407f58f2733be3d5c30606d312d78c60aab00475beeaab5",
       "mode": 420,
-      "blob": "blobs/789fa6131272d11d9758df4efd54ef5c6d8c265c2581bebeae56633685680696"
+      "blob": "blobs/145d5df415d24fa3b407f58f2733be3d5c30606d312d78c60aab00475beeaab5"
     },
     ".cursor/skills/yss-research/agents/openai.yaml": {
       "type": "file",
       "digest": "8ecd0ce015596948d53dd0201a2f68e9d3463f8e5620526360cf7b0096fb50bc",
       "mode": 420,
       "blob": "blobs/8ecd0ce015596948d53dd0201a2f68e9d3463f8e5620526360cf7b0096fb50bc"
+    },
+    ".cursor/skills/yss-research/assets/competitive-evidence-template.yaml": {
+      "type": "file",
+      "digest": "e53ae9dd7a249edfdac793235dc672322e248990179bc6bdc6bcc8a731775cb3",
+      "mode": 420,
+      "blob": "blobs/e53ae9dd7a249edfdac793235dc672322e248990179bc6bdc6bcc8a731775cb3"
     },
     ".cursor/skills/yss-research/assets/evidence-template.yaml": {
       "type": "file",
@@ -9850,17 +9946,47 @@
       "mode": 420,
       "blob": "blobs/5ab5ca8ca63158290977548c2ad8ff610564dc39210009b5665c058ef5cc6be7"
     },
+    ".cursor/skills/yss-research/references/competitive-analysis.md": {
+      "type": "file",
+      "digest": "b2d5090b1473fa6ddbab6960c6149f11593bc2329e82a3fc3fb1ae97eb707820",
+      "mode": 420,
+      "blob": "blobs/b2d5090b1473fa6ddbab6960c6149f11593bc2329e82a3fc3fb1ae97eb707820"
+    },
+    ".cursor/skills/yss-research/references/competitive-analysis.schema.json": {
+      "type": "file",
+      "digest": "e1d0ea62c896f5eb116e5a3d8578ae7ecbd4b55cd12751314e5ef381b9692a09",
+      "mode": 420,
+      "blob": "blobs/e1d0ea62c896f5eb116e5a3d8578ae7ecbd4b55cd12751314e5ef381b9692a09"
+    },
     ".cursor/skills/yss-research/references/evidence-contract.md": {
       "type": "file",
-      "digest": "accf660bda44cec320aca3d7ea769c8c724ac7adaf543879035d56a030cb9fa7",
+      "digest": "89680f6f6c69f944672960ae6f8c29b58be06cac1a58bcdebcce149a1d75e626",
       "mode": 420,
-      "blob": "blobs/accf660bda44cec320aca3d7ea769c8c724ac7adaf543879035d56a030cb9fa7"
+      "blob": "blobs/89680f6f6c69f944672960ae6f8c29b58be06cac1a58bcdebcce149a1d75e626"
+    },
+    ".cursor/skills/yss-research/scripts/lib/competitive-analysis.mjs": {
+      "type": "file",
+      "digest": "d52f89500b59b4bf21608154a128ceef71c40940b24a4546bc3f86e3c93ef57e",
+      "mode": 420,
+      "blob": "blobs/d52f89500b59b4bf21608154a128ceef71c40940b24a4546bc3f86e3c93ef57e"
+    },
+    ".cursor/skills/yss-research/scripts/render-competitive-outputs.mjs": {
+      "type": "file",
+      "digest": "74a692573892a2a3b9fa8582a45941eaccdf2a26a13fa72edb7fdacf0e115834",
+      "mode": 420,
+      "blob": "blobs/74a692573892a2a3b9fa8582a45941eaccdf2a26a13fa72edb7fdacf0e115834"
     },
     ".cursor/skills/yss-research/scripts/validate-research-package.mjs": {
       "type": "file",
-      "digest": "5e4e437d54e67cce9dd380974744605bd149c71939c5f01e3ea4719c79911d0f",
+      "digest": "2b6f07d3a47ac8dde29fa8262560bb2eb8d534cf50b021ffa05d1fe468ad0078",
       "mode": 420,
-      "blob": "blobs/5e4e437d54e67cce9dd380974744605bd149c71939c5f01e3ea4719c79911d0f"
+      "blob": "blobs/2b6f07d3a47ac8dde29fa8262560bb2eb8d534cf50b021ffa05d1fe468ad0078"
+    },
+    ".cursor/skills/yss-research/tests/competitive-scenarios.test.mjs": {
+      "type": "file",
+      "digest": "d8eab6ddc946086222cf484b4d77beb74ff560972289d46e4851f8fe67ba7199",
+      "mode": 420,
+      "blob": "blobs/d8eab6ddc946086222cf484b4d77beb74ff560972289d46e4851f8fe67ba7199"
     },
     ".cursor/skills/yss-research/tests/run-scenarios.mjs": {
       "type": "file",
@@ -11580,9 +11706,9 @@
     },
     ".pi/skills/code-review/SKILL.md": {
       "type": "file",
-      "digest": "13bf6bf59d4cfb07124a1fd923a1984541584a30d315a9e675841400aab15e14",
+      "digest": "30d820bd63fef46391e4ade3bb24fe1bf03d20caedc4cc2ecbd023afe376f85d",
       "mode": 420,
-      "blob": "blobs/13bf6bf59d4cfb07124a1fd923a1984541584a30d315a9e675841400aab15e14"
+      "blob": "blobs/30d820bd63fef46391e4ade3bb24fe1bf03d20caedc4cc2ecbd023afe376f85d"
     },
     ".pi/skills/code-review/agents/openai.yaml": {
       "type": "file",
@@ -11598,15 +11724,15 @@
     },
     ".pi/skills/code-review/references/legacy-convergence.md": {
       "type": "file",
-      "digest": "3a289879b3d38bf745e74fe05e68bcce0ea4dfea9880b740eff9db02c6b1f9d9",
+      "digest": "7322f4e8793bc7101f58a20b1904adeea53b7d16ecef6cdd52344968e29f3f08",
       "mode": 420,
-      "blob": "blobs/3a289879b3d38bf745e74fe05e68bcce0ea4dfea9880b740eff9db02c6b1f9d9"
+      "blob": "blobs/7322f4e8793bc7101f58a20b1904adeea53b7d16ecef6cdd52344968e29f3f08"
     },
     ".pi/skills/code-review/references/review-axis-checklists.md": {
       "type": "file",
-      "digest": "a4845144e63eb9ad025c286fed5340460b22f132e3edc6f49e1ad3343c6d5f1a",
+      "digest": "3944995726b6fbd9fc368809a3963c6728a4c0fe08247e42da8de180188655ef",
       "mode": 420,
-      "blob": "blobs/a4845144e63eb9ad025c286fed5340460b22f132e3edc6f49e1ad3343c6d5f1a"
+      "blob": "blobs/3944995726b6fbd9fc368809a3963c6728a4c0fe08247e42da8de180188655ef"
     },
     ".pi/skills/code-review/references/smell-baseline.md": {
       "type": "file",
@@ -11616,9 +11742,9 @@
     },
     ".pi/skills/code-review/references/yss-review-standards.md": {
       "type": "file",
-      "digest": "dd838bfe5b9bd37228f25b60c81e02c236a2e43413fbe63dad9f3bcbd34f5b0f",
+      "digest": "44c60e2763b309e0d72f6c87dd85e7eeb3738f5f7ffdde6c026a39513f3cfa78",
       "mode": 420,
-      "blob": "blobs/dd838bfe5b9bd37228f25b60c81e02c236a2e43413fbe63dad9f3bcbd34f5b0f"
+      "blob": "blobs/44c60e2763b309e0d72f6c87dd85e7eeb3738f5f7ffdde6c026a39513f3cfa78"
     },
     ".pi/skills/codebase-design/DEEPENING.md": {
       "type": "file",
@@ -11658,9 +11784,9 @@
     },
     ".pi/skills/competitive-intelligence/SKILL.md": {
       "type": "file",
-      "digest": "caee822202f1f85517efcbee5a7cada337112c4fd01d3a77ceeac9edf15d703f",
+      "digest": "18af2bca5c2c590db902c65b84b24fe74455dc6bfebb3d46a91150b82ed67686",
       "mode": 420,
-      "blob": "blobs/caee822202f1f85517efcbee5a7cada337112c4fd01d3a77ceeac9edf15d703f"
+      "blob": "blobs/18af2bca5c2c590db902c65b84b24fe74455dc6bfebb3d46a91150b82ed67686"
     },
     ".pi/skills/cross-repo-implementation-routing/SKILL.md": {
       "type": "file",
@@ -11760,9 +11886,9 @@
     },
     ".pi/skills/harness-orchestrator/SKILL.md": {
       "type": "file",
-      "digest": "069205786d60f97ef135ea0150ae17cfae4efe32ac3ecc8ac038bec50cde3b65",
+      "digest": "6fcf2491cf2be09cf2f59341c46932e7262645a0933c0c31291a397ed73ab518",
       "mode": 420,
-      "blob": "blobs/069205786d60f97ef135ea0150ae17cfae4efe32ac3ecc8ac038bec50cde3b65"
+      "blob": "blobs/6fcf2491cf2be09cf2f59341c46932e7262645a0933c0c31291a397ed73ab518"
     },
     ".pi/skills/harness-orchestrator/agents/openai.yaml": {
       "type": "file",
@@ -11778,15 +11904,21 @@
     },
     ".pi/skills/harness-orchestrator/references/orchestration-contract.yaml": {
       "type": "file",
-      "digest": "0b5f7ae60f7ee793962eea0009e27ee158f58344f2dadd92869d5f2c3e468ae0",
+      "digest": "5fe82ef12ae77a93045a1f63a4ce0ff598665da0aee2b3167e817b832d958f1f",
       "mode": 420,
-      "blob": "blobs/0b5f7ae60f7ee793962eea0009e27ee158f58344f2dadd92869d5f2c3e468ae0"
+      "blob": "blobs/5fe82ef12ae77a93045a1f63a4ce0ff598665da0aee2b3167e817b832d958f1f"
     },
     ".pi/skills/harness-orchestrator/references/plan-requirements.md": {
       "type": "file",
       "digest": "c6671542cdfd21bd165dba36e771d0b85202e585e4719cb23afdedb5f4e7bc4e",
       "mode": 420,
       "blob": "blobs/c6671542cdfd21bd165dba36e771d0b85202e585e4719cb23afdedb5f4e7bc4e"
+    },
+    ".pi/skills/harness-orchestrator/references/professional-review.md": {
+      "type": "file",
+      "digest": "88253a061d970eb9aa25fc048e3f51601f599f51a7f49c0818433b80a780cc8f",
+      "mode": 420,
+      "blob": "blobs/88253a061d970eb9aa25fc048e3f51601f599f51a7f49c0818433b80a780cc8f"
     },
     ".pi/skills/i-have-adhd/LICENSE": {
       "type": "file",
@@ -12780,9 +12912,9 @@
     },
     ".pi/skills/yss-ddd-scaffold-generator/scripts/scaffold-generator.test.mjs": {
       "type": "file",
-      "digest": "f558c24ff2e5007072a5b1992b59f7ce590eed8c84bf63ba244811140bb0a3c1",
+      "digest": "f40a73d6d6e64b334f4c489794c561a787ba9f98a33f8c6f09b1b67b467f2461",
       "mode": 420,
-      "blob": "blobs/f558c24ff2e5007072a5b1992b59f7ce590eed8c84bf63ba244811140bb0a3c1"
+      "blob": "blobs/f40a73d6d6e64b334f4c489794c561a787ba9f98a33f8c6f09b1b67b467f2461"
     },
     ".pi/skills/yss-distributed-id/SKILL.md": {
       "type": "file",
@@ -13272,15 +13404,21 @@
     },
     ".pi/skills/yss-research/SKILL.md": {
       "type": "file",
-      "digest": "789fa6131272d11d9758df4efd54ef5c6d8c265c2581bebeae56633685680696",
+      "digest": "145d5df415d24fa3b407f58f2733be3d5c30606d312d78c60aab00475beeaab5",
       "mode": 420,
-      "blob": "blobs/789fa6131272d11d9758df4efd54ef5c6d8c265c2581bebeae56633685680696"
+      "blob": "blobs/145d5df415d24fa3b407f58f2733be3d5c30606d312d78c60aab00475beeaab5"
     },
     ".pi/skills/yss-research/agents/openai.yaml": {
       "type": "file",
       "digest": "8ecd0ce015596948d53dd0201a2f68e9d3463f8e5620526360cf7b0096fb50bc",
       "mode": 420,
       "blob": "blobs/8ecd0ce015596948d53dd0201a2f68e9d3463f8e5620526360cf7b0096fb50bc"
+    },
+    ".pi/skills/yss-research/assets/competitive-evidence-template.yaml": {
+      "type": "file",
+      "digest": "e53ae9dd7a249edfdac793235dc672322e248990179bc6bdc6bcc8a731775cb3",
+      "mode": 420,
+      "blob": "blobs/e53ae9dd7a249edfdac793235dc672322e248990179bc6bdc6bcc8a731775cb3"
     },
     ".pi/skills/yss-research/assets/evidence-template.yaml": {
       "type": "file",
@@ -13294,17 +13432,47 @@
       "mode": 420,
       "blob": "blobs/5ab5ca8ca63158290977548c2ad8ff610564dc39210009b5665c058ef5cc6be7"
     },
+    ".pi/skills/yss-research/references/competitive-analysis.md": {
+      "type": "file",
+      "digest": "b2d5090b1473fa6ddbab6960c6149f11593bc2329e82a3fc3fb1ae97eb707820",
+      "mode": 420,
+      "blob": "blobs/b2d5090b1473fa6ddbab6960c6149f11593bc2329e82a3fc3fb1ae97eb707820"
+    },
+    ".pi/skills/yss-research/references/competitive-analysis.schema.json": {
+      "type": "file",
+      "digest": "e1d0ea62c896f5eb116e5a3d8578ae7ecbd4b55cd12751314e5ef381b9692a09",
+      "mode": 420,
+      "blob": "blobs/e1d0ea62c896f5eb116e5a3d8578ae7ecbd4b55cd12751314e5ef381b9692a09"
+    },
     ".pi/skills/yss-research/references/evidence-contract.md": {
       "type": "file",
-      "digest": "accf660bda44cec320aca3d7ea769c8c724ac7adaf543879035d56a030cb9fa7",
+      "digest": "89680f6f6c69f944672960ae6f8c29b58be06cac1a58bcdebcce149a1d75e626",
       "mode": 420,
-      "blob": "blobs/accf660bda44cec320aca3d7ea769c8c724ac7adaf543879035d56a030cb9fa7"
+      "blob": "blobs/89680f6f6c69f944672960ae6f8c29b58be06cac1a58bcdebcce149a1d75e626"
+    },
+    ".pi/skills/yss-research/scripts/lib/competitive-analysis.mjs": {
+      "type": "file",
+      "digest": "d52f89500b59b4bf21608154a128ceef71c40940b24a4546bc3f86e3c93ef57e",
+      "mode": 420,
+      "blob": "blobs/d52f89500b59b4bf21608154a128ceef71c40940b24a4546bc3f86e3c93ef57e"
+    },
+    ".pi/skills/yss-research/scripts/render-competitive-outputs.mjs": {
+      "type": "file",
+      "digest": "74a692573892a2a3b9fa8582a45941eaccdf2a26a13fa72edb7fdacf0e115834",
+      "mode": 420,
+      "blob": "blobs/74a692573892a2a3b9fa8582a45941eaccdf2a26a13fa72edb7fdacf0e115834"
     },
     ".pi/skills/yss-research/scripts/validate-research-package.mjs": {
       "type": "file",
-      "digest": "5e4e437d54e67cce9dd380974744605bd149c71939c5f01e3ea4719c79911d0f",
+      "digest": "2b6f07d3a47ac8dde29fa8262560bb2eb8d534cf50b021ffa05d1fe468ad0078",
       "mode": 420,
-      "blob": "blobs/5e4e437d54e67cce9dd380974744605bd149c71939c5f01e3ea4719c79911d0f"
+      "blob": "blobs/2b6f07d3a47ac8dde29fa8262560bb2eb8d534cf50b021ffa05d1fe468ad0078"
+    },
+    ".pi/skills/yss-research/tests/competitive-scenarios.test.mjs": {
+      "type": "file",
+      "digest": "d8eab6ddc946086222cf484b4d77beb74ff560972289d46e4851f8fe67ba7199",
+      "mode": 420,
+      "blob": "blobs/d8eab6ddc946086222cf484b4d77beb74ff560972289d46e4851f8fe67ba7199"
     },
     ".pi/skills/yss-research/tests/run-scenarios.mjs": {
       "type": "file",
@@ -13782,15 +13950,15 @@
     },
     ".template-spec/agents/digital-human-roles.md": {
       "type": "file",
-      "digest": "f811b5778af4a7dd8f46c1f250e5a4c61cafcaa61ec8a80af6e90034ae8e787e",
+      "digest": "f67eea426b7ae1ba45cb7767101cba3238a8132e432f05a09a669012ef5ff7d4",
       "mode": 420,
-      "blob": "blobs/f811b5778af4a7dd8f46c1f250e5a4c61cafcaa61ec8a80af6e90034ae8e787e"
+      "blob": "blobs/f67eea426b7ae1ba45cb7767101cba3238a8132e432f05a09a669012ef5ff7d4"
     },
     ".template-spec/agents/digital-human-roles.yaml": {
       "type": "file",
-      "digest": "f3625194da6dfa3412980c08948edc0116f1b388b073682558409debc66506d6",
+      "digest": "9f5a904b82accc4265f09c30e0ba201f67516cfb18856ac95e0ecbb04631e993",
       "mode": 420,
-      "blob": "blobs/f3625194da6dfa3412980c08948edc0116f1b388b073682558409debc66506d6"
+      "blob": "blobs/9f5a904b82accc4265f09c30e0ba201f67516cfb18856ac95e0ecbb04631e993"
     },
     ".template-spec/agents/gitlab-workflow-skills.md": {
       "type": "file",
@@ -14056,6 +14224,18 @@
       "mode": 420,
       "blob": "blobs/6087daeebf507cfc12d7d66cf3331958adf7763507b6e2462501d497948244ae"
     },
+    ".template-spec/plan/templates/competitive-analysis-template.md": {
+      "type": "file",
+      "digest": "b00f3f62d4fbe0ae832e5f0622e89d4a0d9432b9b932ebaaffddb477936a76bf",
+      "mode": 420,
+      "blob": "blobs/b00f3f62d4fbe0ae832e5f0622e89d4a0d9432b9b932ebaaffddb477936a76bf"
+    },
+    ".template-spec/plan/templates/competitive-matrix-template.md": {
+      "type": "file",
+      "digest": "1bef5ca09b60c60340220d71bcaedc24553bf227d9e83dadf58db061a855c7d1",
+      "mode": 420,
+      "blob": "blobs/1bef5ca09b60c60340220d71bcaedc24553bf227d9e83dadf58db061a855c7d1"
+    },
     ".template-spec/plan/templates/plan-template.md": {
       "type": "file",
       "digest": "5c9b66186da4020c5c5c9a21e695ded04090c2e226ca3213b094834759317bed",
@@ -14094,9 +14274,9 @@
     },
     ".template-spec/process/document-writing.md": {
       "type": "file",
-      "digest": "6433e7229ff232d79b25edb8a5cc43923b77df1cfe7d6c76c148e47d9bd38d26",
+      "digest": "3b19be72706ca692c824681f2dd28aad7e409f716efa8eccd38ff3934a084639",
       "mode": 420,
-      "blob": "blobs/6433e7229ff232d79b25edb8a5cc43923b77df1cfe7d6c76c148e47d9bd38d26"
+      "blob": "blobs/3b19be72706ca692c824681f2dd28aad7e409f716efa8eccd38ff3934a084639"
     },
     ".template-spec/process/existing-backend-architecture.md": {
       "type": "file",
@@ -14184,9 +14364,15 @@
     },
     ".template-spec/process/research-completion.md": {
       "type": "file",
-      "digest": "3adfcd90d7f25f1fc7c989862d9ee1e39c4a8a4afb68d90784ebe56ca320991e",
+      "digest": "c0b01667543dae9f8b6af75476f9e89325f3ef178c4f49aaa2fc441a54ea6b49",
       "mode": 420,
-      "blob": "blobs/3adfcd90d7f25f1fc7c989862d9ee1e39c4a8a4afb68d90784ebe56ca320991e"
+      "blob": "blobs/c0b01667543dae9f8b6af75476f9e89325f3ef178c4f49aaa2fc441a54ea6b49"
+    },
+    ".template-spec/process/runtime-storage.md": {
+      "type": "file",
+      "digest": "f42e3410b687df7dd4969174f4f1f8adef6a3e05de60f75ba5564af308ec42b2",
+      "mode": 420,
+      "blob": "blobs/f42e3410b687df7dd4969174f4f1f8adef6a3e05de60f75ba5564af308ec42b2"
     },
     ".template-spec/process/schemas/api-contract-decision-v2.schema.json": {
       "type": "file",
@@ -14200,11 +14386,17 @@
       "mode": 420,
       "blob": "blobs/5310e84d0d11a16266ae5e6d2f1500023b0787e476811270713831aa4cec2f69"
     },
+    ".template-spec/process/schemas/approval-context.schema.json": {
+      "type": "file",
+      "digest": "81a537cecbd90fd13c8a4d200d4d99d39a1b550ba477412c4f10535d86f12540",
+      "mode": 420,
+      "blob": "blobs/81a537cecbd90fd13c8a4d200d4d99d39a1b550ba477412c4f10535d86f12540"
+    },
     ".template-spec/process/schemas/approval-record.schema.json": {
       "type": "file",
-      "digest": "c1f632e56cd0b4ede5d40227f7525939b787cdf74305eff3077c83db35e4096e",
+      "digest": "8dc119f9e4110e9b5baced9b363e7016628a4222343b0a0dd0fb4fce6adb6a83",
       "mode": 420,
-      "blob": "blobs/c1f632e56cd0b4ede5d40227f7525939b787cdf74305eff3077c83db35e4096e"
+      "blob": "blobs/8dc119f9e4110e9b5baced9b363e7016628a4222343b0a0dd0fb4fce6adb6a83"
     },
     ".template-spec/process/schemas/backend-architecture-identity.schema.json": {
       "type": "file",
@@ -14220,9 +14412,9 @@
     },
     ".template-spec/process/schemas/backend-delivery.schema.json": {
       "type": "file",
-      "digest": "92a97c59e180c2d618039af64e59863e48fe081d3e0a2ceea0b34923b426f5ee",
+      "digest": "a031f53198c8ccadc1245f7556f64510056f0f428176daaa637c6d39027e345f",
       "mode": 420,
-      "blob": "blobs/92a97c59e180c2d618039af64e59863e48fe081d3e0a2ceea0b34923b426f5ee"
+      "blob": "blobs/a031f53198c8ccadc1245f7556f64510056f0f428176daaa637c6d39027e345f"
     },
     ".template-spec/process/schemas/business-tickets-v1.schema.json": {
       "type": "file",
@@ -14244,9 +14436,9 @@
     },
     ".template-spec/process/schemas/delivery-preflight-input.schema.json": {
       "type": "file",
-      "digest": "3b9d38d917d92f305cfacf4e949672b4f4539d50194583027f39fd2fb31ce93c",
+      "digest": "6379682a9be22d761f347d31416978675b2efb8b414ace236de5bd633abeb55f",
       "mode": 420,
-      "blob": "blobs/3b9d38d917d92f305cfacf4e949672b4f4539d50194583027f39fd2fb31ce93c"
+      "blob": "blobs/6379682a9be22d761f347d31416978675b2efb8b414ace236de5bd633abeb55f"
     },
     ".template-spec/process/schemas/delivery-preflight-result.schema.json": {
       "type": "file",
@@ -14256,9 +14448,9 @@
     },
     ".template-spec/process/schemas/digital-human-task-package.schema.json": {
       "type": "file",
-      "digest": "78ee716f228660fa07666974ab51d69306e4d510ffbca0c31d9d9c05005bb976",
+      "digest": "9e5cd5a50670336176ea39a46cc4bcdc588c0677f680661bc28761435b70c3f9",
       "mode": 420,
-      "blob": "blobs/78ee716f228660fa07666974ab51d69306e4d510ffbca0c31d9d9c05005bb976"
+      "blob": "blobs/9e5cd5a50670336176ea39a46cc4bcdc588c0677f680661bc28761435b70c3f9"
     },
     ".template-spec/process/schemas/domain-strategy-reading.schema.json": {
       "type": "file",
@@ -14310,15 +14502,15 @@
     },
     ".template-spec/process/schemas/implementation-repository-preparation-result.schema.json": {
       "type": "file",
-      "digest": "989253e0f4ed46fe2d6ccd34a324ba8acc26bad29ead07a09e185014db64be89",
+      "digest": "6377c291981b344707b25a39b35f998c2b137f77451b6fb344193b964f67e324",
       "mode": 420,
-      "blob": "blobs/989253e0f4ed46fe2d6ccd34a324ba8acc26bad29ead07a09e185014db64be89"
+      "blob": "blobs/6377c291981b344707b25a39b35f998c2b137f77451b6fb344193b964f67e324"
     },
     ".template-spec/process/schemas/lifecycle-checkpoint.schema.json": {
       "type": "file",
-      "digest": "9af96f6994593cb86febe4cfbde74fcbd1400d23704bde83c63da385559f9d4d",
+      "digest": "255c62c50c344bacc6d2734a4df5a0a5d79b381aaeae7867b66cef44ed3eb5d5",
       "mode": 420,
-      "blob": "blobs/9af96f6994593cb86febe4cfbde74fcbd1400d23704bde83c63da385559f9d4d"
+      "blob": "blobs/255c62c50c344bacc6d2734a4df5a0a5d79b381aaeae7867b66cef44ed3eb5d5"
     },
     ".template-spec/process/schemas/lifecycle-registry.schema.json": {
       "type": "file",
@@ -14340,9 +14532,9 @@
     },
     ".template-spec/process/schemas/project-scaffold-contract.schema.json": {
       "type": "file",
-      "digest": "d89f323895208a406acab5be132ec314d292653ca2cfc0774a95b4841b92e5ed",
+      "digest": "6079802aac25b5ddfb7ba7ebf01a85b0dfd68628c16ffd48011c7e909485812c",
       "mode": 420,
-      "blob": "blobs/d89f323895208a406acab5be132ec314d292653ca2cfc0774a95b4841b92e5ed"
+      "blob": "blobs/6079802aac25b5ddfb7ba7ebf01a85b0dfd68628c16ffd48011c7e909485812c"
     },
     ".template-spec/process/schemas/reading-manifest.schema.json": {
       "type": "file",
@@ -14358,9 +14550,9 @@
     },
     ".template-spec/process/schemas/review-bundle.schema.json": {
       "type": "file",
-      "digest": "4b2dd0c0e3e410e066789167628f8461220d649e548c28b89a98e6b5bee8ccd8",
+      "digest": "c41e468d66ff760cfffc8c94e2b5d10e26360134e767f4f13c155175a1d70095",
       "mode": 420,
-      "blob": "blobs/4b2dd0c0e3e410e066789167628f8461220d649e548c28b89a98e6b5bee8ccd8"
+      "blob": "blobs/c41e468d66ff760cfffc8c94e2b5d10e26360134e767f4f13c155175a1d70095"
     },
     ".template-spec/process/schemas/scaffold-architecture-decisions.schema.json": {
       "type": "file",
@@ -14394,27 +14586,27 @@
     },
     ".template-spec/process/schemas/strategic-design-handoff-v3.schema.json": {
       "type": "file",
-      "digest": "8f7937254c4d6f7e8f0699da25742a54c52da44b5a4ef2d2927994710b67bc63",
+      "digest": "dd6245ffdd7946c540b65f0204e6e68adfba346e60c344838cc19320cbc6f3b9",
       "mode": 420,
-      "blob": "blobs/8f7937254c4d6f7e8f0699da25742a54c52da44b5a4ef2d2927994710b67bc63"
+      "blob": "blobs/dd6245ffdd7946c540b65f0204e6e68adfba346e60c344838cc19320cbc6f3b9"
     },
     ".template-spec/process/schemas/strategic-design-handoff-v4.schema.json": {
       "type": "file",
-      "digest": "534c1ff7b7edcc62ecd2f4ef925681bec3f91a16739ddb4b6659469475838b7b",
+      "digest": "8aa8b76b2a8cbac5352a584a194c4231218f553dfb18a8ecc5f81414afdc162f",
       "mode": 420,
-      "blob": "blobs/534c1ff7b7edcc62ecd2f4ef925681bec3f91a16739ddb4b6659469475838b7b"
+      "blob": "blobs/8aa8b76b2a8cbac5352a584a194c4231218f553dfb18a8ecc5f81414afdc162f"
     },
     ".template-spec/process/schemas/strategic-design-handoff-v5.schema.json": {
       "type": "file",
-      "digest": "30cc4379e545e029a81bebe173fc547da6be5c6e9f72ae3ead2ea5eea24ef3bd",
+      "digest": "e44a0cbb957efcf997df3be151510765298c27b227aa66296030f4b2eab5b9a3",
       "mode": 420,
-      "blob": "blobs/30cc4379e545e029a81bebe173fc547da6be5c6e9f72ae3ead2ea5eea24ef3bd"
+      "blob": "blobs/e44a0cbb957efcf997df3be151510765298c27b227aa66296030f4b2eab5b9a3"
     },
     ".template-spec/process/schemas/strategic-design-handoff.schema.json": {
       "type": "file",
-      "digest": "30cc4379e545e029a81bebe173fc547da6be5c6e9f72ae3ead2ea5eea24ef3bd",
+      "digest": "e44a0cbb957efcf997df3be151510765298c27b227aa66296030f4b2eab5b9a3",
       "mode": 420,
-      "blob": "blobs/30cc4379e545e029a81bebe173fc547da6be5c6e9f72ae3ead2ea5eea24ef3bd"
+      "blob": "blobs/e44a0cbb957efcf997df3be151510765298c27b227aa66296030f4b2eab5b9a3"
     },
     ".template-spec/process/schemas/strategic-feedback-adjudication.schema.json": {
       "type": "file",
@@ -14436,27 +14628,27 @@
     },
     ".template-spec/process/schemas/strategic-handoff-domain-strategy-v3.schema.json": {
       "type": "file",
-      "digest": "09141a3416181b18fff1a61112b9ec13242e7538d27670c8a2b43a971012545d",
+      "digest": "84dd37b0da86663baa2869b98eb71924c56042156f27e88f4baaa9ffaf4beba5",
       "mode": 420,
-      "blob": "blobs/09141a3416181b18fff1a61112b9ec13242e7538d27670c8a2b43a971012545d"
+      "blob": "blobs/84dd37b0da86663baa2869b98eb71924c56042156f27e88f4baaa9ffaf4beba5"
     },
     ".template-spec/process/schemas/strategic-handoff-domain-strategy.schema.json": {
       "type": "file",
-      "digest": "e54e661565fae53866a8f2e79276f70de63508d6fd743ae58f7115f7847b7e8e",
+      "digest": "9b1c4fd4e095de9a78a9b19657c1f9d06e25c187781303b9cd9152829d964497",
       "mode": 420,
-      "blob": "blobs/e54e661565fae53866a8f2e79276f70de63508d6fd743ae58f7115f7847b7e8e"
+      "blob": "blobs/9b1c4fd4e095de9a78a9b19657c1f9d06e25c187781303b9cd9152829d964497"
     },
     ".template-spec/process/schemas/strategic-handoff-export-v2.schema.json": {
       "type": "file",
-      "digest": "591bce6840dcc43108b5800358c01ccaa012a3362de3c95368a7d7dc1f7dcc57",
+      "digest": "b82dce5e146c0dbf638e2e28eab0241c0d3166e4dfc779f4d40dc65af632bbc3",
       "mode": 420,
-      "blob": "blobs/591bce6840dcc43108b5800358c01ccaa012a3362de3c95368a7d7dc1f7dcc57"
+      "blob": "blobs/b82dce5e146c0dbf638e2e28eab0241c0d3166e4dfc779f4d40dc65af632bbc3"
     },
     ".template-spec/process/schemas/strategic-handoff-export.schema.json": {
       "type": "file",
-      "digest": "6596cc5658d2495ea05d6ebf19d0f47f2864812c7336d73b7fa3af849d463c49",
+      "digest": "eef88caa71ad4775dd21d582089723176477ecbfb9001f501c6f6089c4c4a4c9",
       "mode": 420,
-      "blob": "blobs/6596cc5658d2495ea05d6ebf19d0f47f2864812c7336d73b7fa3af849d463c49"
+      "blob": "blobs/eef88caa71ad4775dd21d582089723176477ecbfb9001f501c6f6089c4c4a4c9"
     },
     ".template-spec/process/schemas/strategic-handoff-import-receipt-v3.schema.json": {
       "type": "file",
@@ -14478,15 +14670,15 @@
     },
     ".template-spec/process/schemas/strategic-handoff-stage-decision-package-v3.schema.json": {
       "type": "file",
-      "digest": "610aed5d21cb3b13c9bcd8b46fec20a0199b4cbd5685774480c82dfe9878a31b",
+      "digest": "b9793fb655427b03bd24f2590a1145cef988f96797a6469fea85b3d0fea409ba",
       "mode": 420,
-      "blob": "blobs/610aed5d21cb3b13c9bcd8b46fec20a0199b4cbd5685774480c82dfe9878a31b"
+      "blob": "blobs/b9793fb655427b03bd24f2590a1145cef988f96797a6469fea85b3d0fea409ba"
     },
     ".template-spec/process/schemas/strategic-handoff-stage-decision-package.schema.json": {
       "type": "file",
-      "digest": "9114c22e2db64909a9d7565d8b83dbf460871d36821001d3f93c897b15f8437b",
+      "digest": "6042ed1284abaa275f93e178689399281e772acec5edc3177958c2c95b6e1da3",
       "mode": 420,
-      "blob": "blobs/9114c22e2db64909a9d7565d8b83dbf460871d36821001d3f93c897b15f8437b"
+      "blob": "blobs/6042ed1284abaa275f93e178689399281e772acec5edc3177958c2c95b6e1da3"
     },
     ".template-spec/process/schemas/subagent-task-package.schema.json": {
       "type": "file",
@@ -14520,9 +14712,9 @@
     },
     ".template-spec/process/subagent-collaboration.md": {
       "type": "file",
-      "digest": "1b79230044195f262c72f7d348032546ef9fb7678ff43b84fdfce4b1be554a7f",
+      "digest": "5f7db085eb5c3efedc4c179e025fad44db5b01d993d5dcb1244531032db0fa54",
       "mode": 420,
-      "blob": "blobs/1b79230044195f262c72f7d348032546ef9fb7678ff43b84fdfce4b1be554a7f"
+      "blob": "blobs/5f7db085eb5c3efedc4c179e025fad44db5b01d993d5dcb1244531032db0fa54"
     },
     ".template-spec/process/templates/frontend-implementation-plan-template.yaml": {
       "type": "file",
@@ -14568,15 +14760,15 @@
     },
     ".template-spec/templates/approval-record-template.json": {
       "type": "file",
-      "digest": "ae32ef28b5f2481952ad7fdb1625adb67ee079d59092a60faa49d8fb74e26586",
+      "digest": "697d34a8b3360feb21e775684cd23a8fffc2270ccc5d9e75b231314975ff713b",
       "mode": 420,
-      "blob": "blobs/ae32ef28b5f2481952ad7fdb1625adb67ee079d59092a60faa49d8fb74e26586"
+      "blob": "blobs/697d34a8b3360feb21e775684cd23a8fffc2270ccc5d9e75b231314975ff713b"
     },
     ".template-spec/templates/approval-record-template.yaml": {
       "type": "file",
-      "digest": "9b3deca7eefae4963ba85add0363c5456c7b52d40fd5479c19160d3a9aa99756",
+      "digest": "4245377ed8c8576733cadf2675a1eaa220f3bd8afc8327641b25ae1544150dac",
       "mode": 420,
-      "blob": "blobs/9b3deca7eefae4963ba85add0363c5456c7b52d40fd5479c19160d3a9aa99756"
+      "blob": "blobs/4245377ed8c8576733cadf2675a1eaa220f3bd8afc8327641b25ae1544150dac"
     },
     ".template-spec/templates/build-architecture-checklist-template.md": {
       "type": "file",
@@ -14727,6 +14919,12 @@
       "digest": "72285356f56f29f1871df3ea240f47b107a4782dcbf18e013192e10c53b6dcaa",
       "mode": 420,
       "blob": "blobs/72285356f56f29f1871df3ea240f47b107a4782dcbf18e013192e10c53b6dcaa"
+    },
+    ".template-spec/templates/review-bundle-template.yaml": {
+      "type": "file",
+      "digest": "05243ce6f50296737d95f3130f1b32b65d67e078e8d6de126a21db4bdb51c16e",
+      "mode": 420,
+      "blob": "blobs/05243ce6f50296737d95f3130f1b32b65d67e078e8d6de126a21db4bdb51c16e"
     },
     ".template-spec/templates/review-report-template.md": {
       "type": "file",
@@ -14892,9 +15090,9 @@
     },
     "scripts/fixtures/backend-delivery/approval-fixture.mjs": {
       "type": "file",
-      "digest": "2bc8c2fa8899b54885deb26c628ea318b0702cc72824d097953b053f4ccbdd90",
+      "digest": "1cbb66ea4eab7726c7d54038ca17a9d77e1d7b4647652a06fa82dde391fba3ea",
       "mode": 420,
-      "blob": "blobs/2bc8c2fa8899b54885deb26c628ea318b0702cc72824d097953b053f4ccbdd90"
+      "blob": "blobs/1cbb66ea4eab7726c7d54038ca17a9d77e1d7b4647652a06fa82dde391fba3ea"
     },
     "scripts/fixtures/backend-delivery/revision-server.mjs": {
       "type": "file",
@@ -14910,9 +15108,9 @@
     },
     "scripts/fixtures/backend-scaffold/design-prerequisites.mjs": {
       "type": "file",
-      "digest": "38e783e7bd8a85709d671436bb6f0d0184790cb35c2fb6b2df001a71d4f88685",
+      "digest": "d58565492157dc0f94653d4536511b602ae0ce11a4cfbc9d1525acf6de1066be",
       "mode": 420,
-      "blob": "blobs/38e783e7bd8a85709d671436bb6f0d0184790cb35c2fb6b2df001a71d4f88685"
+      "blob": "blobs/d58565492157dc0f94653d4536511b602ae0ce11a4cfbc9d1525acf6de1066be"
     },
     "scripts/fixtures/backend-scaffold/generate-candidate.mjs": {
       "type": "file",
@@ -14940,15 +15138,15 @@
     },
     "scripts/fixtures/business-tickets/handoff.test.mjs": {
       "type": "file",
-      "digest": "b05d2aa914ab48edb6d650cc753c1c46ea29f11b85713e8fc073ef147ef9db74",
+      "digest": "df682663fbccdb51b2aad819a10942db91f6ad771dec5e33f1cc5380e64b9ee6",
       "mode": 420,
-      "blob": "blobs/b05d2aa914ab48edb6d650cc753c1c46ea29f11b85713e8fc073ef147ef9db74"
+      "blob": "blobs/df682663fbccdb51b2aad819a10942db91f6ad771dec5e33f1cc5380e64b9ee6"
     },
     "scripts/fixtures/delivery-preflight/approved-execution-fixture.mjs": {
       "type": "file",
-      "digest": "b8bb9e31864080cc9136db3c1ccb0591d1d95c9ca1365467ed08886c0aa47a1d",
+      "digest": "0c3fddcf2282be6181c0ac5e5567889f1a910ba62192c0dc324ea7234d3acc79",
       "mode": 420,
-      "blob": "blobs/b8bb9e31864080cc9136db3c1ccb0591d1d95c9ca1365467ed08886c0aa47a1d"
+      "blob": "blobs/0c3fddcf2282be6181c0ac5e5567889f1a910ba62192c0dc324ea7234d3acc79"
     },
     "scripts/fixtures/delivery-preflight/approved-execution.test.mjs": {
       "type": "file",
@@ -14958,15 +15156,15 @@
     },
     "scripts/fixtures/delivery-preflight/json-schema-framing.test.mjs": {
       "type": "file",
-      "digest": "e4464e90facc0afb886f6b78cc4c3c71f4a991b40b9b88a350282866388fbd76",
+      "digest": "c921fd856d7b2afea3b277c026af691d9ac2488ed479a505868d7fbd1463ac4d",
       "mode": 420,
-      "blob": "blobs/e4464e90facc0afb886f6b78cc4c3c71f4a991b40b9b88a350282866388fbd76"
+      "blob": "blobs/c921fd856d7b2afea3b277c026af691d9ac2488ed479a505868d7fbd1463ac4d"
     },
     "scripts/fixtures/existing-backend/fixture.mjs": {
       "type": "file",
-      "digest": "feeefd788ae67729e7527eaaf905ee37a7adbc15347363253835cbe75bbcbc7b",
+      "digest": "004e9f69ccaa2aed0975ed72de13bfa646a1d12f0cc1a5c55b6a4a5fadaf8fa7",
       "mode": 420,
-      "blob": "blobs/feeefd788ae67729e7527eaaf905ee37a7adbc15347363253835cbe75bbcbc7b"
+      "blob": "blobs/004e9f69ccaa2aed0975ed72de13bfa646a1d12f0cc1a5c55b6a4a5fadaf8fa7"
     },
     "scripts/fixtures/existing-backend/scenarios.test.mjs": {
       "type": "file",
@@ -14982,9 +15180,9 @@
     },
     "scripts/fixtures/existing-ui-baseline/fixture.mjs": {
       "type": "file",
-      "digest": "0e7b6997156e0ee60c1aa394f60bd6731ded8755947e2c1cd525216dc1c4ec6b",
+      "digest": "c58402c137d6c9280894d3f0cfb9cac3c33b82218af30401cb798ed9aa5f4191",
       "mode": 420,
-      "blob": "blobs/0e7b6997156e0ee60c1aa394f60bd6731ded8755947e2c1cd525216dc1c4ec6b"
+      "blob": "blobs/c58402c137d6c9280894d3f0cfb9cac3c33b82218af30401cb798ed9aa5f4191"
     },
     "scripts/fixtures/maintenance-review/maintenance-focused-review-approved.md": {
       "type": "file",
@@ -15108,9 +15306,9 @@
     },
     "scripts/fixtures/strategic-handoff/fixture.mjs": {
       "type": "file",
-      "digest": "56be2f9e81d32b6675fcc313be8ada6b66090472d0ead2fcc6eb3286d6b46aa1",
+      "digest": "2747bd476cf2bf61910acbc92f8492aecf0840006c8e4942f105ca35fdac531a",
       "mode": 420,
-      "blob": "blobs/56be2f9e81d32b6675fcc313be8ada6b66090472d0ead2fcc6eb3286d6b46aa1"
+      "blob": "blobs/2747bd476cf2bf61910acbc92f8492aecf0840006c8e4942f105ca35fdac531a"
     },
     "scripts/fixtures/strategic-handoff/source-roles.json": {
       "type": "file",
@@ -15172,17 +15370,41 @@
       "mode": 420,
       "blob": "blobs/0ff8557fa89ad45666b7f9cb95bc0086682a21d72bd001dde1803130030a5fb7"
     },
+    "scripts/lib/approval-checkpoint-discovery.mjs": {
+      "type": "file",
+      "digest": "6f16b289bd3ac9f79ec5f6683cd86463579000ed91895aa69fa658749a022717",
+      "mode": 420,
+      "blob": "blobs/6f16b289bd3ac9f79ec5f6683cd86463579000ed91895aa69fa658749a022717"
+    },
+    "scripts/lib/approval-consumption.mjs": {
+      "type": "file",
+      "digest": "249ded1d30e9aa61b7bbc4b27e83bc7b1c57d71f6d0362fdc318736ac6765924",
+      "mode": 420,
+      "blob": "blobs/249ded1d30e9aa61b7bbc4b27e83bc7b1c57d71f6d0362fdc318736ac6765924"
+    },
+    "scripts/lib/approval-current.mjs": {
+      "type": "file",
+      "digest": "17061ab4eb6b846598daa4101fdb8bdb123fac902cda5f6869c21859800d5cbb",
+      "mode": 420,
+      "blob": "blobs/17061ab4eb6b846598daa4101fdb8bdb123fac902cda5f6869c21859800d5cbb"
+    },
+    "scripts/lib/approval-record-io.mjs": {
+      "type": "file",
+      "digest": "a283f30a48bc461577ab9d361bf837202ed92dc1637e40fd24e223b7837de66c",
+      "mode": 420,
+      "blob": "blobs/a283f30a48bc461577ab9d361bf837202ed92dc1637e40fd24e223b7837de66c"
+    },
     "scripts/lib/approval-record.mjs": {
       "type": "file",
-      "digest": "cd5e3a3e8409340f78e68b2f1eabf4e1a80c026ffc2923e828ee5e2f3c4d014a",
+      "digest": "741b53c6ec187d88b0559c783449f5990f0ca21ce31c82f558c96888cd00bd77",
       "mode": 420,
-      "blob": "blobs/cd5e3a3e8409340f78e68b2f1eabf4e1a80c026ffc2923e828ee5e2f3c4d014a"
+      "blob": "blobs/741b53c6ec187d88b0559c783449f5990f0ca21ce31c82f558c96888cd00bd77"
     },
     "scripts/lib/approved-execution-context.mjs": {
       "type": "file",
-      "digest": "7489d0da0e69655dcf873f977413790f122162cf4b18628096528dbb8277c48d",
+      "digest": "874d5135a445b13fa1574ba000263c8899c057e2ee9a9e8888eb384978b5eb1e",
       "mode": 420,
-      "blob": "blobs/7489d0da0e69655dcf873f977413790f122162cf4b18628096528dbb8277c48d"
+      "blob": "blobs/874d5135a445b13fa1574ba000263c8899c057e2ee9a9e8888eb384978b5eb1e"
     },
     "scripts/lib/asset-command.mjs": {
       "type": "file",
@@ -15198,9 +15420,9 @@
     },
     "scripts/lib/asset-transactions.mjs": {
       "type": "file",
-      "digest": "c296441e646b171317b8d230286c4f47e8ff9ca5367d8ffd0b8667c7830d403f",
+      "digest": "a3557291f672547630594f1de7ce75ce64bc2e3760eb6533e7c3a58ea6731439",
       "mode": 420,
-      "blob": "blobs/c296441e646b171317b8d230286c4f47e8ff9ca5367d8ffd0b8667c7830d403f"
+      "blob": "blobs/a3557291f672547630594f1de7ce75ce64bc2e3760eb6533e7c3a58ea6731439"
     },
     "scripts/lib/backend-architecture.mjs": {
       "type": "file",
@@ -15216,9 +15438,9 @@
     },
     "scripts/lib/backend-delivery.mjs": {
       "type": "file",
-      "digest": "45dd4cd8c8edd471ecf899aee1a638b2adf91de83287ff3341791225f9ec7c51",
+      "digest": "6b9eb53f5bc4747d0dfde164c47b43b57402c19634d5d455ce2ce3feca488a28",
       "mode": 420,
-      "blob": "blobs/45dd4cd8c8edd471ecf899aee1a638b2adf91de83287ff3341791225f9ec7c51"
+      "blob": "blobs/6b9eb53f5bc4747d0dfde164c47b43b57402c19634d5d455ce2ce3feca488a28"
     },
     "scripts/lib/backend-platform-provenance.mjs": {
       "type": "file",
@@ -15240,15 +15462,15 @@
     },
     "scripts/lib/backend-review.mjs": {
       "type": "file",
-      "digest": "ca0bba7a3ab60e07bee838d6646c672582ee9ed73e8b063cacc86a53e80140a8",
+      "digest": "ca22c37b09a8e023bbbeefbd7a04c3489b6e63f90afdd1a3371f4afca2a6a0df",
       "mode": 420,
-      "blob": "blobs/ca0bba7a3ab60e07bee838d6646c672582ee9ed73e8b063cacc86a53e80140a8"
+      "blob": "blobs/ca22c37b09a8e023bbbeefbd7a04c3489b6e63f90afdd1a3371f4afca2a6a0df"
     },
     "scripts/lib/backend-scaffold-prerequisites.mjs": {
       "type": "file",
-      "digest": "42cdb84c4b63c5533ce75f6e93654e33f10ae0a2d1eb77255eb1d481514decba",
+      "digest": "a9d6af66cb45a191641da545870dd151f3e398312b71405012f0bdeaf29d3d88",
       "mode": 420,
-      "blob": "blobs/42cdb84c4b63c5533ce75f6e93654e33f10ae0a2d1eb77255eb1d481514decba"
+      "blob": "blobs/a9d6af66cb45a191641da545870dd151f3e398312b71405012f0bdeaf29d3d88"
     },
     "scripts/lib/backend-standards-coverage.mjs": {
       "type": "file",
@@ -15258,9 +15480,9 @@
     },
     "scripts/lib/business-ticket-lifecycle.mjs": {
       "type": "file",
-      "digest": "07cc04b70238937a94b5e7a3e5a4063968036c4d0c87e03acb16d1ea9d6d8d53",
+      "digest": "7e836e225f7fbed7cf9fa0b811643586846e097734fe760581bbd34793dfccf2",
       "mode": 420,
-      "blob": "blobs/07cc04b70238937a94b5e7a3e5a4063968036c4d0c87e03acb16d1ea9d6d8d53"
+      "blob": "blobs/7e836e225f7fbed7cf9fa0b811643586846e097734fe760581bbd34793dfccf2"
     },
     "scripts/lib/business-tickets.mjs": {
       "type": "file",
@@ -15276,9 +15498,9 @@
     },
     "scripts/lib/command-runner.mjs": {
       "type": "file",
-      "digest": "4fb7f3c9ca26dff3f955ddb1c6ad545519d3e55af179f834ff67b1c0bf20bffd",
+      "digest": "af5cdb58dc5ee2487f04aad8afde37776a219866cc7830a298d971e772411892",
       "mode": 420,
-      "blob": "blobs/4fb7f3c9ca26dff3f955ddb1c6ad545519d3e55af179f834ff67b1c0bf20bffd"
+      "blob": "blobs/af5cdb58dc5ee2487f04aad8afde37776a219866cc7830a298d971e772411892"
     },
     "scripts/lib/context-contract.mjs": {
       "type": "file",
@@ -15312,15 +15534,15 @@
     },
     "scripts/lib/delivery-preflight.mjs": {
       "type": "file",
-      "digest": "13c56b6abf409b1444d2c7d804dd57ab623ab008a15d7acda4fd97efe3aa25f7",
+      "digest": "4fc8a025ff16489d699d0381b92f019aa09fb6b53e78b7e84383172f7f71df4f",
       "mode": 420,
-      "blob": "blobs/13c56b6abf409b1444d2c7d804dd57ab623ab008a15d7acda4fd97efe3aa25f7"
+      "blob": "blobs/4fc8a025ff16489d699d0381b92f019aa09fb6b53e78b7e84383172f7f71df4f"
     },
     "scripts/lib/digital-human-roles.mjs": {
       "type": "file",
-      "digest": "0fa33b5a99fa429465628556c85895b1cf59a6ec9ea2bab60e9e4cb8f01fdfc5",
+      "digest": "a1ab6fbf8879f6dbd004fb3aa9f6cc527b2e3e51a359f40515835050339e5ce4",
       "mode": 420,
-      "blob": "blobs/0fa33b5a99fa429465628556c85895b1cf59a6ec9ea2bab60e9e4cb8f01fdfc5"
+      "blob": "blobs/a1ab6fbf8879f6dbd004fb3aa9f6cc527b2e3e51a359f40515835050339e5ce4"
     },
     "scripts/lib/entry-alignment.mjs": {
       "type": "file",
@@ -15336,9 +15558,9 @@
     },
     "scripts/lib/existing-backend-architecture.mjs": {
       "type": "file",
-      "digest": "62ccf0726329aa6a75e018804b5c2e52041465c0e8bf72723aa14bb25ff58f27",
+      "digest": "8da99daa5ca9d0f903eebbcdc43da6a9446ba70c212f82e99d07086fa853948b",
       "mode": 420,
-      "blob": "blobs/62ccf0726329aa6a75e018804b5c2e52041465c0e8bf72723aa14bb25ff58f27"
+      "blob": "blobs/8da99daa5ca9d0f903eebbcdc43da6a9446ba70c212f82e99d07086fa853948b"
     },
     "scripts/lib/existing-ui-baseline.mjs": {
       "type": "file",
@@ -15460,6 +15682,18 @@
       "mode": 420,
       "blob": "blobs/516db803694836e549543cb9982b7f1a3d07b9676e3a8a0a0e84221081891546"
     },
+    "scripts/lib/lifecycle-context-query.mjs": {
+      "type": "file",
+      "digest": "0b8e65815f5ed2af203e17d68837edff8137171ba89086c175f6c1b2062d0f58",
+      "mode": 420,
+      "blob": "blobs/0b8e65815f5ed2af203e17d68837edff8137171ba89086c175f6c1b2062d0f58"
+    },
+    "scripts/lib/lifecycle-controls.mjs": {
+      "type": "file",
+      "digest": "c2bfcc85b2b1bee2595c94263bc729a6fe0d3f4fedc483fbd03a353eb8925aa9",
+      "mode": 420,
+      "blob": "blobs/c2bfcc85b2b1bee2595c94263bc729a6fe0d3f4fedc483fbd03a353eb8925aa9"
+    },
     "scripts/lib/lifecycle-execution-scope.mjs": {
       "type": "file",
       "digest": "59907ff74c550573a9389d49ed80007a05dec0c810948ea1e1e55cbc30d27bb2",
@@ -15468,9 +15702,9 @@
     },
     "scripts/lib/lifecycle-presentation.mjs": {
       "type": "file",
-      "digest": "9de4290e8cb5b1239b741dda382048447fc2ee7cf331b712046afb5316696b04",
+      "digest": "681c7401c489dee6193a6982d62c7b0e8e3dc785204e6bbc39b964cb8b14103c",
       "mode": 420,
-      "blob": "blobs/9de4290e8cb5b1239b741dda382048447fc2ee7cf331b712046afb5316696b04"
+      "blob": "blobs/681c7401c489dee6193a6982d62c7b0e8e3dc785204e6bbc39b964cb8b14103c"
     },
     "scripts/lib/lifecycle-registry.mjs": {
       "type": "file",
@@ -15480,15 +15714,15 @@
     },
     "scripts/lib/lifecycle-status.mjs": {
       "type": "file",
-      "digest": "36171deaef46fc93ca317edd82ecee0d3e54a8c1e9edf095dfcb62c3ab56697a",
+      "digest": "bc4ac0393992067babf076a9ecdf10d380a2d8b7d9772c0cfca65c096d0e26d3",
       "mode": 420,
-      "blob": "blobs/36171deaef46fc93ca317edd82ecee0d3e54a8c1e9edf095dfcb62c3ab56697a"
+      "blob": "blobs/bc4ac0393992067babf076a9ecdf10d380a2d8b7d9772c0cfca65c096d0e26d3"
     },
     "scripts/lib/lifecycle-transition.mjs": {
       "type": "file",
-      "digest": "7fd65cf399ae568fbd61e367eac9aaf41d86764dff68a2b9bcd26348fc652dfa",
+      "digest": "f9df82098ba7e1ab18e8ea58c025a6495277611902c812f8e04a2bd78841fde5",
       "mode": 420,
-      "blob": "blobs/7fd65cf399ae568fbd61e367eac9aaf41d86764dff68a2b9bcd26348fc652dfa"
+      "blob": "blobs/f9df82098ba7e1ab18e8ea58c025a6495277611902c812f8e04a2bd78841fde5"
     },
     "scripts/lib/maintenance-candidate.mjs": {
       "type": "file",
@@ -15540,15 +15774,15 @@
     },
     "scripts/lib/project-governance.mjs": {
       "type": "file",
-      "digest": "a106d9a5632576a7cd4abfeddb2e811a16a01cf4f75f6aa59ce2c698075e6794",
+      "digest": "aa6e361a1966512b769204b8ff5515e8424ad22e015263b94579438fc04c600b",
       "mode": 420,
-      "blob": "blobs/a106d9a5632576a7cd4abfeddb2e811a16a01cf4f75f6aa59ce2c698075e6794"
+      "blob": "blobs/aa6e361a1966512b769204b8ff5515e8424ad22e015263b94579438fc04c600b"
     },
     "scripts/lib/read-only-intake.mjs": {
       "type": "file",
-      "digest": "049d414d064f098a0a7c49a7d1e541cc2a17f9a3613e151b5370b81c0b033b64",
+      "digest": "1ce7e967746f04651de22d7991aeb9e7af1a92e586b0597e1bcd64ee20e0932a",
       "mode": 420,
-      "blob": "blobs/049d414d064f098a0a7c49a7d1e541cc2a17f9a3613e151b5370b81c0b033b64"
+      "blob": "blobs/1ce7e967746f04651de22d7991aeb9e7af1a92e586b0597e1bcd64ee20e0932a"
     },
     "scripts/lib/reading-view-adapters.mjs": {
       "type": "file",
@@ -15598,6 +15832,24 @@
       "mode": 420,
       "blob": "blobs/419be37886b313981f0686c9b49d99195499bcbc1acda4ef800d8d96c780196e"
     },
+    "scripts/lib/review-capabilities.mjs": {
+      "type": "file",
+      "digest": "1394e671f4834793d78b186e35582285d2ba9b655d30916d84f750650e81a39e",
+      "mode": 420,
+      "blob": "blobs/1394e671f4834793d78b186e35582285d2ba9b655d30916d84f750650e81a39e"
+    },
+    "scripts/lib/review-package.mjs": {
+      "type": "file",
+      "digest": "1857f11f51fc36b242b2378e3a2c4098444b946e2b6d3cedd11249884e1ebf68",
+      "mode": 420,
+      "blob": "blobs/1857f11f51fc36b242b2378e3a2c4098444b946e2b6d3cedd11249884e1ebf68"
+    },
+    "scripts/lib/runtime-store.mjs": {
+      "type": "file",
+      "digest": "894065fb91ac05501796e8948b4015f0230deef4a72700e96c2890266310ac41",
+      "mode": 420,
+      "blob": "blobs/894065fb91ac05501796e8948b4015f0230deef4a72700e96c2890266310ac41"
+    },
     "scripts/lib/scaffold-local-database.mjs": {
       "type": "file",
       "digest": "66d47c11698b36ff57e4f37577c6f83ea3a6590f4b9ab6862833bd991fde3662",
@@ -15624,9 +15876,9 @@
     },
     "scripts/lib/skill-registry.mjs": {
       "type": "file",
-      "digest": "963e2f2f1faae4195ff1db05428374a763d7c614f1015e16a5cb6744db7582e5",
+      "digest": "37da340dddee41a3165bda37aa29a6eb0f8f6957bfd3cf9903d30a2956f123ac",
       "mode": 420,
-      "blob": "blobs/963e2f2f1faae4195ff1db05428374a763d7c614f1015e16a5cb6744db7582e5"
+      "blob": "blobs/37da340dddee41a3165bda37aa29a6eb0f8f6957bfd3cf9903d30a2956f123ac"
     },
     "scripts/lib/skill-supply-chain.mjs": {
       "type": "file",
@@ -15732,9 +15984,9 @@
     },
     "scripts/lib/strategic-handoff.mjs": {
       "type": "file",
-      "digest": "8857b192c8cfa9617d01f044fa49315cea01b5c0a9e78088941e17eb7752bdca",
+      "digest": "08e30266e0823847c4e0e468c7762366a9e36e3aa76e4d17d4edc5a54bdf165b",
       "mode": 420,
-      "blob": "blobs/8857b192c8cfa9617d01f044fa49315cea01b5c0a9e78088941e17eb7752bdca"
+      "blob": "blobs/08e30266e0823847c4e0e468c7762366a9e36e3aa76e4d17d4edc5a54bdf165b"
     },
     "scripts/lib/structured-assets.mjs": {
       "type": "file",
@@ -15750,9 +16002,9 @@
     },
     "scripts/lib/task-package.mjs": {
       "type": "file",
-      "digest": "95ff2fedb1ca1aae3d82671cb046dc0d6145574c286bd9576277daa180806903",
+      "digest": "eb18adcbdbf1da026cbe620fc7e6d9ef515cefd4fcb1f4a8e1d9b0ad4ca7bf08",
       "mode": 420,
-      "blob": "blobs/95ff2fedb1ca1aae3d82671cb046dc0d6145574c286bd9576277daa180806903"
+      "blob": "blobs/eb18adcbdbf1da026cbe620fc7e6d9ef515cefd4fcb1f4a8e1d9b0ad4ca7bf08"
     },
     "scripts/lib/technical-design-boundary.mjs": {
       "type": "file",
@@ -15804,9 +16056,9 @@
     },
     "scripts/lifecycle-status": {
       "type": "file",
-      "digest": "ba1f351de913f1528ce99a024b93a17e10201d0efb873e56b001beb77be44d98",
+      "digest": "8b66527cfa8ce51fd74e274c4fae2b6f2b9cad59f911837d9cdf9bdec2602e6a",
       "mode": 493,
-      "blob": "blobs/ba1f351de913f1528ce99a024b93a17e10201d0efb873e56b001beb77be44d98"
+      "blob": "blobs/8b66527cfa8ce51fd74e274c4fae2b6f2b9cad59f911837d9cdf9bdec2602e6a"
     },
     "scripts/node-generate-lifecycle-artifacts.mjs": {
       "type": "file",
@@ -15832,17 +16084,29 @@
       "mode": 493,
       "blob": "blobs/ec6bbd237994218a0b93e639960c9baeb64b6bdcd0b2c27a53dbe38b611dc438"
     },
+    "scripts/prepare-review-package": {
+      "type": "file",
+      "digest": "04b97e13b3dbf4f91adbbaab8e2772987c8e6b04bc5d7dbf7403813d9ab867dd",
+      "mode": 493,
+      "blob": "blobs/04b97e13b3dbf4f91adbbaab8e2772987c8e6b04bc5d7dbf7403813d9ab867dd"
+    },
     "scripts/project-ci": {
       "type": "file",
-      "digest": "7fd6e9f0f9ed466cbaf6e23f9e2ffade94d0931995e15b684720890e7fd30ec5",
+      "digest": "7189fcf948163fc1c5dbdea65e6aff5bfdb7edf7aa14325cdca476738650fffb",
       "mode": 493,
-      "blob": "blobs/7fd6e9f0f9ed466cbaf6e23f9e2ffade94d0931995e15b684720890e7fd30ec5"
+      "blob": "blobs/7189fcf948163fc1c5dbdea65e6aff5bfdb7edf7aa14325cdca476738650fffb"
     },
     "scripts/project-ci-transition": {
       "type": "file",
       "digest": "e74d9e776ca9b70153b31528e0f05e634144e247322d79a3bf9f2721645b8f8d",
       "mode": 493,
       "blob": "blobs/e74d9e776ca9b70153b31528e0f05e634144e247322d79a3bf9f2721645b8f8d"
+    },
+    "scripts/query-lifecycle-context": {
+      "type": "file",
+      "digest": "74e8f8c9e99d2b5b9e06dae470ef9317fb45b18e97620e8bb4d462e1ea5a22e1",
+      "mode": 493,
+      "blob": "blobs/74e8f8c9e99d2b5b9e06dae470ef9317fb45b18e97620e8bb4d462e1ea5a22e1"
     },
     "scripts/repository-mode": {
       "type": "file",
@@ -15858,15 +16122,21 @@
     },
     "scripts/run-read-only-intake": {
       "type": "file",
-      "digest": "85996cd6f5adb126f46f5ca74ecb2e175b4b1649c8f8c2cf1d77993fb8fe2288",
+      "digest": "29d61dbf7a9c979d8c890e8bc9fe74efbd3081a74e6e0811bf61360ac74d6831",
       "mode": 493,
-      "blob": "blobs/85996cd6f5adb126f46f5ca74ecb2e175b4b1649c8f8c2cf1d77993fb8fe2288"
+      "blob": "blobs/29d61dbf7a9c979d8c890e8bc9fe74efbd3081a74e6e0811bf61360ac74d6831"
     },
     "scripts/run-template-verification": {
       "type": "file",
       "digest": "bb595f0b998dd8e425f3cad1beee628cf8d21359f6358c46ce0711f11dd5ae90",
       "mode": 493,
       "blob": "blobs/bb595f0b998dd8e425f3cad1beee628cf8d21359f6358c46ce0711f11dd5ae90"
+    },
+    "scripts/runtime-store": {
+      "type": "file",
+      "digest": "7829ca2a0b998d0dcd4d1a00c2980df0569ddb1f50f5f8c0d314803a0f15025e",
+      "mode": 493,
+      "blob": "blobs/7829ca2a0b998d0dcd4d1a00c2980df0569ddb1f50f5f8c0d314803a0f15025e"
     },
     "scripts/slice-contract": {
       "type": "file",
@@ -15942,9 +16212,9 @@
     },
     "scripts/verify-approval-record": {
       "type": "file",
-      "digest": "cd35da64eb50f64bbf1410c4291def020e423caa0ffed8a30eef3a76654e0637",
+      "digest": "0cbdddffb4d346cb9cad9326cc4a16605dff403a5eb5be02feeddff2a82a3d0c",
       "mode": 493,
-      "blob": "blobs/cd35da64eb50f64bbf1410c4291def020e423caa0ffed8a30eef3a76654e0637"
+      "blob": "blobs/0cbdddffb4d346cb9cad9326cc4a16605dff403a5eb5be02feeddff2a82a3d0c"
     },
     "scripts/verify-backend-platform-matrix": {
       "type": "file",
@@ -15972,9 +16242,9 @@
     },
     "scripts/verify-delivery-preflight-scenarios": {
       "type": "file",
-      "digest": "628dfb262117e609afe38216225cc5c5c5e2b20cb83f7eb47f021af4730e39a7",
+      "digest": "0840f0c88f93731c4a7f09bcea69defde34bdfd4a8c1031549c7e0620abe3bc0",
       "mode": 493,
-      "blob": "blobs/628dfb262117e609afe38216225cc5c5c5e2b20cb83f7eb47f021af4730e39a7"
+      "blob": "blobs/0840f0c88f93731c4a7f09bcea69defde34bdfd4a8c1031549c7e0620abe3bc0"
     },
     "scripts/verify-digital-human-roles": {
       "type": "file",
@@ -16110,9 +16380,9 @@
     },
     "scripts/verify-lifecycle-transition-scenarios": {
       "type": "file",
-      "digest": "4219975db932be06a385d2ac1ac1b437b7f04e15ffdcf2c142662c10608b1408",
+      "digest": "2002796b73e28f6d61be8bcebeece38f263578659a708be98dd98a662d189dc5",
       "mode": 493,
-      "blob": "blobs/4219975db932be06a385d2ac1ac1b437b7f04e15ffdcf2c142662c10608b1408"
+      "blob": "blobs/2002796b73e28f6d61be8bcebeece38f263578659a708be98dd98a662d189dc5"
     },
     "scripts/verify-maintenance-checkpoint": {
       "type": "file",
@@ -16224,9 +16494,9 @@
     },
     "scripts/verify-strategic-handoff-package-scenarios": {
       "type": "file",
-      "digest": "7b7e85b1d6d809173c2cc64eefbd78df9a44e5cf3b2c6e0802d537834f33c341",
+      "digest": "23d8cc6c98af332a9a9593f542e19649542014d5269459061f9d114651ebfff4",
       "mode": 493,
-      "blob": "blobs/7b7e85b1d6d809173c2cc64eefbd78df9a44e5cf3b2c6e0802d537834f33c341"
+      "blob": "blobs/23d8cc6c98af332a9a9593f542e19649542014d5269459061f9d114651ebfff4"
     },
     "scripts/verify-subagent-task-package": {
       "type": "file",
@@ -16236,9 +16506,9 @@
     },
     "scripts/verify-subagent-task-package-scenarios": {
       "type": "file",
-      "digest": "c66f1f76a60576cb15b12b94314aa46e398e5f8f9b2aa1d9afe79cbd05983235",
+      "digest": "4296b1fff09f3a5dfbae21507f3a64b10e3af23f40331cdd7df8ff2fee906703",
       "mode": 493,
-      "blob": "blobs/c66f1f76a60576cb15b12b94314aa46e398e5f8f9b2aa1d9afe79cbd05983235"
+      "blob": "blobs/4296b1fff09f3a5dfbae21507f3a64b10e3af23f40331cdd7df8ff2fee906703"
     },
     "scripts/verify-template": {
       "type": "file",
@@ -16302,9 +16572,9 @@
     },
     "skills-lock.json": {
       "type": "file",
-      "digest": "add8785ec13704c04b7a3faed37d554cdc1773f0f37467265ed61ed30e5d4629",
+      "digest": "333a79911080cfd04dce4bf33f20d6b586dac72351ca9815b26451af0cd09d2e",
       "mode": 420,
-      "blob": "blobs/add8785ec13704c04b7a3faed37d554cdc1773f0f37467265ed61ed30e5d4629"
+      "blob": "blobs/333a79911080cfd04dce4bf33f20d6b586dac72351ca9815b26451af0cd09d2e"
     },
     "yss-project.yaml": {
       "type": "file",
@@ -27317,6 +27587,16 @@
       "digest": "e2698027594ffbcaa1e327541288c8cab1b8913271b1ec76cc80d457b8a8322d",
       "mode": 420
     },
+    ".agents/skills/yss-research/references/evidence-contract.md": {
+      "type": "file",
+      "digest": "accf660bda44cec320aca3d7ea769c8c724ac7adaf543879035d56a030cb9fa7",
+      "mode": 420
+    },
+    ".agents/skills/yss-research/scripts/validate-research-package.mjs": {
+      "type": "file",
+      "digest": "5e4e437d54e67cce9dd380974744605bd149c71939c5f01e3ea4719c79911d0f",
+      "mode": 420
+    },
     ".agents/skills/yss-resilience4j/SKILL.md": {
       "type": "file",
       "digest": "139a1c7b14198b398fa7a9781ffd09a8ced6f05702a703ed4536efdbe9e506ec",
@@ -28282,6 +28562,16 @@
       "digest": "e2698027594ffbcaa1e327541288c8cab1b8913271b1ec76cc80d457b8a8322d",
       "mode": 420
     },
+    ".codex/skills/yss-research/references/evidence-contract.md": {
+      "type": "file",
+      "digest": "accf660bda44cec320aca3d7ea769c8c724ac7adaf543879035d56a030cb9fa7",
+      "mode": 420
+    },
+    ".codex/skills/yss-research/scripts/validate-research-package.mjs": {
+      "type": "file",
+      "digest": "5e4e437d54e67cce9dd380974744605bd149c71939c5f01e3ea4719c79911d0f",
+      "mode": 420
+    },
     ".codex/skills/yss-resilience4j/SKILL.md": {
       "type": "file",
       "digest": "139a1c7b14198b398fa7a9781ffd09a8ced6f05702a703ed4536efdbe9e506ec",
@@ -29245,6 +29535,16 @@
     ".cursor/skills/yss-research/SKILL.md": {
       "type": "file",
       "digest": "e2698027594ffbcaa1e327541288c8cab1b8913271b1ec76cc80d457b8a8322d",
+      "mode": 420
+    },
+    ".cursor/skills/yss-research/references/evidence-contract.md": {
+      "type": "file",
+      "digest": "accf660bda44cec320aca3d7ea769c8c724ac7adaf543879035d56a030cb9fa7",
+      "mode": 420
+    },
+    ".cursor/skills/yss-research/scripts/validate-research-package.mjs": {
+      "type": "file",
+      "digest": "5e4e437d54e67cce9dd380974744605bd149c71939c5f01e3ea4719c79911d0f",
       "mode": 420
     },
     ".cursor/skills/yss-resilience4j/SKILL.md": {
@@ -30222,6 +30522,16 @@
       "digest": "e2698027594ffbcaa1e327541288c8cab1b8913271b1ec76cc80d457b8a8322d",
       "mode": 420
     },
+    ".pi/skills/yss-research/references/evidence-contract.md": {
+      "type": "file",
+      "digest": "accf660bda44cec320aca3d7ea769c8c724ac7adaf543879035d56a030cb9fa7",
+      "mode": 420
+    },
+    ".pi/skills/yss-research/scripts/validate-research-package.mjs": {
+      "type": "file",
+      "digest": "5e4e437d54e67cce9dd380974744605bd149c71939c5f01e3ea4719c79911d0f",
+      "mode": 420
+    },
     ".pi/skills/yss-resilience4j/SKILL.md": {
       "type": "file",
       "digest": "139a1c7b14198b398fa7a9781ffd09a8ced6f05702a703ed4536efdbe9e506ec",
@@ -30377,6 +30687,16 @@
       "digest": "efa8fa419bdb514dbeb883f09d23dbc981481aac2848e63d119823384a42076c",
       "mode": 420
     },
+    ".template-spec/agents/digital-human-roles.md": {
+      "type": "file",
+      "digest": "f811b5778af4a7dd8f46c1f250e5a4c61cafcaa61ec8a80af6e90034ae8e787e",
+      "mode": 420
+    },
+    ".template-spec/agents/digital-human-roles.yaml": {
+      "type": "file",
+      "digest": "f3625194da6dfa3412980c08948edc0116f1b388b073682558409debc66506d6",
+      "mode": 420
+    },
     ".template-spec/agents/issue-tracker.md": {
       "type": "file",
       "digest": "ed9bf79d55b017d5c02372e52dca4d6f2b619581d0d7ffba9d80b524eb586029",
@@ -30442,6 +30762,26 @@
       "digest": "3233a0a6e2c9d32b3a663fc127a131d5bf3ace7f794570801a28dbca7c1f49b9",
       "mode": 420
     },
+    ".template-spec/process/research-completion.md": {
+      "type": "file",
+      "digest": "3adfcd90d7f25f1fc7c989862d9ee1e39c4a8a4afb68d90784ebe56ca320991e",
+      "mode": 420
+    },
+    ".template-spec/process/schemas/approval-record.schema.json": {
+      "type": "file",
+      "digest": "c1f632e56cd0b4ede5d40227f7525939b787cdf74305eff3077c83db35e4096e",
+      "mode": 420
+    },
+    ".template-spec/process/schemas/backend-delivery.schema.json": {
+      "type": "file",
+      "digest": "92a97c59e180c2d618039af64e59863e48fe081d3e0a2ceea0b34923b426f5ee",
+      "mode": 420
+    },
+    ".template-spec/process/schemas/delivery-preflight-input.schema.json": {
+      "type": "file",
+      "digest": "3b9d38d917d92f305cfacf4e949672b4f4539d50194583027f39fd2fb31ce93c",
+      "mode": 420
+    },
     ".template-spec/process/schemas/digital-human-task-package.schema.json": {
       "type": "file",
       "digest": "c36b5bbb12fbfae4288e3ccbd2e9c1853706b2844e4727e5c18bf735365d91a8",
@@ -30452,9 +30792,74 @@
       "digest": "9e432cce4c3d6cb39be3a5d18058d1c8d5229fec7a5e5db2d42015b1c738d39c",
       "mode": 420
     },
+    ".template-spec/process/schemas/implementation-repository-preparation-result.schema.json": {
+      "type": "file",
+      "digest": "989253e0f4ed46fe2d6ccd34a324ba8acc26bad29ead07a09e185014db64be89",
+      "mode": 420
+    },
     ".template-spec/process/schemas/lifecycle-checkpoint.schema.json": {
       "type": "file",
       "digest": "aee622d9d208d2390eec66ffd10e295fef0cd551a04865bb8833e315c72df079",
+      "mode": 420
+    },
+    ".template-spec/process/schemas/project-scaffold-contract.schema.json": {
+      "type": "file",
+      "digest": "d89f323895208a406acab5be132ec314d292653ca2cfc0774a95b4841b92e5ed",
+      "mode": 420
+    },
+    ".template-spec/process/schemas/review-bundle.schema.json": {
+      "type": "file",
+      "digest": "4b2dd0c0e3e410e066789167628f8461220d649e548c28b89a98e6b5bee8ccd8",
+      "mode": 420
+    },
+    ".template-spec/process/schemas/strategic-design-handoff-v3.schema.json": {
+      "type": "file",
+      "digest": "8f7937254c4d6f7e8f0699da25742a54c52da44b5a4ef2d2927994710b67bc63",
+      "mode": 420
+    },
+    ".template-spec/process/schemas/strategic-design-handoff-v4.schema.json": {
+      "type": "file",
+      "digest": "534c1ff7b7edcc62ecd2f4ef925681bec3f91a16739ddb4b6659469475838b7b",
+      "mode": 420
+    },
+    ".template-spec/process/schemas/strategic-design-handoff-v5.schema.json": {
+      "type": "file",
+      "digest": "30cc4379e545e029a81bebe173fc547da6be5c6e9f72ae3ead2ea5eea24ef3bd",
+      "mode": 420
+    },
+    ".template-spec/process/schemas/strategic-design-handoff.schema.json": {
+      "type": "file",
+      "digest": "30cc4379e545e029a81bebe173fc547da6be5c6e9f72ae3ead2ea5eea24ef3bd",
+      "mode": 420
+    },
+    ".template-spec/process/schemas/strategic-handoff-domain-strategy-v3.schema.json": {
+      "type": "file",
+      "digest": "09141a3416181b18fff1a61112b9ec13242e7538d27670c8a2b43a971012545d",
+      "mode": 420
+    },
+    ".template-spec/process/schemas/strategic-handoff-domain-strategy.schema.json": {
+      "type": "file",
+      "digest": "e54e661565fae53866a8f2e79276f70de63508d6fd743ae58f7115f7847b7e8e",
+      "mode": 420
+    },
+    ".template-spec/process/schemas/strategic-handoff-export-v2.schema.json": {
+      "type": "file",
+      "digest": "591bce6840dcc43108b5800358c01ccaa012a3362de3c95368a7d7dc1f7dcc57",
+      "mode": 420
+    },
+    ".template-spec/process/schemas/strategic-handoff-export.schema.json": {
+      "type": "file",
+      "digest": "6596cc5658d2495ea05d6ebf19d0f47f2864812c7336d73b7fa3af849d463c49",
+      "mode": 420
+    },
+    ".template-spec/process/schemas/strategic-handoff-stage-decision-package-v3.schema.json": {
+      "type": "file",
+      "digest": "610aed5d21cb3b13c9bcd8b46fec20a0199b4cbd5685774480c82dfe9878a31b",
+      "mode": 420
+    },
+    ".template-spec/process/schemas/strategic-handoff-stage-decision-package.schema.json": {
+      "type": "file",
+      "digest": "9114c22e2db64909a9d7565d8b83dbf460871d36821001d3f93c897b15f8437b",
       "mode": 420
     },
     ".template-spec/process/stage-tracking.md": {
@@ -30480,6 +30885,16 @@
     ".template-spec/process/templates/frontend-implementation-verification-template.yaml": {
       "type": "file",
       "digest": "0f0fa43a96aa19411b5a13f14988781297b52e9bf6a89239b219a8f099c83e12",
+      "mode": 420
+    },
+    ".template-spec/templates/approval-record-template.json": {
+      "type": "file",
+      "digest": "ae32ef28b5f2481952ad7fdb1625adb67ee079d59092a60faa49d8fb74e26586",
+      "mode": 420
+    },
+    ".template-spec/templates/approval-record-template.yaml": {
+      "type": "file",
+      "digest": "9b3deca7eefae4963ba85add0363c5456c7b52d40fd5479c19160d3a9aa99756",
       "mode": 420
     },
     ".template-spec/templates/examples/lifecycle-writing-examples.md": {
@@ -30582,6 +30997,11 @@
       "digest": "e99eec4e75f688f6228786cb5b50a2db054e353c9a62272caa480b410f193fe3",
       "mode": 420
     },
+    "scripts/fixtures/delivery-preflight/json-schema-framing.test.mjs": {
+      "type": "file",
+      "digest": "e4464e90facc0afb886f6b78cc4c3c71f4a991b40b9b88a350282866388fbd76",
+      "mode": 420
+    },
     "scripts/fixtures/existing-backend/fixture.mjs": {
       "type": "file",
       "digest": "78277406df416cda3201908f9691bd3b011b3ca6b45cde2a1b9df18d586efd4f",
@@ -30635,6 +31055,11 @@
     "scripts/lib/api-contract-decision.mjs": {
       "type": "file",
       "digest": "e4aa9342a21cbd027f75cfb3b81415e62d76094d6aaded1ef179cfee8d43c63c",
+      "mode": 420
+    },
+    "scripts/lib/approval-record.mjs": {
+      "type": "file",
+      "digest": "cd5e3a3e8409340f78e68b2f1eabf4e1a80c026ffc2923e828ee5e2f3c4d014a",
       "mode": 420
     },
     "scripts/lib/approved-execution-context.mjs": {
@@ -30705,6 +31130,11 @@
     "scripts/lib/checkpoint-boundary.mjs": {
       "type": "file",
       "digest": "251c20c84afdbe323e674147b47c6207b7c04f5918e0ea9f2f9b3a9295c9ceb2",
+      "mode": 420
+    },
+    "scripts/lib/command-runner.mjs": {
+      "type": "file",
+      "digest": "4fb7f3c9ca26dff3f955ddb1c6ad545519d3e55af179f834ff67b1c0bf20bffd",
       "mode": 420
     },
     "scripts/lib/context-contract.mjs": {
@@ -30795,6 +31225,11 @@
     "scripts/lib/json-schema.mjs": {
       "type": "file",
       "digest": "007e39300478da6f0e359d822642f7a6aaf2466ee5781bd81924cf5897eebc72",
+      "mode": 420
+    },
+    "scripts/lib/lifecycle-context-query.mjs": {
+      "type": "file",
+      "digest": "551210e5000b814657aabd9cae9fc555c0671b10a14b0470037d7584f556128a",
       "mode": 420
     },
     "scripts/lib/lifecycle-execution-scope.mjs": {
@@ -31057,6 +31492,11 @@
       "digest": "6660e4244c867da3f1bb85fe3065183d8b3069b243f14fd3034aa906647f07c3",
       "mode": 493
     },
+    "scripts/run-read-only-intake": {
+      "type": "file",
+      "digest": "85996cd6f5adb126f46f5ca74ecb2e175b4b1649c8f8c2cf1d77993fb8fe2288",
+      "mode": 493
+    },
     "scripts/slice-contract": {
       "type": "file",
       "digest": "54a7ee000cf83e04d733e3d6c27edd08feca35fa00744d4dffdf9e6e697ae8b4",
@@ -31105,6 +31545,11 @@
     "scripts/verify-context-reconciliation": {
       "type": "file",
       "digest": "b3831a29df28bdeb225e5c52619972cb238759c3bc7539dbdf15b220377dfc65",
+      "mode": 493
+    },
+    "scripts/verify-delivery-preflight-scenarios": {
+      "type": "file",
+      "digest": "628dfb262117e609afe38216225cc5c5c5e2b20cb83f7eb47f021af4730e39a7",
       "mode": 493
     },
     "scripts/verify-digital-human-roles-scenarios": {
@@ -31218,8 +31663,8 @@
       "mode": 420
     }
   },
-  "transitionBaselinesHash": "dfc39fd68ca3f92131501f13c893b3cd803cef1960b14b2943ddafb19b745214",
-  "snapshotHash": "e539c0d91ef679a68f3b4ccb4b375f6416c8cf0f75f2bf4bd4badaaeeea3c9ef",
+  "transitionBaselinesHash": "c76b1bc422641bc912c69d217d7a5ab4c4ff3775a835ba74d8676b178ce679c2",
+  "snapshotHash": "39d4536ac8b2c98fe60d15dbd704fa559b428da64912f3045841e501bd0d25a6",
   "projectionRepresentation": "materialized-files",
   "pathEncoding": "sha256-blobs-v1"
 }
