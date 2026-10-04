@@ -6,8 +6,8 @@
   "metadataFile": ".yss-harness-backend.json",
   "templateName": "yss-harness-backend-agent",
   "templateSource": "github:iloveZzz/yss-harness-backend-agent",
-  "templateCommit": "96a9155b9a5f687f46a98211ac72c97b99f1a4db",
-  "sourceState": "committed",
+  "templateCommit": "901550c617b15f423fcb7fe7a1e61ddd7a5f24af",
+  "sourceState": "working-tree",
   "manifestHash": "188f3c2a97dd2c3a44e3be4a98d3125fbe7ae8e50426cfc7dd769af4d42f2ce6",
   "files": {
     ".agents/rules/yss-ai-skills.md": {
@@ -2724,9 +2724,9 @@
     },
     ".agents/skills/yss-implementation-contract-compiler/SKILL.md": {
       "type": "file",
-      "digest": "a628dd4eba84e4d158d43344e07f6036597ebce3e06d2d98981e1f7695b33650",
+      "digest": "230c629928cd2000da687f754c3affa0b768b88e04fe2b6f12f36f262ab6c6d8",
       "mode": 420,
-      "blob": "blobs/a628dd4eba84e4d158d43344e07f6036597ebce3e06d2d98981e1f7695b33650"
+      "blob": "blobs/230c629928cd2000da687f754c3affa0b768b88e04fe2b6f12f36f262ab6c6d8"
     },
     ".agents/skills/yss-implementation-contract-compiler/agents/openai.yaml": {
       "type": "file",
@@ -6204,9 +6204,9 @@
     },
     ".codex/skills/yss-implementation-contract-compiler/SKILL.md": {
       "type": "file",
-      "digest": "a628dd4eba84e4d158d43344e07f6036597ebce3e06d2d98981e1f7695b33650",
+      "digest": "230c629928cd2000da687f754c3affa0b768b88e04fe2b6f12f36f262ab6c6d8",
       "mode": 420,
-      "blob": "blobs/a628dd4eba84e4d158d43344e07f6036597ebce3e06d2d98981e1f7695b33650"
+      "blob": "blobs/230c629928cd2000da687f754c3affa0b768b88e04fe2b6f12f36f262ab6c6d8"
     },
     ".codex/skills/yss-implementation-contract-compiler/agents/openai.yaml": {
       "type": "file",
@@ -9684,9 +9684,9 @@
     },
     ".cursor/skills/yss-implementation-contract-compiler/SKILL.md": {
       "type": "file",
-      "digest": "a628dd4eba84e4d158d43344e07f6036597ebce3e06d2d98981e1f7695b33650",
+      "digest": "230c629928cd2000da687f754c3affa0b768b88e04fe2b6f12f36f262ab6c6d8",
       "mode": 420,
-      "blob": "blobs/a628dd4eba84e4d158d43344e07f6036597ebce3e06d2d98981e1f7695b33650"
+      "blob": "blobs/230c629928cd2000da687f754c3affa0b768b88e04fe2b6f12f36f262ab6c6d8"
     },
     ".cursor/skills/yss-implementation-contract-compiler/agents/openai.yaml": {
       "type": "file",
@@ -13176,9 +13176,9 @@
     },
     ".pi/skills/yss-implementation-contract-compiler/SKILL.md": {
       "type": "file",
-      "digest": "a628dd4eba84e4d158d43344e07f6036597ebce3e06d2d98981e1f7695b33650",
+      "digest": "230c629928cd2000da687f754c3affa0b768b88e04fe2b6f12f36f262ab6c6d8",
       "mode": 420,
-      "blob": "blobs/a628dd4eba84e4d158d43344e07f6036597ebce3e06d2d98981e1f7695b33650"
+      "blob": "blobs/230c629928cd2000da687f754c3affa0b768b88e04fe2b6f12f36f262ab6c6d8"
     },
     ".pi/skills/yss-implementation-contract-compiler/agents/openai.yaml": {
       "type": "file",
@@ -14716,6 +14716,12 @@
       "mode": 420,
       "blob": "blobs/3391456766bb41766a939c8a06db39ab256f2d261bdd09fcc6bce05b243d128b"
     },
+    ".template-spec/process/script-execution.md": {
+      "type": "file",
+      "digest": "2feace359636cdc13dbabb95a6f41a2f86720808b22f8fd97f83307308d336bf",
+      "mode": 420,
+      "blob": "blobs/2feace359636cdc13dbabb95a6f41a2f86720808b22f8fd97f83307308d336bf"
+    },
     ".template-spec/process/stage-tracking.md": {
       "type": "file",
       "digest": "1fbd0b3df820e67ba69421c950ce2256372739a964b263efeeb8421dc31507d5",
@@ -15006,9 +15012,9 @@
     },
     ".template-spec/user-guide/用户手册索引.md": {
       "type": "file",
-      "digest": "f265b590d49233595ed7b6829a72a64946405e2868b87940c07e56b2f9694309",
+      "digest": "3ae7b7286887526a3ed4541b83a591190392287c1099c462d59d15aaebe367a5",
       "mode": 420,
-      "blob": "blobs/f265b590d49233595ed7b6829a72a64946405e2868b87940c07e56b2f9694309"
+      "blob": "blobs/3ae7b7286887526a3ed4541b83a591190392287c1099c462d59d15aaebe367a5"
     },
     ".template-spec/user-guide/设备借用贯穿案例.md": {
       "type": "file",
@@ -16644,9 +16650,9 @@
     },
     "skills-lock.json": {
       "type": "file",
-      "digest": "8908c8a88c3cd78156d09219d37531ea850c76593fdd9ba739b7cb597ae2c32e",
+      "digest": "3b88979e87b28a54f48c260df83abb1f983d9597c211e802ca7d5ef6022c8a78",
       "mode": 420,
-      "blob": "blobs/8908c8a88c3cd78156d09219d37531ea850c76593fdd9ba739b7cb597ae2c32e"
+      "blob": "blobs/3b88979e87b28a54f48c260df83abb1f983d9597c211e802ca7d5ef6022c8a78"
     },
     "yss-project.yaml": {
       "type": "file",
@@ -31229,6 +31235,11 @@
       "digest": "d75e947f723e55bbb624467cc6c5dccceaba477300675252610bc887be06a1f4",
       "mode": 420
     },
+    ".template-spec/user-guide/用户手册索引.md": {
+      "type": "file",
+      "digest": "f265b590d49233595ed7b6829a72a64946405e2868b87940c07e56b2f9694309",
+      "mode": 420
+    },
     "AGENTS.md": {
       "type": "file",
       "digest": "84f4d79e3057ab5cc1729b413cfc054955f04f2efc9ff1615269c3c6cad8cc1c",
@@ -31980,8 +31991,8 @@
       "mode": 420
     }
   },
-  "transitionBaselinesHash": "2cc18e70566964955a4f06a5a0d28c9be4d57f94fec071f8bb2f6d88f87d94b8",
-  "snapshotHash": "49d9927f053e223e664c748efd70ffedd9c75f8793792192d30aeb79fbb712a7",
+  "transitionBaselinesHash": "ab74726811f9117a0e55862fe87ea821f5433a002ba9e4655059897b4a718399",
+  "snapshotHash": "dcdaedf77b39a41005a2eb660a145d4d61867b5fa2329525b888817eba405e7d",
   "projectionRepresentation": "materialized-files",
   "pathEncoding": "sha256-blobs-v1"
 }
