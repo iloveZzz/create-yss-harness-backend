@@ -6,7 +6,7 @@
   "metadataFile": ".yss-harness-backend.json",
   "templateName": "yss-harness-backend-agent",
   "templateSource": "github:iloveZzz/yss-harness-backend-agent",
-  "templateCommit": "6352125444941bbc59fe480d57484a13855fca16",
+  "templateCommit": "58e83602f0d8af3a599fcabf088cfc8a6d1b7883",
   "sourceState": "committed",
   "manifestHash": "188f3c2a97dd2c3a44e3be4a98d3125fbe7ae8e50426cfc7dd769af4d42f2ce6",
   "files": {
@@ -14262,9 +14262,9 @@
     },
     ".template-spec/plan/templates/plan-template.md": {
       "type": "file",
-      "digest": "5c9b66186da4020c5c5c9a21e695ded04090c2e226ca3213b094834759317bed",
+      "digest": "9adeaa2c4325ca5b161406984a8212a35e723f340753dbf8823de470c94340a4",
       "mode": 420,
-      "blob": "blobs/5c9b66186da4020c5c5c9a21e695ded04090c2e226ca3213b094834759317bed"
+      "blob": "blobs/9adeaa2c4325ca5b161406984a8212a35e723f340753dbf8823de470c94340a4"
     },
     ".template-spec/process/backend-delivery-defaults.md": {
       "type": "file",
@@ -31030,6 +31030,11 @@
       "digest": "b9ca61d8480050ae3ffd538cd1428471280d8c46a6d90c217ff211f78c66ec60",
       "mode": 420
     },
+    ".template-spec/plan/templates/plan-template.md": {
+      "type": "file",
+      "digest": "5c9b66186da4020c5c5c9a21e695ded04090c2e226ca3213b094834759317bed",
+      "mode": 420
+    },
     ".template-spec/process/contract-reading.md": {
       "type": "file",
       "digest": "a09d4929a2cf2e57651aa8076d8ebcfc12b0718c891e3a995ccd3d81027803c5",
@@ -31991,8 +31996,8 @@
       "mode": 420
     }
   },
-  "transitionBaselinesHash": "ab74726811f9117a0e55862fe87ea821f5433a002ba9e4655059897b4a718399",
-  "snapshotHash": "dcdaedf77b39a41005a2eb660a145d4d61867b5fa2329525b888817eba405e7d",
+  "transitionBaselinesHash": "c48c801114ffc25e282a6cb6b31cfd67b5c2ae0cee773ba47e972c7899dd7868",
+  "snapshotHash": "3ee6bc6ea36ac88a75800ecba1f2f0f9b07493e4aaa7689293f21cc8914b8c95",
   "projectionRepresentation": "materialized-files",
   "pathEncoding": "sha256-blobs-v1"
 }
